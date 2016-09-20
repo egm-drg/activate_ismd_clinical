@@ -1,0 +1,3312 @@
+code,descript,code_type
+A31.0,Pulm%Myco%Bact,dx_icd10
+A15,tuberculosis,dx_icd10
+A150,tuberculosis,dx_icd10
+A157,tuberculosis,dx_icd10
+A158,tuberculosis,dx_icd10
+A159,tuberculosis,dx_icd10
+A19,tuberculosis,dx_icd10
+A190,tuberculosis,dx_icd10
+A191,tuberculosis,dx_icd10
+A192,tuberculosis,dx_icd10
+A198,tuberculosis,dx_icd10
+A199,tuberculosis,dx_icd10
+A310,pulm%infect,dx_icd10
+B671,infect%lung,dx_icd10
+B90,tuberculosis,dx_icd10
+B909,tuberculosis,dx_icd10
+E84,cystic fibrosis,dx_icd10
+E840,cystic fibrosis,dx_icd10
+E841,cystic fibrosis,dx_icd10
+E8419,cystic fibrosis,dx_icd10
+E848,cystic fibrosis,dx_icd10
+E849,cystic fibrosis,dx_icd10
+H910,oto%tox,dx_icd10
+H9101,oto%tox,dx_icd10
+H9102,oto%tox,dx_icd10
+H9103,oto%tox,dx_icd10
+H9109,oto%tox,dx_icd10
+I120,end%renal,dx_icd10
+I1311,end%renal,dx_icd10
+I132,end%renal,dx_icd10
+I2601,sep%pulm,dx_icd10
+I2690,sep%pulm,dx_icd10
+ICD 10 Code,search_term,dx_icd10
+J06,respiratory%infect,dx_icd10
+J069,respiratory%infect,dx_icd10
+J15,bact%pneumonia,dx_icd10
+J156,pneumonia%bact,dx_icd10
+J158,pneumonia%bact,dx_icd10
+J159,bact%pneumonia,dx_icd10
+J22,respiratory%infect,dx_icd10
+J440,pulm%infect,dx_icd10
+J440,respiratory%infect,dx_icd10
+J47,bronchiectasis,dx_icd10
+J470,bronchiectasis,dx_icd10
+J470,respiratory%infect,dx_icd10
+J471,bronchiectasis,dx_icd10
+J479,bronchiectasis,dx_icd10
+J65,tuberculosis,dx_icd10
+M05,rheumatoid arthritis,dx_icd10
+M051,rheumatoid arthritis,dx_icd10
+M0510,rheumatoid arthritis,dx_icd10
+M0511,rheumatoid arthritis,dx_icd10
+M05111,rheumatoid arthritis,dx_icd10
+M05112,rheumatoid arthritis,dx_icd10
+M05119,rheumatoid arthritis,dx_icd10
+M0512,rheumatoid arthritis,dx_icd10
+M05121,rheumatoid arthritis,dx_icd10
+M05122,rheumatoid arthritis,dx_icd10
+M05129,rheumatoid arthritis,dx_icd10
+M0513,rheumatoid arthritis,dx_icd10
+M05131,rheumatoid arthritis,dx_icd10
+M05132,rheumatoid arthritis,dx_icd10
+M05139,rheumatoid arthritis,dx_icd10
+M0514,rheumatoid arthritis,dx_icd10
+M05141,rheumatoid arthritis,dx_icd10
+M05142,rheumatoid arthritis,dx_icd10
+M05149,rheumatoid arthritis,dx_icd10
+M0515,rheumatoid arthritis,dx_icd10
+M05151,rheumatoid arthritis,dx_icd10
+M05152,rheumatoid arthritis,dx_icd10
+M05159,rheumatoid arthritis,dx_icd10
+M0516,rheumatoid arthritis,dx_icd10
+M05161,rheumatoid arthritis,dx_icd10
+M05162,rheumatoid arthritis,dx_icd10
+M05169,rheumatoid arthritis,dx_icd10
+M0517,rheumatoid arthritis,dx_icd10
+M05171,rheumatoid arthritis,dx_icd10
+M05172,rheumatoid arthritis,dx_icd10
+M05179,rheumatoid arthritis,dx_icd10
+M0519,rheumatoid arthritis,dx_icd10
+M052,rheumatoid arthritis,dx_icd10
+M0520,rheumatoid arthritis,dx_icd10
+M0521,rheumatoid arthritis,dx_icd10
+M05211,rheumatoid arthritis,dx_icd10
+M05212,rheumatoid arthritis,dx_icd10
+M05219,rheumatoid arthritis,dx_icd10
+M0522,rheumatoid arthritis,dx_icd10
+M05221,rheumatoid arthritis,dx_icd10
+M05222,rheumatoid arthritis,dx_icd10
+M05229,rheumatoid arthritis,dx_icd10
+M0523,rheumatoid arthritis,dx_icd10
+M05231,rheumatoid arthritis,dx_icd10
+M05232,rheumatoid arthritis,dx_icd10
+M05239,rheumatoid arthritis,dx_icd10
+M0524,rheumatoid arthritis,dx_icd10
+M05241,rheumatoid arthritis,dx_icd10
+M05242,rheumatoid arthritis,dx_icd10
+M05249,rheumatoid arthritis,dx_icd10
+M0525,rheumatoid arthritis,dx_icd10
+M05251,rheumatoid arthritis,dx_icd10
+M05252,rheumatoid arthritis,dx_icd10
+M05259,rheumatoid arthritis,dx_icd10
+M0526,rheumatoid arthritis,dx_icd10
+M05261,rheumatoid arthritis,dx_icd10
+M05262,rheumatoid arthritis,dx_icd10
+M05269,rheumatoid arthritis,dx_icd10
+M0527,rheumatoid arthritis,dx_icd10
+M05271,rheumatoid arthritis,dx_icd10
+M05272,rheumatoid arthritis,dx_icd10
+M05279,rheumatoid arthritis,dx_icd10
+M0529,rheumatoid arthritis,dx_icd10
+M053,rheumatoid arthritis,dx_icd10
+M0530,rheumatoid arthritis,dx_icd10
+M0531,rheumatoid arthritis,dx_icd10
+M05311,rheumatoid arthritis,dx_icd10
+M05312,rheumatoid arthritis,dx_icd10
+M05319,rheumatoid arthritis,dx_icd10
+M0532,rheumatoid arthritis,dx_icd10
+M05321,rheumatoid arthritis,dx_icd10
+M05322,rheumatoid arthritis,dx_icd10
+M05329,rheumatoid arthritis,dx_icd10
+M0533,rheumatoid arthritis,dx_icd10
+M05331,rheumatoid arthritis,dx_icd10
+M05332,rheumatoid arthritis,dx_icd10
+M05339,rheumatoid arthritis,dx_icd10
+M0534,rheumatoid arthritis,dx_icd10
+M05341,rheumatoid arthritis,dx_icd10
+M05342,rheumatoid arthritis,dx_icd10
+M05349,rheumatoid arthritis,dx_icd10
+M0535,rheumatoid arthritis,dx_icd10
+M05351,rheumatoid arthritis,dx_icd10
+M05352,rheumatoid arthritis,dx_icd10
+M05359,rheumatoid arthritis,dx_icd10
+M0536,rheumatoid arthritis,dx_icd10
+M05361,rheumatoid arthritis,dx_icd10
+M05362,rheumatoid arthritis,dx_icd10
+M05369,rheumatoid arthritis,dx_icd10
+M0537,rheumatoid arthritis,dx_icd10
+M05371,rheumatoid arthritis,dx_icd10
+M05372,rheumatoid arthritis,dx_icd10
+M05379,rheumatoid arthritis,dx_icd10
+M0539,rheumatoid arthritis,dx_icd10
+M054,rheumatoid arthritis,dx_icd10
+M0540,rheumatoid arthritis,dx_icd10
+M0541,rheumatoid arthritis,dx_icd10
+M05411,rheumatoid arthritis,dx_icd10
+M05412,rheumatoid arthritis,dx_icd10
+M05419,rheumatoid arthritis,dx_icd10
+M0542,rheumatoid arthritis,dx_icd10
+M05421,rheumatoid arthritis,dx_icd10
+M05422,rheumatoid arthritis,dx_icd10
+M05429,rheumatoid arthritis,dx_icd10
+M0543,rheumatoid arthritis,dx_icd10
+M05431,rheumatoid arthritis,dx_icd10
+M05432,rheumatoid arthritis,dx_icd10
+M05439,rheumatoid arthritis,dx_icd10
+M0544,rheumatoid arthritis,dx_icd10
+M05441,rheumatoid arthritis,dx_icd10
+M05442,rheumatoid arthritis,dx_icd10
+M05449,rheumatoid arthritis,dx_icd10
+M0545,rheumatoid arthritis,dx_icd10
+M05451,rheumatoid arthritis,dx_icd10
+M05452,rheumatoid arthritis,dx_icd10
+M05459,rheumatoid arthritis,dx_icd10
+M0546,rheumatoid arthritis,dx_icd10
+M05461,rheumatoid arthritis,dx_icd10
+M05462,rheumatoid arthritis,dx_icd10
+M05469,rheumatoid arthritis,dx_icd10
+M0547,rheumatoid arthritis,dx_icd10
+M05471,rheumatoid arthritis,dx_icd10
+M05472,rheumatoid arthritis,dx_icd10
+M05479,rheumatoid arthritis,dx_icd10
+M0549,rheumatoid arthritis,dx_icd10
+M055,rheumatoid arthritis,dx_icd10
+M0550,rheumatoid arthritis,dx_icd10
+M0551,rheumatoid arthritis,dx_icd10
+M05511,rheumatoid arthritis,dx_icd10
+M05512,rheumatoid arthritis,dx_icd10
+M05519,rheumatoid arthritis,dx_icd10
+M0552,rheumatoid arthritis,dx_icd10
+M05521,rheumatoid arthritis,dx_icd10
+M05522,rheumatoid arthritis,dx_icd10
+M05529,rheumatoid arthritis,dx_icd10
+M0553,rheumatoid arthritis,dx_icd10
+M05531,rheumatoid arthritis,dx_icd10
+M05532,rheumatoid arthritis,dx_icd10
+M05539,rheumatoid arthritis,dx_icd10
+M0554,rheumatoid arthritis,dx_icd10
+M05541,rheumatoid arthritis,dx_icd10
+M05542,rheumatoid arthritis,dx_icd10
+M05549,rheumatoid arthritis,dx_icd10
+M0555,rheumatoid arthritis,dx_icd10
+M05551,rheumatoid arthritis,dx_icd10
+M05552,rheumatoid arthritis,dx_icd10
+M05559,rheumatoid arthritis,dx_icd10
+M0556,rheumatoid arthritis,dx_icd10
+M05561,rheumatoid arthritis,dx_icd10
+M05562,rheumatoid arthritis,dx_icd10
+M05569,rheumatoid arthritis,dx_icd10
+M0557,rheumatoid arthritis,dx_icd10
+M05571,rheumatoid arthritis,dx_icd10
+M05572,rheumatoid arthritis,dx_icd10
+M05579,rheumatoid arthritis,dx_icd10
+M0559,rheumatoid arthritis,dx_icd10
+M056,rheumatoid arthritis,dx_icd10
+M0560,rheumatoid arthritis,dx_icd10
+M0561,rheumatoid arthritis,dx_icd10
+M05611,rheumatoid arthritis,dx_icd10
+M05612,rheumatoid arthritis,dx_icd10
+M05619,rheumatoid arthritis,dx_icd10
+M0562,rheumatoid arthritis,dx_icd10
+M05621,rheumatoid arthritis,dx_icd10
+M05622,rheumatoid arthritis,dx_icd10
+M05629,rheumatoid arthritis,dx_icd10
+M0563,rheumatoid arthritis,dx_icd10
+M05631,rheumatoid arthritis,dx_icd10
+M05632,rheumatoid arthritis,dx_icd10
+M05639,rheumatoid arthritis,dx_icd10
+M0564,rheumatoid arthritis,dx_icd10
+M05641,rheumatoid arthritis,dx_icd10
+M05642,rheumatoid arthritis,dx_icd10
+M05649,rheumatoid arthritis,dx_icd10
+M0565,rheumatoid arthritis,dx_icd10
+M05651,rheumatoid arthritis,dx_icd10
+M05652,rheumatoid arthritis,dx_icd10
+M05659,rheumatoid arthritis,dx_icd10
+M0566,rheumatoid arthritis,dx_icd10
+M05661,rheumatoid arthritis,dx_icd10
+M05662,rheumatoid arthritis,dx_icd10
+M05669,rheumatoid arthritis,dx_icd10
+M0567,rheumatoid arthritis,dx_icd10
+M05671,rheumatoid arthritis,dx_icd10
+M05672,rheumatoid arthritis,dx_icd10
+M05679,rheumatoid arthritis,dx_icd10
+M0569,rheumatoid arthritis,dx_icd10
+M057,rheumatoid arthritis,dx_icd10
+M0570,rheumatoid arthritis,dx_icd10
+M0571,rheumatoid arthritis,dx_icd10
+M05711,rheumatoid arthritis,dx_icd10
+M05712,rheumatoid arthritis,dx_icd10
+M05719,rheumatoid arthritis,dx_icd10
+M0572,rheumatoid arthritis,dx_icd10
+M05721,rheumatoid arthritis,dx_icd10
+M05722,rheumatoid arthritis,dx_icd10
+M05729,rheumatoid arthritis,dx_icd10
+M0573,rheumatoid arthritis,dx_icd10
+M05731,rheumatoid arthritis,dx_icd10
+M05732,rheumatoid arthritis,dx_icd10
+M05739,rheumatoid arthritis,dx_icd10
+M0574,rheumatoid arthritis,dx_icd10
+M05741,rheumatoid arthritis,dx_icd10
+M05742,rheumatoid arthritis,dx_icd10
+M05749,rheumatoid arthritis,dx_icd10
+M0575,rheumatoid arthritis,dx_icd10
+M05751,rheumatoid arthritis,dx_icd10
+M05752,rheumatoid arthritis,dx_icd10
+M05759,rheumatoid arthritis,dx_icd10
+M0576,rheumatoid arthritis,dx_icd10
+M05761,rheumatoid arthritis,dx_icd10
+M05762,rheumatoid arthritis,dx_icd10
+M05769,rheumatoid arthritis,dx_icd10
+M0577,rheumatoid arthritis,dx_icd10
+M05771,rheumatoid arthritis,dx_icd10
+M05772,rheumatoid arthritis,dx_icd10
+M05779,rheumatoid arthritis,dx_icd10
+M0579,rheumatoid arthritis,dx_icd10
+M058,rheumatoid arthritis,dx_icd10
+M0580,rheumatoid arthritis,dx_icd10
+M0581,rheumatoid arthritis,dx_icd10
+M05811,rheumatoid arthritis,dx_icd10
+M05812,rheumatoid arthritis,dx_icd10
+M05819,rheumatoid arthritis,dx_icd10
+M0582,rheumatoid arthritis,dx_icd10
+M05821,rheumatoid arthritis,dx_icd10
+M05822,rheumatoid arthritis,dx_icd10
+M05829,rheumatoid arthritis,dx_icd10
+M0583,rheumatoid arthritis,dx_icd10
+M05831,rheumatoid arthritis,dx_icd10
+M05832,rheumatoid arthritis,dx_icd10
+M05839,rheumatoid arthritis,dx_icd10
+M0584,rheumatoid arthritis,dx_icd10
+M05841,rheumatoid arthritis,dx_icd10
+M05842,rheumatoid arthritis,dx_icd10
+M05849,rheumatoid arthritis,dx_icd10
+M0585,rheumatoid arthritis,dx_icd10
+M05851,rheumatoid arthritis,dx_icd10
+M05852,rheumatoid arthritis,dx_icd10
+M05859,rheumatoid arthritis,dx_icd10
+M0586,rheumatoid arthritis,dx_icd10
+M05861,rheumatoid arthritis,dx_icd10
+M05862,rheumatoid arthritis,dx_icd10
+M05869,rheumatoid arthritis,dx_icd10
+M0587,rheumatoid arthritis,dx_icd10
+M05871,rheumatoid arthritis,dx_icd10
+M05872,rheumatoid arthritis,dx_icd10
+M05879,rheumatoid arthritis,dx_icd10
+M0589,rheumatoid arthritis,dx_icd10
+M059,rheumatoid arthritis,dx_icd10
+M06,rheumatoid arthritis,dx_icd10
+M060,rheumatoid arthritis,dx_icd10
+M0600,rheumatoid arthritis,dx_icd10
+M0601,rheumatoid arthritis,dx_icd10
+M06011,rheumatoid arthritis,dx_icd10
+M06012,rheumatoid arthritis,dx_icd10
+M06019,rheumatoid arthritis,dx_icd10
+M0602,rheumatoid arthritis,dx_icd10
+M06021,rheumatoid arthritis,dx_icd10
+M06022,rheumatoid arthritis,dx_icd10
+M06029,rheumatoid arthritis,dx_icd10
+M0603,rheumatoid arthritis,dx_icd10
+M06031,rheumatoid arthritis,dx_icd10
+M06032,rheumatoid arthritis,dx_icd10
+M06039,rheumatoid arthritis,dx_icd10
+M0604,rheumatoid arthritis,dx_icd10
+M06041,rheumatoid arthritis,dx_icd10
+M06042,rheumatoid arthritis,dx_icd10
+M06049,rheumatoid arthritis,dx_icd10
+M0605,rheumatoid arthritis,dx_icd10
+M06051,rheumatoid arthritis,dx_icd10
+M06052,rheumatoid arthritis,dx_icd10
+M06059,rheumatoid arthritis,dx_icd10
+M0606,rheumatoid arthritis,dx_icd10
+M06061,rheumatoid arthritis,dx_icd10
+M06062,rheumatoid arthritis,dx_icd10
+M06069,rheumatoid arthritis,dx_icd10
+M0607,rheumatoid arthritis,dx_icd10
+M06071,rheumatoid arthritis,dx_icd10
+M06072,rheumatoid arthritis,dx_icd10
+M06079,rheumatoid arthritis,dx_icd10
+M0608,rheumatoid arthritis,dx_icd10
+M0609,rheumatoid arthritis,dx_icd10
+M068,rheumatoid arthritis,dx_icd10
+M0680,rheumatoid arthritis,dx_icd10
+M0681,rheumatoid arthritis,dx_icd10
+M06811,rheumatoid arthritis,dx_icd10
+M06812,rheumatoid arthritis,dx_icd10
+M06819,rheumatoid arthritis,dx_icd10
+M0682,rheumatoid arthritis,dx_icd10
+M06821,rheumatoid arthritis,dx_icd10
+M06822,rheumatoid arthritis,dx_icd10
+M06829,rheumatoid arthritis,dx_icd10
+M0683,rheumatoid arthritis,dx_icd10
+M06831,rheumatoid arthritis,dx_icd10
+M06832,rheumatoid arthritis,dx_icd10
+M06839,rheumatoid arthritis,dx_icd10
+M0684,rheumatoid arthritis,dx_icd10
+M06841,rheumatoid arthritis,dx_icd10
+M06842,rheumatoid arthritis,dx_icd10
+M06849,rheumatoid arthritis,dx_icd10
+M0685,rheumatoid arthritis,dx_icd10
+M06851,rheumatoid arthritis,dx_icd10
+M06852,rheumatoid arthritis,dx_icd10
+M06859,rheumatoid arthritis,dx_icd10
+M0686,rheumatoid arthritis,dx_icd10
+M06861,rheumatoid arthritis,dx_icd10
+M06862,rheumatoid arthritis,dx_icd10
+M06869,rheumatoid arthritis,dx_icd10
+M0687,rheumatoid arthritis,dx_icd10
+M06871,rheumatoid arthritis,dx_icd10
+M06872,rheumatoid arthritis,dx_icd10
+M06879,rheumatoid arthritis,dx_icd10
+M0688,rheumatoid arthritis,dx_icd10
+M0689,rheumatoid arthritis,dx_icd10
+M069,rheumatoid arthritis,dx_icd10
+M080,rheumatoid arthritis,dx_icd10
+M0800,rheumatoid arthritis,dx_icd10
+M0801,rheumatoid arthritis,dx_icd10
+M08011,rheumatoid arthritis,dx_icd10
+M08012,rheumatoid arthritis,dx_icd10
+M08019,rheumatoid arthritis,dx_icd10
+M0802,rheumatoid arthritis,dx_icd10
+M08021,rheumatoid arthritis,dx_icd10
+M08022,rheumatoid arthritis,dx_icd10
+M08029,rheumatoid arthritis,dx_icd10
+M0803,rheumatoid arthritis,dx_icd10
+M08031,rheumatoid arthritis,dx_icd10
+M08032,rheumatoid arthritis,dx_icd10
+M08039,rheumatoid arthritis,dx_icd10
+M0804,rheumatoid arthritis,dx_icd10
+M08041,rheumatoid arthritis,dx_icd10
+M08042,rheumatoid arthritis,dx_icd10
+M08049,rheumatoid arthritis,dx_icd10
+M0805,rheumatoid arthritis,dx_icd10
+M08051,rheumatoid arthritis,dx_icd10
+M08052,rheumatoid arthritis,dx_icd10
+M08059,rheumatoid arthritis,dx_icd10
+M0806,rheumatoid arthritis,dx_icd10
+M08061,rheumatoid arthritis,dx_icd10
+M08062,rheumatoid arthritis,dx_icd10
+M08069,rheumatoid arthritis,dx_icd10
+M0807,rheumatoid arthritis,dx_icd10
+M08071,rheumatoid arthritis,dx_icd10
+M08072,rheumatoid arthritis,dx_icd10
+M08079,rheumatoid arthritis,dx_icd10
+M0808,rheumatoid arthritis,dx_icd10
+M0809,rheumatoid arthritis,dx_icd10
+M082,rheumatoid arthritis,dx_icd10
+M0820,rheumatoid arthritis,dx_icd10
+M0821,rheumatoid arthritis,dx_icd10
+M08211,rheumatoid arthritis,dx_icd10
+M08212,rheumatoid arthritis,dx_icd10
+M08219,rheumatoid arthritis,dx_icd10
+M0822,rheumatoid arthritis,dx_icd10
+M08221,rheumatoid arthritis,dx_icd10
+M08222,rheumatoid arthritis,dx_icd10
+M08229,rheumatoid arthritis,dx_icd10
+M0823,rheumatoid arthritis,dx_icd10
+M08231,rheumatoid arthritis,dx_icd10
+M08232,rheumatoid arthritis,dx_icd10
+M08239,rheumatoid arthritis,dx_icd10
+M0824,rheumatoid arthritis,dx_icd10
+M08241,rheumatoid arthritis,dx_icd10
+M08242,rheumatoid arthritis,dx_icd10
+M08249,rheumatoid arthritis,dx_icd10
+M0825,rheumatoid arthritis,dx_icd10
+M08251,rheumatoid arthritis,dx_icd10
+M08252,rheumatoid arthritis,dx_icd10
+M08259,rheumatoid arthritis,dx_icd10
+M0826,rheumatoid arthritis,dx_icd10
+M08261,rheumatoid arthritis,dx_icd10
+M08262,rheumatoid arthritis,dx_icd10
+M08269,rheumatoid arthritis,dx_icd10
+M0827,rheumatoid arthritis,dx_icd10
+M08271,rheumatoid arthritis,dx_icd10
+M08272,rheumatoid arthritis,dx_icd10
+M08279,rheumatoid arthritis,dx_icd10
+M0828,rheumatoid arthritis,dx_icd10
+M0829,rheumatoid arthritis,dx_icd10
+M084,rheumatoid arthritis,dx_icd10
+M0840,rheumatoid arthritis,dx_icd10
+M0841,rheumatoid arthritis,dx_icd10
+M08411,rheumatoid arthritis,dx_icd10
+M08412,rheumatoid arthritis,dx_icd10
+M08419,rheumatoid arthritis,dx_icd10
+M0842,rheumatoid arthritis,dx_icd10
+M08421,rheumatoid arthritis,dx_icd10
+M08422,rheumatoid arthritis,dx_icd10
+M08429,rheumatoid arthritis,dx_icd10
+M0843,rheumatoid arthritis,dx_icd10
+M08431,rheumatoid arthritis,dx_icd10
+M08432,rheumatoid arthritis,dx_icd10
+M08439,rheumatoid arthritis,dx_icd10
+M0844,rheumatoid arthritis,dx_icd10
+M08441,rheumatoid arthritis,dx_icd10
+M08442,rheumatoid arthritis,dx_icd10
+M08449,rheumatoid arthritis,dx_icd10
+M0845,rheumatoid arthritis,dx_icd10
+M08451,rheumatoid arthritis,dx_icd10
+M08452,rheumatoid arthritis,dx_icd10
+M08459,rheumatoid arthritis,dx_icd10
+M0846,rheumatoid arthritis,dx_icd10
+M08461,rheumatoid arthritis,dx_icd10
+M08462,rheumatoid arthritis,dx_icd10
+M08469,rheumatoid arthritis,dx_icd10
+M0847,rheumatoid arthritis,dx_icd10
+M08471,rheumatoid arthritis,dx_icd10
+M08472,rheumatoid arthritis,dx_icd10
+M08479,rheumatoid arthritis,dx_icd10
+M0848,rheumatoid arthritis,dx_icd10
+M41,scoliosis,dx_icd10
+M410,scoliosis,dx_icd10
+M4100,scoliosis,dx_icd10
+M4102,scoliosis,dx_icd10
+M4103,scoliosis,dx_icd10
+M4104,scoliosis,dx_icd10
+M4105,scoliosis,dx_icd10
+M4106,scoliosis,dx_icd10
+M4107,scoliosis,dx_icd10
+M4108,scoliosis,dx_icd10
+M411,scoliosis,dx_icd10
+M4111,scoliosis,dx_icd10
+M41112,scoliosis,dx_icd10
+M41113,scoliosis,dx_icd10
+M41114,scoliosis,dx_icd10
+M41115,scoliosis,dx_icd10
+M41116,scoliosis,dx_icd10
+M41117,scoliosis,dx_icd10
+M41119,scoliosis,dx_icd10
+M4112,scoliosis,dx_icd10
+M41122,scoliosis,dx_icd10
+M41123,scoliosis,dx_icd10
+M41124,scoliosis,dx_icd10
+M41125,scoliosis,dx_icd10
+M41126,scoliosis,dx_icd10
+M41127,scoliosis,dx_icd10
+M41129,scoliosis,dx_icd10
+M412,scoliosis,dx_icd10
+M4120,scoliosis,dx_icd10
+M4122,scoliosis,dx_icd10
+M4123,scoliosis,dx_icd10
+M4124,scoliosis,dx_icd10
+M4125,scoliosis,dx_icd10
+M4126,scoliosis,dx_icd10
+M4127,scoliosis,dx_icd10
+M413,scoliosis,dx_icd10
+M4130,scoliosis,dx_icd10
+M4134,scoliosis,dx_icd10
+M4135,scoliosis,dx_icd10
+M414,scoliosis,dx_icd10
+M4140,scoliosis,dx_icd10
+M4141,scoliosis,dx_icd10
+M4142,scoliosis,dx_icd10
+M4143,scoliosis,dx_icd10
+M4144,scoliosis,dx_icd10
+M4145,scoliosis,dx_icd10
+M4146,scoliosis,dx_icd10
+M4147,scoliosis,dx_icd10
+M415,scoliosis,dx_icd10
+M4150,scoliosis,dx_icd10
+M4152,scoliosis,dx_icd10
+M4153,scoliosis,dx_icd10
+M4154,scoliosis,dx_icd10
+M4155,scoliosis,dx_icd10
+M4156,scoliosis,dx_icd10
+M4157,scoliosis,dx_icd10
+M418,scoliosis,dx_icd10
+M4180,scoliosis,dx_icd10
+M4182,scoliosis,dx_icd10
+M4183,scoliosis,dx_icd10
+M4184,scoliosis,dx_icd10
+M4185,scoliosis,dx_icd10
+M4186,scoliosis,dx_icd10
+M4187,scoliosis,dx_icd10
+M419,scoliosis,dx_icd10
+M965,scoliosis,dx_icd10
+N186,end%renal,dx_icd10
+P236,pneumonia%bact,dx_icd10
+P370,tuberculosis,dx_icd10
+Q334,bronchiectasis,dx_icd10
+Q763,scoliosis,dx_icd10
+Q764,scoliosis,dx_icd10
+Q7649,scoliosis,dx_icd10
+Q874,marfan,dx_icd10
+Q8740,marfan,dx_icd10
+Q8741,marfan,dx_icd10
+Q87410,marfan,dx_icd10
+Q87418,marfan,dx_icd10
+Q8742,marfan,dx_icd10
+Q8743,marfan,dx_icd10
+T8633,lung%infect,dx_icd10
+T86812,lung%infect,dx_icd10
+Z4782,scoliosis,dx_icd10
+Z992,end%renal,dx_icd10
+031.0,Pulm%Myco%Bact,dx_icd9
+01150,bronchiectasis,dx_icd9
+01151,bronchiectasis,dx_icd9
+01152,bronchiectasis,dx_icd9
+01153,bronchiectasis,dx_icd9
+01154,bronchiectasis,dx_icd9
+01155,bronchiectasis,dx_icd9
+01156,bronchiectasis,dx_icd9
+4940,bronchiectasis,dx_icd9
+4941,bronchiectasis,dx_icd9
+74861,bronchiectasis,dx_icd9
+27700,cystic fibrosis,dx_icd9
+27701,cystic fibrosis,dx_icd9
+27702,cystic fibrosis,dx_icd9
+27703,cystic fibrosis,dx_icd9
+27709,cystic fibrosis,dx_icd9
+01005,tuberculosis,dx_icd9
+01006,tuberculosis,dx_icd9
+01010,tuberculosis,dx_icd9
+01011,tuberculosis,dx_icd9
+01012,tuberculosis,dx_icd9
+01013,tuberculosis,dx_icd9
+01014,tuberculosis,dx_icd9
+01015,tuberculosis,dx_icd9
+01016,tuberculosis,dx_icd9
+01080,tuberculosis,dx_icd9
+01081,tuberculosis,dx_icd9
+01082,tuberculosis,dx_icd9
+01083,tuberculosis,dx_icd9
+01084,tuberculosis,dx_icd9
+01085,tuberculosis,dx_icd9
+01086,tuberculosis,dx_icd9
+01095,tuberculosis,dx_icd9
+01096,tuberculosis,dx_icd9
+01100,tuberculosis,dx_icd9
+01101,tuberculosis,dx_icd9
+01102,tuberculosis,dx_icd9
+01103,tuberculosis,dx_icd9
+01104,tuberculosis,dx_icd9
+01105,tuberculosis,dx_icd9
+01106,tuberculosis,dx_icd9
+01110,tuberculosis,dx_icd9
+01111,tuberculosis,dx_icd9
+01112,tuberculosis,dx_icd9
+01113,tuberculosis,dx_icd9
+01114,tuberculosis,dx_icd9
+01115,tuberculosis,dx_icd9
+01116,tuberculosis,dx_icd9
+01120,tuberculosis_lungdamage,dx_icd9
+01121,tuberculosis_lungdamage,dx_icd9
+01122,tuberculosis_lungdamage,dx_icd9
+01123,tuberculosis_lungdamage,dx_icd9
+01124,tuberculosis_lungdamage,dx_icd9
+01125,tuberculosis_lungdamage,dx_icd9
+01126,tuberculosis_lungdamage,dx_icd9
+01130,tuberculosis,dx_icd9
+01131,tuberculosis,dx_icd9
+01132,tuberculosis,dx_icd9
+01133,tuberculosis,dx_icd9
+01134,tuberculosis,dx_icd9
+01135,tuberculosis,dx_icd9
+01136,tuberculosis,dx_icd9
+01145,tuberculosis_lungdamage,dx_icd9
+01146,tuberculosis_lungdamage,dx_icd9
+01180,tuberculosis,dx_icd9
+01181,tuberculosis,dx_icd9
+01182,tuberculosis,dx_icd9
+01183,tuberculosis,dx_icd9
+01184,tuberculosis,dx_icd9
+01185,tuberculosis,dx_icd9
+01186,tuberculosis,dx_icd9
+01190,tuberculosis,dx_icd9
+01191,tuberculosis,dx_icd9
+01192,tuberculosis,dx_icd9
+01193,tuberculosis,dx_icd9
+01194,tuberculosis,dx_icd9
+01195,tuberculosis,dx_icd9
+01196,tuberculosis,dx_icd9
+01205,tuberculosis,dx_icd9
+01206,tuberculosis,dx_icd9
+01280,tuberculosis,dx_icd9
+01281,tuberculosis,dx_icd9
+01282,tuberculosis,dx_icd9
+01283,tuberculosis,dx_icd9
+01284,tuberculosis,dx_icd9
+01285,tuberculosis,dx_icd9
+01286,tuberculosis,dx_icd9
+01800,tuberculosis,dx_icd9
+01801,tuberculosis,dx_icd9
+01802,tuberculosis,dx_icd9
+01803,tuberculosis,dx_icd9
+01804,tuberculosis,dx_icd9
+01805,tuberculosis,dx_icd9
+01806,tuberculosis,dx_icd9
+01880,tuberculosis,dx_icd9
+01881,tuberculosis,dx_icd9
+01882,tuberculosis,dx_icd9
+01883,tuberculosis,dx_icd9
+01884,tuberculosis,dx_icd9
+01885,tuberculosis,dx_icd9
+01886,tuberculosis,dx_icd9
+01890,tuberculosis,dx_icd9
+01891,tuberculosis,dx_icd9
+01892,tuberculosis,dx_icd9
+01893,tuberculosis,dx_icd9
+01894,tuberculosis,dx_icd9
+01895,tuberculosis,dx_icd9
+01896,tuberculosis,dx_icd9
+1370,tuberculosis,dx_icd9
+0391,pulm%infect,dx_icd9
+1221,infect%lung,dx_icd9
+01161,pneumonia%bact,dx_icd9
+01162,pneumonia%bact,dx_icd9
+01164,pneumonia%bact,dx_icd9
+01165,pneumonia%bact,dx_icd9
+01166,pneumonia%bact,dx_icd9
+48283,pneumonia%bact,dx_icd9
+48289,pneumonia%bact,dx_icd9
+4829,bact%pneumonia,dx_icd9
+4658,respiratory%infect,dx_icd9
+4659,respiratory%infect,dx_icd9
+7140,rheumatoid arthritis,dx_icd9
+7142,rheumatoid arthritis,dx_icd9
+71430,rheumatoid arthritis,dx_icd9
+71431,rheumatoid arthritis,dx_icd9
+71432,rheumatoid arthritis,dx_icd9
+71433,rheumatoid arthritis,dx_icd9
+V821,rheumatoid arthritis,dx_icd9
+75982,marfan,dx_icd9
+73730,scoliosis,dx_icd9
+73731,scoliosis,dx_icd9
+73732,scoliosis,dx_icd9
+73733,scoliosis,dx_icd9
+73734,scoliosis,dx_icd9
+73739,scoliosis,dx_icd9
+73743,scoliosis,dx_icd9
+40301,end%renal,dx_icd9
+40311,end%renal,dx_icd9
+40391,end%renal,dx_icd9
+40402,end%renal,dx_icd9
+40403,end%renal,dx_icd9
+40412,end%renal,dx_icd9
+40413,end%renal,dx_icd9
+40492,end%renal,dx_icd9
+40493,end%renal,dx_icd9
+5856,end%renal,dx_icd9
+24240,oto%tox,dx_icd9
+24241,oto%tox,dx_icd9
+24280,oto%tox,dx_icd9
+24281,oto%tox,dx_icd9
+24290,oto%tox,dx_icd9
+24291,oto%tox,dx_icd9
+J0456,azithromycin,px_hcpcs
+Q0144,azithromycin,px_hcpcs
+J1956,levofloxacin,px_hcpcs
+J2280,moxifloxacin,px_hcpcs
+G9313,amoxicillin,px_hcpcs
+G9314,amoxicillin,px_hcpcs
+G9315,amoxicillin,px_hcpcs
+G9313,clavulanate,px_hcpcs
+G9314,clavulanate,px_hcpcs
+G9315,clavulanate,px_hcpcs
+4041F,cefuroxime,px_hcpcs
+J0697,cefuroxime,px_hcpcs
+J0744,ciprofloxacin,px_hcpcs
+S0039,sulf%trimethoprim,px_hcpcs
+J2020,linezolid,px_hcpcs
+S0030,metronidazole,px_hcpcs
+S0077,clindamycin,px_hcpcs
+0143-9768,ceftriaxone,rx_ncd
+0143-9856,ceftriaxone,rx_ncd
+0143-9857,ceftriaxone,rx_ncd
+0143-9858,ceftriaxone,rx_ncd
+0143-9859,ceftriaxone,rx_ncd
+0264-3153,ceftriaxone,rx_ncd
+0264-3155,ceftriaxone,rx_ncd
+0338-5002,ceftriaxone,rx_ncd
+0338-5003,ceftriaxone,rx_ncd
+0409-0807,ceftriaxone,rx_ncd
+0409-0808,ceftriaxone,rx_ncd
+0409-7332,ceftriaxone,rx_ncd
+0409-7333,ceftriaxone,rx_ncd
+0409-7334,ceftriaxone,rx_ncd
+0409-7335,ceftriaxone,rx_ncd
+0409-7336,ceftriaxone,rx_ncd
+0409-7337,ceftriaxone,rx_ncd
+0409-7338,ceftriaxone,rx_ncd
+0781-3206,ceftriaxone,rx_ncd
+0781-3207,ceftriaxone,rx_ncd
+0781-3208,ceftriaxone,rx_ncd
+0781-3209,ceftriaxone,rx_ncd
+0781-3210,ceftriaxone,rx_ncd
+0781-9326,ceftriaxone,rx_ncd
+0781-9327,ceftriaxone,rx_ncd
+0781-9328,ceftriaxone,rx_ncd
+0781-9329,ceftriaxone,rx_ncd
+10019-098,ceftriaxone,rx_ncd
+21695-202,ceftriaxone,rx_ncd
+21695-352,ceftriaxone,rx_ncd
+25021-105,ceftriaxone,rx_ncd
+25021-106,ceftriaxone,rx_ncd
+25021-107,ceftriaxone,rx_ncd
+25021-108,ceftriaxone,rx_ncd
+42254-152,ceftriaxone,rx_ncd
+42254-191,ceftriaxone,rx_ncd
+44567-700,ceftriaxone,rx_ncd
+44567-701,ceftriaxone,rx_ncd
+44567-702,ceftriaxone,rx_ncd
+44567-703,ceftriaxone,rx_ncd
+49349-835,ceftriaxone,rx_ncd
+52125-546,ceftriaxone,rx_ncd
+52125-680,ceftriaxone,rx_ncd
+52125-749,ceftriaxone,rx_ncd
+52125-774,ceftriaxone,rx_ncd
+52125-842,ceftriaxone,rx_ncd
+54868-5533,ceftriaxone,rx_ncd
+54868-5589,ceftriaxone,rx_ncd
+55154-0375,ceftriaxone,rx_ncd
+55154-3430,ceftriaxone,rx_ncd
+55154-3431,ceftriaxone,rx_ncd
+55154-5446,ceftriaxone,rx_ncd
+55154-5449,ceftriaxone,rx_ncd
+55154-6954,ceftriaxone,rx_ncd
+55154-6956,ceftriaxone,rx_ncd
+55154-6957,ceftriaxone,rx_ncd
+55154-6958,ceftriaxone,rx_ncd
+55154-6962,ceftriaxone,rx_ncd
+55648-701,ceftriaxone,rx_ncd
+55648-702,ceftriaxone,rx_ncd
+55648-703,ceftriaxone,rx_ncd
+55648-983,ceftriaxone,rx_ncd
+60505-0679,ceftriaxone,rx_ncd
+60505-0750,ceftriaxone,rx_ncd
+60505-0751,ceftriaxone,rx_ncd
+60505-0752,ceftriaxone,rx_ncd
+60505-0753,ceftriaxone,rx_ncd
+60505-6087,ceftriaxone,rx_ncd
+60505-6088,ceftriaxone,rx_ncd
+60505-6102,ceftriaxone,rx_ncd
+60505-6103,ceftriaxone,rx_ncd
+60505-6104,ceftriaxone,rx_ncd
+61786-029,ceftriaxone,rx_ncd
+61786-270,ceftriaxone,rx_ncd
+61786-379,ceftriaxone,rx_ncd
+61786-392,ceftriaxone,rx_ncd
+63187-435,ceftriaxone,rx_ncd
+63323-344,ceftriaxone,rx_ncd
+63323-345,ceftriaxone,rx_ncd
+63323-346,ceftriaxone,rx_ncd
+63323-347,ceftriaxone,rx_ncd
+63323-348,ceftriaxone,rx_ncd
+64679-701,ceftriaxone,rx_ncd
+64679-702,ceftriaxone,rx_ncd
+64679-703,ceftriaxone,rx_ncd
+64679-983,ceftriaxone,rx_ncd
+66288-6100,ceftriaxone,rx_ncd
+68180-611,ceftriaxone,rx_ncd
+68180-622,ceftriaxone,rx_ncd
+68180-633,ceftriaxone,rx_ncd
+68180-644,ceftriaxone,rx_ncd
+68180-655,ceftriaxone,rx_ncd
+68330-001,ceftriaxone,rx_ncd
+68330-002,ceftriaxone,rx_ncd
+68330-003,ceftriaxone,rx_ncd
+68330-004,ceftriaxone,rx_ncd
+68330-005,ceftriaxone,rx_ncd
+68330-006,ceftriaxone,rx_ncd
+76126-007,ceftriaxone,rx_ncd
+0069-0400,azithromycin,rx_ncd
+0069-3051,azithromycin,rx_ncd
+0069-3060,azithromycin,rx_ncd
+0069-3070,azithromycin,rx_ncd
+0069-3080,azithromycin,rx_ncd
+0069-3110,azithromycin,rx_ncd
+0069-3120,azithromycin,rx_ncd
+0069-3130,azithromycin,rx_ncd
+0069-3140,azithromycin,rx_ncd
+0069-3150,azithromycin,rx_ncd
+0069-4170,azithromycin,rx_ncd
+0093-2026,azithromycin,rx_ncd
+0093-2027,azithromycin,rx_ncd
+0093-7146,azithromycin,rx_ncd
+0093-7147,azithromycin,rx_ncd
+0093-7148,azithromycin,rx_ncd
+0093-7149,azithromycin,rx_ncd
+0093-7169,azithromycin,rx_ncd
+0179-0033,azithromycin,rx_ncd
+0409-0144,azithromycin,rx_ncd
+0781-1496,azithromycin,rx_ncd
+0781-1497,azithromycin,rx_ncd
+0781-1941,azithromycin,rx_ncd
+0904-6010,azithromycin,rx_ncd
+10019-648,azithromycin,rx_ncd
+16590-383,azithromycin,rx_ncd
+17478-307,azithromycin,rx_ncd
+21695-012,azithromycin,rx_ncd
+21695-013,azithromycin,rx_ncd
+21695-444,azithromycin,rx_ncd
+21695-548,azithromycin,rx_ncd
+21695-549,azithromycin,rx_ncd
+24236-671,azithromycin,rx_ncd
+24236-906,azithromycin,rx_ncd
+25021-112,azithromycin,rx_ncd
+33261-403,azithromycin,rx_ncd
+33261-879,azithromycin,rx_ncd
+33358-040,azithromycin,rx_ncd
+35356-017,azithromycin,rx_ncd
+35356-704,azithromycin,rx_ncd
+35356-798,azithromycin,rx_ncd
+43063-090,azithromycin,rx_ncd
+43063-506,azithromycin,rx_ncd
+43063-524,azithromycin,rx_ncd
+43063-540,azithromycin,rx_ncd
+43063-568,azithromycin,rx_ncd
+43063-572,azithromycin,rx_ncd
+43353-693,azithromycin,rx_ncd
+45865-536,azithromycin,rx_ncd
+49349-070,azithromycin,rx_ncd
+49349-685,azithromycin,rx_ncd
+49349-743,azithromycin,rx_ncd
+49349-881,azithromycin,rx_ncd
+49999-786,azithromycin,rx_ncd
+50111-787,azithromycin,rx_ncd
+50111-788,azithromycin,rx_ncd
+50111-794,azithromycin,rx_ncd
+50268-098,azithromycin,rx_ncd
+50268-099,azithromycin,rx_ncd
+50268-100,azithromycin,rx_ncd
+50268-101,azithromycin,rx_ncd
+50436-4356,azithromycin,rx_ncd
+50436-4357,azithromycin,rx_ncd
+52125-020,azithromycin,rx_ncd
+52125-068,azithromycin,rx_ncd
+52125-212,azithromycin,rx_ncd
+52125-267,azithromycin,rx_ncd
+52125-539,azithromycin,rx_ncd
+52125-699,azithromycin,rx_ncd
+52125-700,azithromycin,rx_ncd
+52125-748,azithromycin,rx_ncd
+52125-751,azithromycin,rx_ncd
+52125-787,azithromycin,rx_ncd
+52125-844,azithromycin,rx_ncd
+52959-838,azithromycin,rx_ncd
+53217-173,azithromycin,rx_ncd
+54569-4497,azithromycin,rx_ncd
+54569-5754,azithromycin,rx_ncd
+54569-5804,azithromycin,rx_ncd
+54569-6204,azithromycin,rx_ncd
+54868-3648,azithromycin,rx_ncd
+54868-5471,azithromycin,rx_ncd
+54868-5478,azithromycin,rx_ncd
+54868-5487,azithromycin,rx_ncd
+54868-5647,azithromycin,rx_ncd
+54868-5648,azithromycin,rx_ncd
+54868-5938,azithromycin,rx_ncd
+54868-6348,azithromycin,rx_ncd
+55045-3693,azithromycin,rx_ncd
+55150-174,azithromycin,rx_ncd
+55154-0525,azithromycin,rx_ncd
+55154-2062,azithromycin,rx_ncd
+55154-2713,azithromycin,rx_ncd
+55154-3432,azithromycin,rx_ncd
+55154-4327,azithromycin,rx_ncd
+55154-4333,azithromycin,rx_ncd
+55154-4986,azithromycin,rx_ncd
+55154-5759,azithromycin,rx_ncd
+55154-9382,azithromycin,rx_ncd
+55154-9385,azithromycin,rx_ncd
+55289-274,azithromycin,rx_ncd
+55289-310,azithromycin,rx_ncd
+55289-964,azithromycin,rx_ncd
+55648-961,azithromycin,rx_ncd
+55648-962,azithromycin,rx_ncd
+55648-964,azithromycin,rx_ncd
+55695-002,azithromycin,rx_ncd
+55695-003,azithromycin,rx_ncd
+55695-006,azithromycin,rx_ncd
+55695-028,azithromycin,rx_ncd
+55695-029,azithromycin,rx_ncd
+57297-160,azithromycin,rx_ncd
+57297-161,azithromycin,rx_ncd
+57297-162,azithromycin,rx_ncd
+58118-0020,azithromycin,rx_ncd
+58118-0038,azithromycin,rx_ncd
+58118-7147,azithromycin,rx_ncd
+58118-7169,azithromycin,rx_ncd
+59762-3051,azithromycin,rx_ncd
+59762-3060,azithromycin,rx_ncd
+59762-3070,azithromycin,rx_ncd
+59762-3080,azithromycin,rx_ncd
+59762-3110,azithromycin,rx_ncd
+59762-3120,azithromycin,rx_ncd
+59762-3130,azithromycin,rx_ncd
+59762-3140,azithromycin,rx_ncd
+60505-2581,azithromycin,rx_ncd
+60505-2582,azithromycin,rx_ncd
+60505-2583,azithromycin,rx_ncd
+60505-6076,azithromycin,rx_ncd
+61786-133,azithromycin,rx_ncd
+61786-176,azithromycin,rx_ncd
+61786-183,azithromycin,rx_ncd
+61786-265,azithromycin,rx_ncd
+61786-273,azithromycin,rx_ncd
+61786-663,azithromycin,rx_ncd
+61919-260,azithromycin,rx_ncd
+61919-362,azithromycin,rx_ncd
+61919-382,azithromycin,rx_ncd
+61919-383,azithromycin,rx_ncd
+62756-512,azithromycin,rx_ncd
+62980-961,azithromycin,rx_ncd
+62980-962,azithromycin,rx_ncd
+62980-964,azithromycin,rx_ncd
+63187-007,azithromycin,rx_ncd
+63187-093,azithromycin,rx_ncd
+63187-169,azithromycin,rx_ncd
+63187-189,azithromycin,rx_ncd
+63187-284,azithromycin,rx_ncd
+63187-594,azithromycin,rx_ncd
+63187-604,azithromycin,rx_ncd
+63187-622,azithromycin,rx_ncd
+63323-398,azithromycin,rx_ncd
+63739-575,azithromycin,rx_ncd
+64679-961,azithromycin,rx_ncd
+64679-962,azithromycin,rx_ncd
+64679-964,azithromycin,rx_ncd
+66116-418,azithromycin,rx_ncd
+66116-509,azithromycin,rx_ncd
+66116-524,azithromycin,rx_ncd
+66336-168,azithromycin,rx_ncd
+68083-199,azithromycin,rx_ncd
+68084-278,azithromycin,rx_ncd
+68084-279,azithromycin,rx_ncd
+68084-663,azithromycin,rx_ncd
+68084-906,azithromycin,rx_ncd
+68084-913,azithromycin,rx_ncd
+68084-920,azithromycin,rx_ncd
+68180-160,azithromycin,rx_ncd
+68180-161,azithromycin,rx_ncd
+68180-162,azithromycin,rx_ncd
+68258-3012,azithromycin,rx_ncd
+68258-3051,azithromycin,rx_ncd
+68788-0713,azithromycin,rx_ncd
+68788-8939,azithromycin,rx_ncd
+68788-8947,azithromycin,rx_ncd
+68788-9038,azithromycin,rx_ncd
+68788-9045,azithromycin,rx_ncd
+68788-9046,azithromycin,rx_ncd
+68788-9077,azithromycin,rx_ncd
+68788-9078,azithromycin,rx_ncd
+68788-9311,azithromycin,rx_ncd
+68788-9521,azithromycin,rx_ncd
+68788-9529,azithromycin,rx_ncd
+68788-9958,azithromycin,rx_ncd
+68788-9959,azithromycin,rx_ncd
+68788-9977,azithromycin,rx_ncd
+69189-1496,azithromycin,rx_ncd
+76413-101,azithromycin,rx_ncd
+0093-7291,levofloxacin,rx_ncd
+0093-7292,levofloxacin,rx_ncd
+0093-7293,levofloxacin,rx_ncd
+0143-9720,levofloxacin,rx_ncd
+0143-9721,levofloxacin,rx_ncd
+0143-9722,levofloxacin,rx_ncd
+0143-9775,levofloxacin,rx_ncd
+0143-9776,levofloxacin,rx_ncd
+0143-9777,levofloxacin,rx_ncd
+0409-0528,levofloxacin,rx_ncd
+0781-3341,levofloxacin,rx_ncd
+0781-3342,levofloxacin,rx_ncd
+0781-3343,levofloxacin,rx_ncd
+0781-5790,levofloxacin,rx_ncd
+0781-5791,levofloxacin,rx_ncd
+0781-5792,levofloxacin,rx_ncd
+0904-6249,levofloxacin,rx_ncd
+0904-6250,levofloxacin,rx_ncd
+0904-6251,levofloxacin,rx_ncd
+0904-6351,levofloxacin,rx_ncd
+0904-6352,levofloxacin,rx_ncd
+0904-6353,levofloxacin,rx_ncd
+10147-0941,levofloxacin,rx_ncd
+10544-143,levofloxacin,rx_ncd
+10544-245,levofloxacin,rx_ncd
+10544-451,levofloxacin,rx_ncd
+10544-558,levofloxacin,rx_ncd
+10544-624,levofloxacin,rx_ncd
+10544-906,levofloxacin,rx_ncd
+12634-675,levofloxacin,rx_ncd
+13668-082,levofloxacin,rx_ncd
+13668-083,levofloxacin,rx_ncd
+13668-084,levofloxacin,rx_ncd
+16571-150,levofloxacin,rx_ncd
+16590-992,levofloxacin,rx_ncd
+17478-106,levofloxacin,rx_ncd
+17478-107,levofloxacin,rx_ncd
+21695-024,levofloxacin,rx_ncd
+21695-027,levofloxacin,rx_ncd
+21695-041,levofloxacin,rx_ncd
+21695-464,levofloxacin,rx_ncd
+21695-519,levofloxacin,rx_ncd
+23155-201,levofloxacin,rx_ncd
+25021-130,levofloxacin,rx_ncd
+25021-132,levofloxacin,rx_ncd
+25021-825,levofloxacin,rx_ncd
+31722-721,levofloxacin,rx_ncd
+31722-722,levofloxacin,rx_ncd
+31722-723,levofloxacin,rx_ncd
+33261-793,levofloxacin,rx_ncd
+33261-876,levofloxacin,rx_ncd
+33261-891,levofloxacin,rx_ncd
+33342-021,levofloxacin,rx_ncd
+33342-022,levofloxacin,rx_ncd
+33342-023,levofloxacin,rx_ncd
+35356-760,levofloxacin,rx_ncd
+35356-783,levofloxacin,rx_ncd
+35356-877,levofloxacin,rx_ncd
+35356-923,levofloxacin,rx_ncd
+36000-045,levofloxacin,rx_ncd
+36000-046,levofloxacin,rx_ncd
+36000-047,levofloxacin,rx_ncd
+36000-048,levofloxacin,rx_ncd
+42291-370,levofloxacin,rx_ncd
+42291-371,levofloxacin,rx_ncd
+42291-372,levofloxacin,rx_ncd
+43063-113,levofloxacin,rx_ncd
+43063-323,levofloxacin,rx_ncd
+43063-324,levofloxacin,rx_ncd
+43063-378,levofloxacin,rx_ncd
+43063-457,levofloxacin,rx_ncd
+43063-459,levofloxacin,rx_ncd
+43063-635,levofloxacin,rx_ncd
+43063-637,levofloxacin,rx_ncd
+43063-638,levofloxacin,rx_ncd
+44567-435,levofloxacin,rx_ncd
+44567-436,levofloxacin,rx_ncd
+44567-437,levofloxacin,rx_ncd
+45865-758,levofloxacin,rx_ncd
+49999-418,levofloxacin,rx_ncd
+50383-283,levofloxacin,rx_ncd
+50383-286,levofloxacin,rx_ncd
+50436-6585,levofloxacin,rx_ncd
+50458-166,levofloxacin,rx_ncd
+50458-167,levofloxacin,rx_ncd
+50458-168,levofloxacin,rx_ncd
+50458-170,levofloxacin,rx_ncd
+50458-920,levofloxacin,rx_ncd
+50458-925,levofloxacin,rx_ncd
+50458-930,levofloxacin,rx_ncd
+51655-249,levofloxacin,rx_ncd
+51655-250,levofloxacin,rx_ncd
+52125-060,levofloxacin,rx_ncd
+52125-258,levofloxacin,rx_ncd
+52125-704,levofloxacin,rx_ncd
+54569-4489,levofloxacin,rx_ncd
+54868-3923,levofloxacin,rx_ncd
+54868-4175,levofloxacin,rx_ncd
+54868-4971,levofloxacin,rx_ncd
+54868-6277,levofloxacin,rx_ncd
+54868-6278,levofloxacin,rx_ncd
+54868-6279,levofloxacin,rx_ncd
+55111-279,levofloxacin,rx_ncd
+55111-280,levofloxacin,rx_ncd
+55111-281,levofloxacin,rx_ncd
+55150-156,levofloxacin,rx_ncd
+55150-157,levofloxacin,rx_ncd
+55150-243,levofloxacin,rx_ncd
+55150-244,levofloxacin,rx_ncd
+55150-245,levofloxacin,rx_ncd
+55154-1925,levofloxacin,rx_ncd
+55154-1926,levofloxacin,rx_ncd
+55154-1927,levofloxacin,rx_ncd
+55154-3334,levofloxacin,rx_ncd
+55154-3335,levofloxacin,rx_ncd
+55154-3337,levofloxacin,rx_ncd
+55154-5897,levofloxacin,rx_ncd
+55154-5898,levofloxacin,rx_ncd
+55154-6898,levofloxacin,rx_ncd
+55289-394,levofloxacin,rx_ncd
+55289-711,levofloxacin,rx_ncd
+55648-544,levofloxacin,rx_ncd
+55648-545,levofloxacin,rx_ncd
+55648-547,levofloxacin,rx_ncd
+55695-007,levofloxacin,rx_ncd
+57237-066,levofloxacin,rx_ncd
+57237-067,levofloxacin,rx_ncd
+57237-068,levofloxacin,rx_ncd
+58118-5791,levofloxacin,rx_ncd
+58517-220,levofloxacin,rx_ncd
+59115-095,levofloxacin,rx_ncd
+59115-096,levofloxacin,rx_ncd
+59115-097,levofloxacin,rx_ncd
+59746-513,levofloxacin,rx_ncd
+59746-514,levofloxacin,rx_ncd
+61786-279,levofloxacin,rx_ncd
+61786-542,levofloxacin,rx_ncd
+61786-639,levofloxacin,rx_ncd
+61786-657,levofloxacin,rx_ncd
+61919-704,levofloxacin,rx_ncd
+61919-741,levofloxacin,rx_ncd
+61919-867,levofloxacin,rx_ncd
+61919-987,levofloxacin,rx_ncd
+61919-992,levofloxacin,rx_ncd
+63187-003,levofloxacin,rx_ncd
+63187-004,levofloxacin,rx_ncd
+63187-047,levofloxacin,rx_ncd
+63187-048,levofloxacin,rx_ncd
+63187-438,levofloxacin,rx_ncd
+63187-514,levofloxacin,rx_ncd
+63323-355,levofloxacin,rx_ncd
+63629-3981,levofloxacin,rx_ncd
+63629-4526,levofloxacin,rx_ncd
+63629-4642,levofloxacin,rx_ncd
+63629-4843,levofloxacin,rx_ncd
+64205-537,levofloxacin,rx_ncd
+64376-130,levofloxacin,rx_ncd
+64376-131,levofloxacin,rx_ncd
+64376-132,levofloxacin,rx_ncd
+64679-544,levofloxacin,rx_ncd
+64679-545,levofloxacin,rx_ncd
+64679-547,levofloxacin,rx_ncd
+65841-691,levofloxacin,rx_ncd
+65841-692,levofloxacin,rx_ncd
+65841-693,levofloxacin,rx_ncd
+65862-536,levofloxacin,rx_ncd
+65862-537,levofloxacin,rx_ncd
+65862-538,levofloxacin,rx_ncd
+67296-0372,levofloxacin,rx_ncd
+67296-0584,levofloxacin,rx_ncd
+67296-0586,levofloxacin,rx_ncd
+68084-481,levofloxacin,rx_ncd
+68084-482,levofloxacin,rx_ncd
+68084-483,levofloxacin,rx_ncd
+68180-240,levofloxacin,rx_ncd
+68180-241,levofloxacin,rx_ncd
+68180-242,levofloxacin,rx_ncd
+68382-015,levofloxacin,rx_ncd
+68382-016,levofloxacin,rx_ncd
+68382-017,levofloxacin,rx_ncd
+68669-135,levofloxacin,rx_ncd
+68669-145,levofloxacin,rx_ncd
+68788-9146,levofloxacin,rx_ncd
+68788-9148,levofloxacin,rx_ncd
+68788-9268,levofloxacin,rx_ncd
+68788-9548,levofloxacin,rx_ncd
+68788-9695,levofloxacin,rx_ncd
+68788-9707,levofloxacin,rx_ncd
+68788-9709,levofloxacin,rx_ncd
+76413-110,levofloxacin,rx_ncd
+76519-1001,levofloxacin,rx_ncd
+0069-2587,vancomycin,rx_ncd
+0069-2589,vancomycin,rx_ncd
+0069-2590,vancomycin,rx_ncd
+0069-2599,vancomycin,rx_ncd
+0069-2601,vancomycin,rx_ncd
+0338-3551,vancomycin,rx_ncd
+0338-3552,vancomycin,rx_ncd
+0338-3580,vancomycin,rx_ncd
+0338-3581,vancomycin,rx_ncd
+0338-3582,vancomycin,rx_ncd
+0338-3583,vancomycin,rx_ncd
+0409-4332,vancomycin,rx_ncd
+0409-6509,vancomycin,rx_ncd
+0409-6510,vancomycin,rx_ncd
+0409-6531,vancomycin,rx_ncd
+0409-6533,vancomycin,rx_ncd
+0409-6534,vancomycin,rx_ncd
+0409-6535,vancomycin,rx_ncd
+0591-3560,vancomycin,rx_ncd
+0591-3561,vancomycin,rx_ncd
+0781-3187,vancomycin,rx_ncd
+0781-3188,vancomycin,rx_ncd
+17478-741,vancomycin,rx_ncd
+17478-742,vancomycin,rx_ncd
+21695-424,vancomycin,rx_ncd
+23155-217,vancomycin,rx_ncd
+23155-218,vancomycin,rx_ncd
+23155-219,vancomycin,rx_ncd
+23155-220,vancomycin,rx_ncd
+23360-151,vancomycin,rx_ncd
+23360-152,vancomycin,rx_ncd
+23360-153,vancomycin,rx_ncd
+25021-157,vancomycin,rx_ncd
+25021-158,vancomycin,rx_ncd
+45932-0028,vancomycin,rx_ncd
+45932-0029,vancomycin,rx_ncd
+45932-0031,vancomycin,rx_ncd
+45932-0032,vancomycin,rx_ncd
+47781-729,vancomycin,rx_ncd
+47781-730,vancomycin,rx_ncd
+52533-069,vancomycin,rx_ncd
+52533-070,vancomycin,rx_ncd
+52533-071,vancomycin,rx_ncd
+52584-332,vancomycin,rx_ncd
+55150-203,vancomycin,rx_ncd
+55150-204,vancomycin,rx_ncd
+55150-205,vancomycin,rx_ncd
+55150-206,vancomycin,rx_ncd
+55154-2350,vancomycin,rx_ncd
+55154-2351,vancomycin,rx_ncd
+55154-2385,vancomycin,rx_ncd
+55154-2393,vancomycin,rx_ncd
+55154-2398,vancomycin,rx_ncd
+55154-4650,vancomycin,rx_ncd
+55154-4651,vancomycin,rx_ncd
+62559-310,vancomycin,rx_ncd
+62559-311,vancomycin,rx_ncd
+62559-390,vancomycin,rx_ncd
+62559-391,vancomycin,rx_ncd
+63323-221,vancomycin,rx_ncd
+63323-284,vancomycin,rx_ncd
+63323-295,vancomycin,rx_ncd
+63323-314,vancomycin,rx_ncd
+63323-338,vancomycin,rx_ncd
+63323-339,vancomycin,rx_ncd
+66993-210,vancomycin,rx_ncd
+66993-211,vancomycin,rx_ncd
+67457-222,vancomycin,rx_ncd
+67457-225,vancomycin,rx_ncd
+67457-339,vancomycin,rx_ncd
+67457-340,vancomycin,rx_ncd
+67457-341,vancomycin,rx_ncd
+67457-342,vancomycin,rx_ncd
+67457-611,vancomycin,rx_ncd
+67457-612,vancomycin,rx_ncd
+67457-613,vancomycin,rx_ncd
+67457-614,vancomycin,rx_ncd
+68083-143,vancomycin,rx_ncd
+68083-144,vancomycin,rx_ncd
+68180-166,vancomycin,rx_ncd
+68180-167,vancomycin,rx_ncd
+76126-290,vancomycin,rx_ncd
+0065-0006,moxifloxacin,rx_ncd
+0065-4013,moxifloxacin,rx_ncd
+0085-1733,moxifloxacin,rx_ncd
+0085-1737,moxifloxacin,rx_ncd
+0093-7387,moxifloxacin,rx_ncd
+0378-2080,moxifloxacin,rx_ncd
+0904-6406,moxifloxacin,rx_ncd
+13668-201,moxifloxacin,rx_ncd
+16590-881,moxifloxacin,rx_ncd
+21695-968,moxifloxacin,rx_ncd
+43063-580,moxifloxacin,rx_ncd
+43063-585,moxifloxacin,rx_ncd
+47781-268,moxifloxacin,rx_ncd
+48102-018,moxifloxacin,rx_ncd
+49999-455,moxifloxacin,rx_ncd
+52125-525,moxifloxacin,rx_ncd
+54868-4367,moxifloxacin,rx_ncd
+54868-4798,moxifloxacin,rx_ncd
+55111-112,moxifloxacin,rx_ncd
+55154-3516,moxifloxacin,rx_ncd
+55289-077,moxifloxacin,rx_ncd
+57237-156,moxifloxacin,rx_ncd
+61786-058,moxifloxacin,rx_ncd
+61786-360,moxifloxacin,rx_ncd
+63323-850,moxifloxacin,rx_ncd
+65862-603,moxifloxacin,rx_ncd
+67296-0154,moxifloxacin,rx_ncd
+68084-722,moxifloxacin,rx_ncd
+0264-3193,cefepime,rx_ncd
+0264-3195,cefepime,rx_ncd
+0338-1301,cefepime,rx_ncd
+0409-0217,cefepime,rx_ncd
+0409-0218,cefepime,rx_ncd
+0409-0219,cefepime,rx_ncd
+0409-0220,cefepime,rx_ncd
+0409-0221,cefepime,rx_ncd
+0409-0809,cefepime,rx_ncd
+0409-0810,cefepime,rx_ncd
+0781-3222,cefepime,rx_ncd
+0781-3223,cefepime,rx_ncd
+0781-3301,cefepime,rx_ncd
+0781-3302,cefepime,rx_ncd
+0781-3303,cefepime,rx_ncd
+25021-121,cefepime,rx_ncd
+25021-122,cefepime,rx_ncd
+44567-240,cefepime,rx_ncd
+44567-241,cefepime,rx_ncd
+55154-1056,cefepime,rx_ncd
+55154-1057,cefepime,rx_ncd
+60505-0681,cefepime,rx_ncd
+60505-0834,cefepime,rx_ncd
+60505-6030,cefepime,rx_ncd
+60505-6031,cefepime,rx_ncd
+63323-326,cefepime,rx_ncd
+63323-340,cefepime,rx_ncd
+67184-1002,cefepime,rx_ncd
+67184-1003,cefepime,rx_ncd
+67184-1004,cefepime,rx_ncd
+0009-0225,clindamycin,rx_ncd
+0009-0302,clindamycin,rx_ncd
+0009-0331,clindamycin,rx_ncd
+0009-0395,clindamycin,rx_ncd
+0009-0602,clindamycin,rx_ncd
+0009-0728,clindamycin,rx_ncd
+0009-0760,clindamycin,rx_ncd
+0009-0775,clindamycin,rx_ncd
+0009-0870,clindamycin,rx_ncd
+0009-0901,clindamycin,rx_ncd
+0009-0902,clindamycin,rx_ncd
+Sep-16,clindamycin,rx_ncd
+Sep-24,clindamycin,rx_ncd
+Sep-29,clindamycin,rx_ncd
+Sep-31,clindamycin,rx_ncd
+Sep-75,clindamycin,rx_ncd
+Sep-81,clindamycin,rx_ncd
+Sep-82,clindamycin,rx_ncd
+Sep-47,clindamycin,rx_ncd
+Sep-48,clindamycin,rx_ncd
+Sep-70,clindamycin,rx_ncd
+Sep-80,clindamycin,rx_ncd
+Sep-67,clindamycin,rx_ncd
+Sep-90,clindamycin,rx_ncd
+0145-0071,clindamycin,rx_ncd
+0145-2371,clindamycin,rx_ncd
+0168-0201,clindamycin,rx_ncd
+0168-0202,clindamycin,rx_ncd
+0168-0203,clindamycin,rx_ncd
+0168-0277,clindamycin,rx_ncd
+0179-0023,clindamycin,rx_ncd
+0179-0024,clindamycin,rx_ncd
+0179-0146,clindamycin,rx_ncd
+0179-0147,clindamycin,rx_ncd
+0179-0167,clindamycin,rx_ncd
+0187-3050,clindamycin,rx_ncd
+0187-5190,clindamycin,rx_ncd
+0374-5070,clindamycin,rx_ncd
+0378-6068,clindamycin,rx_ncd
+0378-6069,clindamycin,rx_ncd
+0378-6070,clindamycin,rx_ncd
+0409-4050,clindamycin,rx_ncd
+0409-4051,clindamycin,rx_ncd
+0409-4052,clindamycin,rx_ncd
+0409-4053,clindamycin,rx_ncd
+0409-4054,clindamycin,rx_ncd
+0409-4055,clindamycin,rx_ncd
+0409-4197,clindamycin,rx_ncd
+0440-7300,clindamycin,rx_ncd
+0462-0277,clindamycin,rx_ncd
+0462-0390,clindamycin,rx_ncd
+0462-0391,clindamycin,rx_ncd
+0472-0987,clindamycin,rx_ncd
+0527-1381,clindamycin,rx_ncd
+0527-1382,clindamycin,rx_ncd
+0527-1383,clindamycin,rx_ncd
+0574-0129,clindamycin,rx_ncd
+0591-2932,clindamycin,rx_ncd
+0591-5708,clindamycin,rx_ncd
+0603-1086,clindamycin,rx_ncd
+0713-3171,clindamycin,rx_ncd
+0713-5256,clindamycin,rx_ncd
+0781-3288,clindamycin,rx_ncd
+0781-3289,clindamycin,rx_ncd
+0781-3290,clindamycin,rx_ncd
+0781-9220,clindamycin,rx_ncd
+0781-9221,clindamycin,rx_ncd
+0781-9222,clindamycin,rx_ncd
+0904-5959,clindamycin,rx_ncd
+10135-569,clindamycin,rx_ncd
+10544-153,clindamycin,rx_ncd
+10544-154,clindamycin,rx_ncd
+12634-092,clindamycin,rx_ncd
+13548-132,clindamycin,rx_ncd
+16590-057,clindamycin,rx_ncd
+16714-483,clindamycin,rx_ncd
+16781-462,clindamycin,rx_ncd
+17478-120,clindamycin,rx_ncd
+17478-121,clindamycin,rx_ncd
+17478-122,clindamycin,rx_ncd
+21695-033,clindamycin,rx_ncd
+21695-034,clindamycin,rx_ncd
+21695-888,clindamycin,rx_ncd
+24236-167,clindamycin,rx_ncd
+24236-707,clindamycin,rx_ncd
+25021-115,clindamycin,rx_ncd
+33261-159,clindamycin,rx_ncd
+33261-448,clindamycin,rx_ncd
+40076-061,clindamycin,rx_ncd
+42291-215,clindamycin,rx_ncd
+42549-532,clindamycin,rx_ncd
+43063-056,clindamycin,rx_ncd
+43063-394,clindamycin,rx_ncd
+43538-170,clindamycin,rx_ncd
+43538-171,clindamycin,rx_ncd
+43538-172,clindamycin,rx_ncd
+43538-176,clindamycin,rx_ncd
+45802-042,clindamycin,rx_ncd
+45802-263,clindamycin,rx_ncd
+45802-562,clindamycin,rx_ncd
+45802-660,clindamycin,rx_ncd
+45802-736,clindamycin,rx_ncd
+45865-615,clindamycin,rx_ncd
+47781-460,clindamycin,rx_ncd
+47781-462,clindamycin,rx_ncd
+47781-463,clindamycin,rx_ncd
+47781-464,clindamycin,rx_ncd
+47781-465,clindamycin,rx_ncd
+49349-363,clindamycin,rx_ncd
+49999-011,clindamycin,rx_ncd
+49999-280,clindamycin,rx_ncd
+49999-290,clindamycin,rx_ncd
+50268-180,clindamycin,rx_ncd
+50268-181,clindamycin,rx_ncd
+50436-0155,clindamycin,rx_ncd
+50436-3148,clindamycin,rx_ncd
+51079-598,clindamycin,rx_ncd
+51655-530,clindamycin,rx_ncd
+51655-964,clindamycin,rx_ncd
+51672-4081,clindamycin,rx_ncd
+52125-434,clindamycin,rx_ncd
+52125-717,clindamycin,rx_ncd
+52125-872,clindamycin,rx_ncd
+52125-938,clindamycin,rx_ncd
+52584-006,clindamycin,rx_ncd
+52584-460,clindamycin,rx_ncd
+52584-870,clindamycin,rx_ncd
+54569-3456,clindamycin,rx_ncd
+54569-5774,clindamycin,rx_ncd
+54868-1857,clindamycin,rx_ncd
+54868-2875,clindamycin,rx_ncd
+54868-3695,clindamycin,rx_ncd
+54868-4654,clindamycin,rx_ncd
+54868-4805,clindamycin,rx_ncd
+54868-4806,clindamycin,rx_ncd
+54868-5211,clindamycin,rx_ncd
+54868-5307,clindamycin,rx_ncd
+54868-5833,clindamycin,rx_ncd
+54868-6062,clindamycin,rx_ncd
+55154-2390,clindamycin,rx_ncd
+55154-2828,clindamycin,rx_ncd
+55154-5546,clindamycin,rx_ncd
+55154-6827,clindamycin,rx_ncd
+55289-441,clindamycin,rx_ncd
+55289-890,clindamycin,rx_ncd
+55700-155,clindamycin,rx_ncd
+55700-358,clindamycin,rx_ncd
+58118-0692,clindamycin,rx_ncd
+58118-0693,clindamycin,rx_ncd
+59762-0016,clindamycin,rx_ncd
+59762-3328,clindamycin,rx_ncd
+59762-3728,clindamycin,rx_ncd
+59762-3743,clindamycin,rx_ncd
+59762-3744,clindamycin,rx_ncd
+59762-5009,clindamycin,rx_ncd
+59762-5010,clindamycin,rx_ncd
+61748-201,clindamycin,rx_ncd
+61786-075,clindamycin,rx_ncd
+61786-664,clindamycin,rx_ncd
+61919-057,clindamycin,rx_ncd
+61919-441,clindamycin,rx_ncd
+61919-829,clindamycin,rx_ncd
+63187-127,clindamycin,rx_ncd
+63187-141,clindamycin,rx_ncd
+63187-247,clindamycin,rx_ncd
+63304-692,clindamycin,rx_ncd
+63304-693,clindamycin,rx_ncd
+63323-282,clindamycin,rx_ncd
+63539-011,clindamycin,rx_ncd
+63629-2817,clindamycin,rx_ncd
+63629-2924,clindamycin,rx_ncd
+63739-059,clindamycin,rx_ncd
+64011-124,clindamycin,rx_ncd
+64720-153,clindamycin,rx_ncd
+64720-154,clindamycin,rx_ncd
+64980-511,clindamycin,rx_ncd
+65162-468,clindamycin,rx_ncd
+65862-185,clindamycin,rx_ncd
+65862-186,clindamycin,rx_ncd
+65862-596,clindamycin,rx_ncd
+66993-949,clindamycin,rx_ncd
+67046-084,clindamycin,rx_ncd
+67046-085,clindamycin,rx_ncd
+67296-0315,clindamycin,rx_ncd
+68084-243,clindamycin,rx_ncd
+68084-244,clindamycin,rx_ncd
+68788-0616,clindamycin,rx_ncd
+68788-9209,clindamycin,rx_ncd
+68788-9703,clindamycin,rx_ncd
+68788-9780,clindamycin,rx_ncd
+68788-9841,clindamycin,rx_ncd
+68788-9942,clindamycin,rx_ncd
+68788-9943,clindamycin,rx_ncd
+69189-0693,clindamycin,rx_ncd
+99207-300,clindamycin,rx_ncd
+0065-0654,ciprofloxacin,rx_ncd
+0065-0656,ciprofloxacin,rx_ncd
+0065-8531,ciprofloxacin,rx_ncd
+0065-8533,ciprofloxacin,rx_ncd
+0069-3241,ciprofloxacin,rx_ncd
+0069-3342,ciprofloxacin,rx_ncd
+0069-4395,ciprofloxacin,rx_ncd
+0069-4396,ciprofloxacin,rx_ncd
+0143-2037,ciprofloxacin,rx_ncd
+0143-9927,ciprofloxacin,rx_ncd
+0143-9928,ciprofloxacin,rx_ncd
+0143-9929,ciprofloxacin,rx_ncd
+0172-5311,ciprofloxacin,rx_ncd
+0172-5312,ciprofloxacin,rx_ncd
+0172-5313,ciprofloxacin,rx_ncd
+0179-0054,ciprofloxacin,rx_ncd
+0179-0188,ciprofloxacin,rx_ncd
+0179-1982,ciprofloxacin,rx_ncd
+0378-1743,ciprofloxacin,rx_ncd
+0378-1745,ciprofloxacin,rx_ncd
+0378-7098,ciprofloxacin,rx_ncd
+0404-7187,ciprofloxacin,rx_ncd
+0409-4765,ciprofloxacin,rx_ncd
+0409-4777,ciprofloxacin,rx_ncd
+0409-4778,ciprofloxacin,rx_ncd
+0781-3239,ciprofloxacin,rx_ncd
+0781-3240,ciprofloxacin,rx_ncd
+0904-6378,ciprofloxacin,rx_ncd
+10370-107,ciprofloxacin,rx_ncd
+10370-108,ciprofloxacin,rx_ncd
+10544-036,ciprofloxacin,rx_ncd
+10544-079,ciprofloxacin,rx_ncd
+10544-147,ciprofloxacin,rx_ncd
+10544-432,ciprofloxacin,rx_ncd
+10544-603,ciprofloxacin,rx_ncd
+10544-604,ciprofloxacin,rx_ncd
+10544-605,ciprofloxacin,rx_ncd
+10544-606,ciprofloxacin,rx_ncd
+10544-607,ciprofloxacin,rx_ncd
+10544-608,ciprofloxacin,rx_ncd
+10544-673,ciprofloxacin,rx_ncd
+10544-884,ciprofloxacin,rx_ncd
+10544-943,ciprofloxacin,rx_ncd
+11819-323,ciprofloxacin,rx_ncd
+11819-351,ciprofloxacin,rx_ncd
+11819-360,ciprofloxacin,rx_ncd
+11819-363,ciprofloxacin,rx_ncd
+12634-769,ciprofloxacin,rx_ncd
+13107-076,ciprofloxacin,rx_ncd
+13107-077,ciprofloxacin,rx_ncd
+13913-001,ciprofloxacin,rx_ncd
+16252-514,ciprofloxacin,rx_ncd
+16252-515,ciprofloxacin,rx_ncd
+16252-516,ciprofloxacin,rx_ncd
+16571-120,ciprofloxacin,rx_ncd
+16571-135,ciprofloxacin,rx_ncd
+16571-411,ciprofloxacin,rx_ncd
+16571-412,ciprofloxacin,rx_ncd
+16571-413,ciprofloxacin,rx_ncd
+16590-053,ciprofloxacin,rx_ncd
+16590-054,ciprofloxacin,rx_ncd
+16590-421,ciprofloxacin,rx_ncd
+16590-735,ciprofloxacin,rx_ncd
+16714-651,ciprofloxacin,rx_ncd
+16714-652,ciprofloxacin,rx_ncd
+16714-653,ciprofloxacin,rx_ncd
+17478-714,ciprofloxacin,rx_ncd
+21695-210,ciprofloxacin,rx_ncd
+21695-259,ciprofloxacin,rx_ncd
+21695-411,ciprofloxacin,rx_ncd
+21695-422,ciprofloxacin,rx_ncd
+21695-914,ciprofloxacin,rx_ncd
+21695-969,ciprofloxacin,rx_ncd
+24208-444,ciprofloxacin,rx_ncd
+24658-250,ciprofloxacin,rx_ncd
+25021-114,ciprofloxacin,rx_ncd
+33261-164,ciprofloxacin,rx_ncd
+33261-367,ciprofloxacin,rx_ncd
+33261-399,ciprofloxacin,rx_ncd
+35356-732,ciprofloxacin,rx_ncd
+35356-803,ciprofloxacin,rx_ncd
+35356-846,ciprofloxacin,rx_ncd
+35356-928,ciprofloxacin,rx_ncd
+36000-008,ciprofloxacin,rx_ncd
+36000-009,ciprofloxacin,rx_ncd
+36000-010,ciprofloxacin,rx_ncd
+36000-011,ciprofloxacin,rx_ncd
+36000-029,ciprofloxacin,rx_ncd
+36000-030,ciprofloxacin,rx_ncd
+40042-015,ciprofloxacin,rx_ncd
+42195-550,ciprofloxacin,rx_ncd
+42254-122,ciprofloxacin,rx_ncd
+42291-219,ciprofloxacin,rx_ncd
+42852-001,ciprofloxacin,rx_ncd
+43063-053,ciprofloxacin,rx_ncd
+43063-410,ciprofloxacin,rx_ncd
+43063-427,ciprofloxacin,rx_ncd
+43063-547,ciprofloxacin,rx_ncd
+43353-924,ciprofloxacin,rx_ncd
+45865-471,ciprofloxacin,rx_ncd
+45865-721,ciprofloxacin,rx_ncd
+45865-772,ciprofloxacin,rx_ncd
+49349-035,ciprofloxacin,rx_ncd
+49349-036,ciprofloxacin,rx_ncd
+49349-086,ciprofloxacin,rx_ncd
+49349-194,ciprofloxacin,rx_ncd
+49349-246,ciprofloxacin,rx_ncd
+49349-291,ciprofloxacin,rx_ncd
+49349-431,ciprofloxacin,rx_ncd
+49349-453,ciprofloxacin,rx_ncd
+49349-612,ciprofloxacin,rx_ncd
+49349-634,ciprofloxacin,rx_ncd
+49349-662,ciprofloxacin,rx_ncd
+49349-854,ciprofloxacin,rx_ncd
+49999-333,ciprofloxacin,rx_ncd
+49999-334,ciprofloxacin,rx_ncd
+49999-699,ciprofloxacin,rx_ncd
+50383-282,ciprofloxacin,rx_ncd
+50419-754,ciprofloxacin,rx_ncd
+50419-758,ciprofloxacin,rx_ncd
+50419-759,ciprofloxacin,rx_ncd
+50419-788,ciprofloxacin,rx_ncd
+50419-789,ciprofloxacin,rx_ncd
+50436-3135,ciprofloxacin,rx_ncd
+50436-5130,ciprofloxacin,rx_ncd
+50436-6041,ciprofloxacin,rx_ncd
+51079-182,ciprofloxacin,rx_ncd
+51655-118,ciprofloxacin,rx_ncd
+52125-069,ciprofloxacin,rx_ncd
+52125-245,ciprofloxacin,rx_ncd
+52125-483,ciprofloxacin,rx_ncd
+52125-537,ciprofloxacin,rx_ncd
+52125-789,ciprofloxacin,rx_ncd
+52959-557,ciprofloxacin,rx_ncd
+52959-730,ciprofloxacin,rx_ncd
+52959-734,ciprofloxacin,rx_ncd
+52959-739,ciprofloxacin,rx_ncd
+53401-004,ciprofloxacin,rx_ncd
+53401-005,ciprofloxacin,rx_ncd
+53401-301,ciprofloxacin,rx_ncd
+53808-0223,ciprofloxacin,rx_ncd
+53808-0349,ciprofloxacin,rx_ncd
+53808-1073,ciprofloxacin,rx_ncd
+54569-5574,ciprofloxacin,rx_ncd
+54569-8311,ciprofloxacin,rx_ncd
+54569-8318,ciprofloxacin,rx_ncd
+54868-2782,ciprofloxacin,rx_ncd
+54868-4365,ciprofloxacin,rx_ncd
+54868-4858,ciprofloxacin,rx_ncd
+54868-4898,ciprofloxacin,rx_ncd
+54868-4928,ciprofloxacin,rx_ncd
+54868-5023,ciprofloxacin,rx_ncd
+54868-5130,ciprofloxacin,rx_ncd
+55111-125,ciprofloxacin,rx_ncd
+55111-126,ciprofloxacin,rx_ncd
+55111-127,ciprofloxacin,rx_ncd
+55111-128,ciprofloxacin,rx_ncd
+55111-422,ciprofloxacin,rx_ncd
+55111-423,ciprofloxacin,rx_ncd
+55154-2081,ciprofloxacin,rx_ncd
+55154-2086,ciprofloxacin,rx_ncd
+55154-3496,ciprofloxacin,rx_ncd
+55154-5376,ciprofloxacin,rx_ncd
+55154-6164,ciprofloxacin,rx_ncd
+55154-6177,ciprofloxacin,rx_ncd
+55154-6187,ciprofloxacin,rx_ncd
+55154-7828,ciprofloxacin,rx_ncd
+55289-821,ciprofloxacin,rx_ncd
+55289-823,ciprofloxacin,rx_ncd
+55289-826,ciprofloxacin,rx_ncd
+55700-113,ciprofloxacin,rx_ncd
+58118-0127,ciprofloxacin,rx_ncd
+58118-0411,ciprofloxacin,rx_ncd
+58118-9825,ciprofloxacin,rx_ncd
+58118-9969,ciprofloxacin,rx_ncd
+59115-028,ciprofloxacin,rx_ncd
+59115-029,ciprofloxacin,rx_ncd
+59115-030,ciprofloxacin,rx_ncd
+60429-042,ciprofloxacin,rx_ncd
+60505-1308,ciprofloxacin,rx_ncd
+60505-1309,ciprofloxacin,rx_ncd
+60505-1310,ciprofloxacin,rx_ncd
+60760-512,ciprofloxacin,rx_ncd
+61314-656,ciprofloxacin,rx_ncd
+61442-222,ciprofloxacin,rx_ncd
+61442-223,ciprofloxacin,rx_ncd
+61442-224,ciprofloxacin,rx_ncd
+61786-097,ciprofloxacin,rx_ncd
+61786-264,ciprofloxacin,rx_ncd
+61919-054,ciprofloxacin,rx_ncd
+61919-371,ciprofloxacin,rx_ncd
+61919-421,ciprofloxacin,rx_ncd
+62034-016,ciprofloxacin,rx_ncd
+62037-938,ciprofloxacin,rx_ncd
+62037-942,ciprofloxacin,rx_ncd
+63187-001,ciprofloxacin,rx_ncd
+63187-017,ciprofloxacin,rx_ncd
+63187-142,ciprofloxacin,rx_ncd
+63187-150,ciprofloxacin,rx_ncd
+63187-250,ciprofloxacin,rx_ncd
+63187-328,ciprofloxacin,rx_ncd
+63304-709,ciprofloxacin,rx_ncd
+63304-710,ciprofloxacin,rx_ncd
+63304-711,ciprofloxacin,rx_ncd
+63629-1326,ciprofloxacin,rx_ncd
+63629-1724,ciprofloxacin,rx_ncd
+63629-3868,ciprofloxacin,rx_ncd
+63739-559,ciprofloxacin,rx_ncd
+63739-700,ciprofloxacin,rx_ncd
+64205-927,ciprofloxacin,rx_ncd
+64205-928,ciprofloxacin,rx_ncd
+65862-076,ciprofloxacin,rx_ncd
+65862-077,ciprofloxacin,rx_ncd
+65862-078,ciprofloxacin,rx_ncd
+66116-480,ciprofloxacin,rx_ncd
+66116-508,ciprofloxacin,rx_ncd
+67296-0543,ciprofloxacin,rx_ncd
+67296-0579,ciprofloxacin,rx_ncd
+67296-0580,ciprofloxacin,rx_ncd
+67296-0599,ciprofloxacin,rx_ncd
+67296-0608,ciprofloxacin,rx_ncd
+67296-0620,ciprofloxacin,rx_ncd
+68084-069,ciprofloxacin,rx_ncd
+68084-070,ciprofloxacin,rx_ncd
+68084-071,ciprofloxacin,rx_ncd
+68645-060,ciprofloxacin,rx_ncd
+68788-9006,ciprofloxacin,rx_ncd
+68788-9012,ciprofloxacin,rx_ncd
+68788-9024,ciprofloxacin,rx_ncd
+68788-9228,ciprofloxacin,rx_ncd
+68788-9280,ciprofloxacin,rx_ncd
+68788-9330,ciprofloxacin,rx_ncd
+68788-9391,ciprofloxacin,rx_ncd
+68788-9724,ciprofloxacin,rx_ncd
+68788-9944,ciprofloxacin,rx_ncd
+69251-201,ciprofloxacin,rx_ncd
+75921-412,ciprofloxacin,rx_ncd
+0065-0643,tobramycin,rx_ncd
+0065-0644,tobramycin,rx_ncd
+0065-0647,tobramycin,rx_ncd
+0065-0648,tobramycin,rx_ncd
+0065-0652,tobramycin,rx_ncd
+0069-0088,tobramycin,rx_ncd
+0069-0091,tobramycin,rx_ncd
+0069-0301,tobramycin,rx_ncd
+0069-0302,tobramycin,rx_ncd
+0078-0494,tobramycin,rx_ncd
+0078-0630,tobramycin,rx_ncd
+0093-4085,tobramycin,rx_ncd
+0404-7196,tobramycin,rx_ncd
+0409-3470,tobramycin,rx_ncd
+0409-3577,tobramycin,rx_ncd
+0409-3578,tobramycin,rx_ncd
+0409-3590,tobramycin,rx_ncd
+0703-9402,tobramycin,rx_ncd
+0703-9416,tobramycin,rx_ncd
+0781-7171,tobramycin,rx_ncd
+0904-2970,tobramycin,rx_ncd
+10122-820,tobramycin,rx_ncd
+10544-883,tobramycin,rx_ncd
+13985-604,tobramycin,rx_ncd
+16590-223,tobramycin,rx_ncd
+16590-224,tobramycin,rx_ncd
+16590-225,tobramycin,rx_ncd
+17478-114,tobramycin,rx_ncd
+17478-290,tobramycin,rx_ncd
+17478-340,tobramycin,rx_ncd
+21695-203,tobramycin,rx_ncd
+21695-204,tobramycin,rx_ncd
+21695-416,tobramycin,rx_ncd
+21695-458,tobramycin,rx_ncd
+21695-628,tobramycin,rx_ncd
+24208-290,tobramycin,rx_ncd
+24208-295,tobramycin,rx_ncd
+24208-358,tobramycin,rx_ncd
+24492-850,tobramycin,rx_ncd
+39822-0409,tobramycin,rx_ncd
+39822-0412,tobramycin,rx_ncd
+42254-187,tobramycin,rx_ncd
+45932-0027,tobramycin,rx_ncd
+49999-148,tobramycin,rx_ncd
+50436-7392,tobramycin,rx_ncd
+52125-232,tobramycin,rx_ncd
+52125-536,tobramycin,rx_ncd
+52959-108,tobramycin,rx_ncd
+52959-984,tobramycin,rx_ncd
+54569-1182,tobramycin,rx_ncd
+54569-2285,tobramycin,rx_ncd
+54569-2590,tobramycin,rx_ncd
+54569-4400,tobramycin,rx_ncd
+54868-6286,tobramycin,rx_ncd
+61314-643,tobramycin,rx_ncd
+61314-647,tobramycin,rx_ncd
+61919-224,tobramycin,rx_ncd
+63187-024,tobramycin,rx_ncd
+63323-303,tobramycin,rx_ncd
+63323-305,tobramycin,rx_ncd
+63323-306,tobramycin,rx_ncd
+63323-307,tobramycin,rx_ncd
+65162-914,tobramycin,rx_ncd
+67457-427,tobramycin,rx_ncd
+67457-428,tobramycin,rx_ncd
+67457-432,tobramycin,rx_ncd
+67457-473,tobramycin,rx_ncd
+68788-9870,tobramycin,rx_ncd
+0264-3143,ceftazidime,rx_ncd
+0264-3145,ceftazidime,rx_ncd
+0409-5082,ceftazidime,rx_ncd
+0409-5084,ceftazidime,rx_ncd
+0409-5086,ceftazidime,rx_ncd
+0409-5092,ceftazidime,rx_ncd
+0409-5093,ceftazidime,rx_ncd
+0456-2700,ceftazidime,rx_ncd
+0781-3177,ceftazidime,rx_ncd
+0781-3178,ceftazidime,rx_ncd
+0781-3179,ceftazidime,rx_ncd
+24987-377,ceftazidime,rx_ncd
+24987-378,ceftazidime,rx_ncd
+24987-379,ceftazidime,rx_ncd
+24987-382,ceftazidime,rx_ncd
+24987-412,ceftazidime,rx_ncd
+24987-413,ceftazidime,rx_ncd
+24987-434,ceftazidime,rx_ncd
+24987-435,ceftazidime,rx_ncd
+25021-127,ceftazidime,rx_ncd
+25021-128,ceftazidime,rx_ncd
+25021-129,ceftazidime,rx_ncd
+44567-235,ceftazidime,rx_ncd
+44567-236,ceftazidime,rx_ncd
+44567-237,ceftazidime,rx_ncd
+55154-1125,ceftazidime,rx_ncd
+0023-0066,gentamicin,rx_ncd
+0023-0106,gentamicin,rx_ncd
+0168-0071,gentamicin,rx_ncd
+0168-0078,gentamicin,rx_ncd
+0338-0503,gentamicin,rx_ncd
+0338-0505,gentamicin,rx_ncd
+0338-0507,gentamicin,rx_ncd
+0338-0509,gentamicin,rx_ncd
+0338-0511,gentamicin,rx_ncd
+0409-1207,gentamicin,rx_ncd
+0409-3400,gentamicin,rx_ncd
+0409-3401,gentamicin,rx_ncd
+0409-3402,gentamicin,rx_ncd
+0409-7879,gentamicin,rx_ncd
+0409-7881,gentamicin,rx_ncd
+0409-7883,gentamicin,rx_ncd
+0409-7884,gentamicin,rx_ncd
+0409-7886,gentamicin,rx_ncd
+0409-7889,gentamicin,rx_ncd
+0574-4072,gentamicin,rx_ncd
+0574-4102,gentamicin,rx_ncd
+13985-603,gentamicin,rx_ncd
+16590-107,gentamicin,rx_ncd
+17478-283,gentamicin,rx_ncd
+17478-284,gentamicin,rx_ncd
+17478-826,gentamicin,rx_ncd
+17478-827,gentamicin,rx_ncd
+21695-187,gentamicin,rx_ncd
+24208-580,gentamicin,rx_ncd
+33261-604,gentamicin,rx_ncd
+35356-707,gentamicin,rx_ncd
+45802-046,gentamicin,rx_ncd
+45802-056,gentamicin,rx_ncd
+45865-672,gentamicin,rx_ncd
+48102-009,gentamicin,rx_ncd
+48102-022,gentamicin,rx_ncd
+48102-102,gentamicin,rx_ncd
+49999-138,gentamicin,rx_ncd
+49999-159,gentamicin,rx_ncd
+50436-6752,gentamicin,rx_ncd
+50436-6754,gentamicin,rx_ncd
+52125-296,gentamicin,rx_ncd
+52125-461,gentamicin,rx_ncd
+52584-010,gentamicin,rx_ncd
+52584-207,gentamicin,rx_ncd
+54569-1144,gentamicin,rx_ncd
+54569-1218,gentamicin,rx_ncd
+54569-1229,gentamicin,rx_ncd
+54868-1040,gentamicin,rx_ncd
+54868-3524,gentamicin,rx_ncd
+54868-6126,gentamicin,rx_ncd
+54868-6745,gentamicin,rx_ncd
+55045-1147,gentamicin,rx_ncd
+55154-2392,gentamicin,rx_ncd
+55154-9365,gentamicin,rx_ncd
+55154-9376,gentamicin,rx_ncd
+55154-9552,gentamicin,rx_ncd
+58118-9893,gentamicin,rx_ncd
+60758-188,gentamicin,rx_ncd
+61314-633,gentamicin,rx_ncd
+61919-106,gentamicin,rx_ncd
+63187-163,gentamicin,rx_ncd
+63187-560,gentamicin,rx_ncd
+63323-010,gentamicin,rx_ncd
+63323-173,gentamicin,rx_ncd
+63323-513,gentamicin,rx_ncd
+68788-0633,gentamicin,rx_ncd
+68788-9732,gentamicin,rx_ncd
+68788-9921,gentamicin,rx_ncd
+0264-3183,meropenem,rx_ncd
+0264-3185,meropenem,rx_ncd
+0310-0321,meropenem,rx_ncd
+0310-0325,meropenem,rx_ncd
+0409-3505,meropenem,rx_ncd
+0409-3506,meropenem,rx_ncd
+0781-3265,meropenem,rx_ncd
+0781-3267,meropenem,rx_ncd
+44647-032,meropenem,rx_ncd
+44647-033,meropenem,rx_ncd
+54442-103,meropenem,rx_ncd
+54442-104,meropenem,rx_ncd
+55154-4744,meropenem,rx_ncd
+55154-7825,meropenem,rx_ncd
+63323-507,meropenem,rx_ncd
+63323-508,meropenem,rx_ncd
+Sep-92,linezolid,rx_ncd
+Sep-35,linezolid,rx_ncd
+Sep-36,linezolid,rx_ncd
+Sep-37,linezolid,rx_ncd
+Sep-38,linezolid,rx_ncd
+Sep-39,linezolid,rx_ncd
+Sep-40,linezolid,rx_ncd
+Sep-07,linezolid,rx_ncd
+0054-0319,linezolid,rx_ncd
+0093-8244,linezolid,rx_ncd
+0378-7077,linezolid,rx_ncd
+0409-4882,linezolid,rx_ncd
+0409-4883,linezolid,rx_ncd
+0703-9060,linezolid,rx_ncd
+0904-6553,linezolid,rx_ncd
+21695-399,linezolid,rx_ncd
+31722-749,linezolid,rx_ncd
+42292-008,linezolid,rx_ncd
+49349-751,linezolid,rx_ncd
+50268-471,linezolid,rx_ncd
+55154-3938,linezolid,rx_ncd
+55695-009,linezolid,rx_ncd
+59762-1307,linezolid,rx_ncd
+59762-1308,linezolid,rx_ncd
+60505-4362,linezolid,rx_ncd
+60687-189,linezolid,rx_ncd
+62332-183,linezolid,rx_ncd
+63323-713,linezolid,rx_ncd
+65162-777,linezolid,rx_ncd
+67877-419,linezolid,rx_ncd
+68462-291,linezolid,rx_ncd
+0143-9665,cefazolin,rx_ncd
+0143-9923,cefazolin,rx_ncd
+0143-9924,cefazolin,rx_ncd
+0143-9983,cefazolin,rx_ncd
+0264-3103,cefazolin,rx_ncd
+0264-3105,cefazolin,rx_ncd
+0338-3503,cefazolin,rx_ncd
+0338-3508,cefazolin,rx_ncd
+0409-0805,cefazolin,rx_ncd
+0409-0806,cefazolin,rx_ncd
+0409-2585,cefazolin,rx_ncd
+0781-3450,cefazolin,rx_ncd
+0781-3451,cefazolin,rx_ncd
+0781-3452,cefazolin,rx_ncd
+0781-9338,cefazolin,rx_ncd
+25021-100,cefazolin,rx_ncd
+25021-101,cefazolin,rx_ncd
+25021-102,cefazolin,rx_ncd
+44567-706,cefazolin,rx_ncd
+44567-707,cefazolin,rx_ncd
+44567-708,cefazolin,rx_ncd
+52533-014,cefazolin,rx_ncd
+52533-113,cefazolin,rx_ncd
+52533-120,cefazolin,rx_ncd
+52584-014,cefazolin,rx_ncd
+52584-023,cefazolin,rx_ncd
+52584-024,cefazolin,rx_ncd
+52584-061,cefazolin,rx_ncd
+54868-4651,cefazolin,rx_ncd
+55154-3184,cefazolin,rx_ncd
+55154-5432,cefazolin,rx_ncd
+55154-5439,cefazolin,rx_ncd
+55154-6666,cefazolin,rx_ncd
+55154-6668,cefazolin,rx_ncd
+55154-7463,cefazolin,rx_ncd
+55154-7826,cefazolin,rx_ncd
+55154-9559,cefazolin,rx_ncd
+60505-6093,cefazolin,rx_ncd
+60505-6094,cefazolin,rx_ncd
+63323-236,cefazolin,rx_ncd
+63323-237,cefazolin,rx_ncd
+63323-238,cefazolin,rx_ncd
+63323-446,cefazolin,rx_ncd
+63323-449,cefazolin,rx_ncd
+66288-1100,cefazolin,rx_ncd
+66288-1300,cefazolin,rx_ncd
+67184-1001,cefazolin,rx_ncd
+68258-8978,cefazolin,rx_ncd
+0025-1821,metronidazole,rx_ncd
+0025-1831,metronidazole,rx_ncd
+0025-1942,metronidazole,rx_ncd
+0069-2390,metronidazole,rx_ncd
+0115-1474,metronidazole,rx_ncd
+0143-9772,metronidazole,rx_ncd
+0168-0275,metronidazole,rx_ncd
+0168-0323,metronidazole,rx_ncd
+0168-0383,metronidazole,rx_ncd
+0179-1482,metronidazole,rx_ncd
+0187-5202,metronidazole,rx_ncd
+0245-0860,metronidazole,rx_ncd
+0264-5535,metronidazole,rx_ncd
+0299-3820,metronidazole,rx_ncd
+0299-3836,metronidazole,rx_ncd
+0299-3838,metronidazole,rx_ncd
+0338-1055,metronidazole,rx_ncd
+0338-9541,metronidazole,rx_ncd
+0409-7811,metronidazole,rx_ncd
+0440-1795,metronidazole,rx_ncd
+0440-1796,metronidazole,rx_ncd
+0472-0911,metronidazole,rx_ncd
+0591-2521,metronidazole,rx_ncd
+0591-2522,metronidazole,rx_ncd
+0591-5215,metronidazole,rx_ncd
+0615-1576,metronidazole,rx_ncd
+0615-1577,metronidazole,rx_ncd
+0615-7693,metronidazole,rx_ncd
+0713-0633,metronidazole,rx_ncd
+0713-0637,metronidazole,rx_ncd
+0781-7077,metronidazole,rx_ncd
+0781-7080,metronidazole,rx_ncd
+0904-1453,metronidazole,rx_ncd
+10544-265,metronidazole,rx_ncd
+10544-270,metronidazole,rx_ncd
+10544-562,metronidazole,rx_ncd
+10544-938,metronidazole,rx_ncd
+12634-172,metronidazole,rx_ncd
+15338-150,metronidazole,rx_ncd
+16590-152,metronidazole,rx_ncd
+16590-385,metronidazole,rx_ncd
+21695-308,metronidazole,rx_ncd
+21695-309,metronidazole,rx_ncd
+23155-064,metronidazole,rx_ncd
+23155-065,metronidazole,rx_ncd
+23155-066,metronidazole,rx_ncd
+24236-186,metronidazole,rx_ncd
+24236-572,metronidazole,rx_ncd
+29300-226,metronidazole,rx_ncd
+29300-227,metronidazole,rx_ncd
+33261-384,metronidazole,rx_ncd
+33261-786,metronidazole,rx_ncd
+35356-890,metronidazole,rx_ncd
+36000-001,metronidazole,rx_ncd
+36000-028,metronidazole,rx_ncd
+42254-069,metronidazole,rx_ncd
+42292-001,metronidazole,rx_ncd
+42546-700,metronidazole,rx_ncd
+43063-021,metronidazole,rx_ncd
+43063-108,metronidazole,rx_ncd
+43063-620,metronidazole,rx_ncd
+43063-632,metronidazole,rx_ncd
+43538-180,metronidazole,rx_ncd
+43538-181,metronidazole,rx_ncd
+43538-182,metronidazole,rx_ncd
+49349-008,metronidazole,rx_ncd
+49349-034,metronidazole,rx_ncd
+49349-056,metronidazole,rx_ncd
+49349-071,metronidazole,rx_ncd
+49349-164,metronidazole,rx_ncd
+49349-243,metronidazole,rx_ncd
+49349-970,metronidazole,rx_ncd
+49349-989,metronidazole,rx_ncd
+49999-095,metronidazole,rx_ncd
+50111-333,metronidazole,rx_ncd
+50111-334,metronidazole,rx_ncd
+50436-4032,metronidazole,rx_ncd
+50436-4033,metronidazole,rx_ncd
+51079-216,metronidazole,rx_ncd
+51079-217,metronidazole,rx_ncd
+51655-123,metronidazole,rx_ncd
+51655-189,metronidazole,rx_ncd
+51655-190,metronidazole,rx_ncd
+51672-4116,metronidazole,rx_ncd
+51672-5295,metronidazole,rx_ncd
+52125-781,metronidazole,rx_ncd
+52125-855,metronidazole,rx_ncd
+52343-095,metronidazole,rx_ncd
+52343-096,metronidazole,rx_ncd
+52544-157,metronidazole,rx_ncd
+52959-102,metronidazole,rx_ncd
+52959-400,metronidazole,rx_ncd
+53808-0474,metronidazole,rx_ncd
+54569-0965,metronidazole,rx_ncd
+54569-0967,metronidazole,rx_ncd
+54569-3354,metronidazole,rx_ncd
+54868-0108,metronidazole,rx_ncd
+54868-0158,metronidazole,rx_ncd
+54868-3110,metronidazole,rx_ncd
+54868-4449,metronidazole,rx_ncd
+54868-5585,metronidazole,rx_ncd
+54868-5655,metronidazole,rx_ncd
+54868-5882,metronidazole,rx_ncd
+54868-6151,metronidazole,rx_ncd
+54868-6181,metronidazole,rx_ncd
+54868-6352,metronidazole,rx_ncd
+55154-0475,metronidazole,rx_ncd
+55154-0663,metronidazole,rx_ncd
+55154-5175,metronidazole,rx_ncd
+55154-5391,metronidazole,rx_ncd
+55154-5392,metronidazole,rx_ncd
+55154-5509,metronidazole,rx_ncd
+55154-5567,metronidazole,rx_ncd
+55289-172,metronidazole,rx_ncd
+55289-521,metronidazole,rx_ncd
+55695-011,metronidazole,rx_ncd
+57664-653,metronidazole,rx_ncd
+57664-654,metronidazole,rx_ncd
+58118-0051,metronidazole,rx_ncd
+58118-2521,metronidazole,rx_ncd
+58118-2522,metronidazole,rx_ncd
+58914-601,metronidazole,rx_ncd
+60760-334,metronidazole,rx_ncd
+61786-030,metronidazole,rx_ncd
+61786-068,metronidazole,rx_ncd
+61786-111,metronidazole,rx_ncd
+61786-127,metronidazole,rx_ncd
+61786-576,metronidazole,rx_ncd
+61919-152,metronidazole,rx_ncd
+61919-385,metronidazole,rx_ncd
+61919-788,metronidazole,rx_ncd
+62980-509,metronidazole,rx_ncd
+62980-510,metronidazole,rx_ncd
+63187-035,metronidazole,rx_ncd
+63187-511,metronidazole,rx_ncd
+63629-1386,metronidazole,rx_ncd
+63629-1388,metronidazole,rx_ncd
+64205-252,metronidazole,rx_ncd
+64205-333,metronidazole,rx_ncd
+64980-235,metronidazole,rx_ncd
+64980-236,metronidazole,rx_ncd
+65862-694,metronidazole,rx_ncd
+65862-695,metronidazole,rx_ncd
+66116-601,metronidazole,rx_ncd
+66993-935,metronidazole,rx_ncd
+66993-960,metronidazole,rx_ncd
+66993-961,metronidazole,rx_ncd
+66993-962,metronidazole,rx_ncd
+67405-110,metronidazole,rx_ncd
+68001-229,metronidazole,rx_ncd
+68001-263,metronidazole,rx_ncd
+68084-216,metronidazole,rx_ncd
+68084-966,metronidazole,rx_ncd
+68151-2007,metronidazole,rx_ncd
+68682-455,metronidazole,rx_ncd
+68788-8930,metronidazole,rx_ncd
+68788-9082,metronidazole,rx_ncd
+68788-9083,metronidazole,rx_ncd
+68788-9372,metronidazole,rx_ncd
+68788-9397,metronidazole,rx_ncd
+68788-9505,metronidazole,rx_ncd
+68788-9887,metronidazole,rx_ncd
+69007-835,metronidazole,rx_ncd
+69007-836,metronidazole,rx_ncd
+69043-004,metronidazole,rx_ncd
+69043-005,metronidazole,rx_ncd
+76413-114,metronidazole,rx_ncd
+99207-130,metronidazole,rx_ncd
+Mar-30,aztreonam,rx_ncd
+Mar-40,aztreonam,rx_ncd
+Mar-60,aztreonam,rx_ncd
+Mar-70,aztreonam,rx_ncd
+55154-1054,aztreonam,rx_ncd
+63323-401,aztreonam,rx_ncd
+63323-402,aztreonam,rx_ncd
+0069-0104,doxycycline,rx_ncd
+0069-0950,doxycycline,rx_ncd
+0069-0970,doxycycline,rx_ncd
+0069-0971,doxycycline,rx_ncd
+0115-1208,doxycycline,rx_ncd
+0115-1209,doxycycline,rx_ncd
+0115-1327,doxycycline,rx_ncd
+0143-2112,doxycycline,rx_ncd
+0143-3141,doxycycline,rx_ncd
+0143-3142,doxycycline,rx_ncd
+0143-9803,doxycycline,rx_ncd
+0179-0129,doxycycline,rx_ncd
+0179-0140,doxycycline,rx_ncd
+0228-2895,doxycycline,rx_ncd
+0228-2896,doxycycline,rx_ncd
+0299-3822,doxycycline,rx_ncd
+0378-0145,doxycycline,rx_ncd
+0378-0148,doxycycline,rx_ncd
+0378-0167,doxycycline,rx_ncd
+0378-3030,doxycycline,rx_ncd
+0378-4531,doxycycline,rx_ncd
+0378-4532,doxycycline,rx_ncd
+0378-5475,doxycycline,rx_ncd
+0378-6021,doxycycline,rx_ncd
+0378-6022,doxycycline,rx_ncd
+0378-6023,doxycycline,rx_ncd
+0378-6124,doxycycline,rx_ncd
+0430-0115,doxycycline,rx_ncd
+0440-1481,doxycycline,rx_ncd
+0440-7481,doxycycline,rx_ncd
+0440-7483,doxycycline,rx_ncd
+0463-2013,doxycycline,rx_ncd
+0463-6000,doxycycline,rx_ncd
+0527-1335,doxycycline,rx_ncd
+0527-1336,doxycycline,rx_ncd
+0527-1338,doxycycline,rx_ncd
+0527-1535,doxycycline,rx_ncd
+0527-1537,doxycycline,rx_ncd
+0591-0410,doxycycline,rx_ncd
+0591-0411,doxycycline,rx_ncd
+0591-2404,doxycycline,rx_ncd
+0591-5440,doxycycline,rx_ncd
+0591-5535,doxycycline,rx_ncd
+0591-5553,doxycycline,rx_ncd
+0713-0427,doxycycline,rx_ncd
+0713-0428,doxycycline,rx_ncd
+0713-0429,doxycycline,rx_ncd
+0904-0427,doxycycline,rx_ncd
+0904-0428,doxycycline,rx_ncd
+10337-815,doxycycline,rx_ncd
+10544-060,doxycycline,rx_ncd
+10544-073,doxycycline,rx_ncd
+10544-095,doxycycline,rx_ncd
+10544-169,doxycycline,rx_ncd
+11819-305,doxycycline,rx_ncd
+11819-311,doxycycline,rx_ncd
+11819-348,doxycycline,rx_ncd
+15338-100,doxycycline,rx_ncd
+16110-075,doxycycline,rx_ncd
+16110-259,doxycycline,rx_ncd
+16110-260,doxycycline,rx_ncd
+16110-501,doxycycline,rx_ncd
+16110-502,doxycycline,rx_ncd
+16590-082,doxycycline,rx_ncd
+16590-299,doxycycline,rx_ncd
+21695-044,doxycycline,rx_ncd
+21695-581,doxycycline,rx_ncd
+23155-133,doxycycline,rx_ncd
+23155-134,doxycycline,rx_ncd
+23155-135,doxycycline,rx_ncd
+23155-136,doxycycline,rx_ncd
+23155-141,doxycycline,rx_ncd
+23155-142,doxycycline,rx_ncd
+23155-143,doxycycline,rx_ncd
+24236-049,doxycycline,rx_ncd
+24658-220,doxycycline,rx_ncd
+24658-312,doxycycline,rx_ncd
+26637-541,doxycycline,rx_ncd
+33261-143,doxycycline,rx_ncd
+33261-151,doxycycline,rx_ncd
+33261-888,doxycycline,rx_ncd
+33261-899,doxycycline,rx_ncd
+40032-790,doxycycline,rx_ncd
+40032-791,doxycycline,rx_ncd
+40032-792,doxycycline,rx_ncd
+42254-426,doxycycline,rx_ncd
+42291-248,doxycycline,rx_ncd
+42291-249,doxycycline,rx_ncd
+42291-250,doxycycline,rx_ncd
+42783-601,doxycycline,rx_ncd
+42852-002,doxycycline,rx_ncd
+43063-019,doxycycline,rx_ncd
+43063-529,doxycycline,rx_ncd
+43063-604,doxycycline,rx_ncd
+43063-625,doxycycline,rx_ncd
+43063-626,doxycycline,rx_ncd
+43353-923,doxycycline,rx_ncd
+43386-790,doxycycline,rx_ncd
+43386-791,doxycycline,rx_ncd
+43386-792,doxycycline,rx_ncd
+43538-600,doxycycline,rx_ncd
+43538-601,doxycycline,rx_ncd
+43538-610,doxycycline,rx_ncd
+43538-611,doxycycline,rx_ncd
+45865-444,doxycycline,rx_ncd
+45865-755,doxycycline,rx_ncd
+48433-100,doxycycline,rx_ncd
+49349-949,doxycycline,rx_ncd
+49884-091,doxycycline,rx_ncd
+49884-092,doxycycline,rx_ncd
+49884-093,doxycycline,rx_ncd
+49884-236,doxycycline,rx_ncd
+49884-305,doxycycline,rx_ncd
+49884-726,doxycycline,rx_ncd
+49884-727,doxycycline,rx_ncd
+49999-020,doxycycline,rx_ncd
+49999-126,doxycycline,rx_ncd
+50090-0021,doxycycline,rx_ncd
+50090-0022,doxycycline,rx_ncd
+50090-0023,doxycycline,rx_ncd
+50090-0024,doxycycline,rx_ncd
+50090-0026,doxycycline,rx_ncd
+50090-0027,doxycycline,rx_ncd
+50090-0296,doxycycline,rx_ncd
+50090-0297,doxycycline,rx_ncd
+50090-0298,doxycycline,rx_ncd
+50090-0299,doxycycline,rx_ncd
+50268-277,doxycycline,rx_ncd
+50268-278,doxycycline,rx_ncd
+50268-279,doxycycline,rx_ncd
+50436-0340,doxycycline,rx_ncd
+51655-184,doxycycline,rx_ncd
+51862-557,doxycycline,rx_ncd
+51862-558,doxycycline,rx_ncd
+52125-002,doxycycline,rx_ncd
+52125-135,doxycycline,rx_ncd
+52125-206,doxycycline,rx_ncd
+52125-357,doxycycline,rx_ncd
+52125-433,doxycycline,rx_ncd
+52125-457,doxycycline,rx_ncd
+52125-783,doxycycline,rx_ncd
+52584-028,doxycycline,rx_ncd
+52584-110,doxycycline,rx_ncd
+52959-055,doxycycline,rx_ncd
+53401-100,doxycycline,rx_ncd
+53401-300,doxycycline,rx_ncd
+53489-118,doxycycline,rx_ncd
+53489-119,doxycycline,rx_ncd
+53489-120,doxycycline,rx_ncd
+53489-647,doxycycline,rx_ncd
+53808-0239,doxycycline,rx_ncd
+53808-0240,doxycycline,rx_ncd
+53808-0832,doxycycline,rx_ncd
+53808-0962,doxycycline,rx_ncd
+53808-1059,doxycycline,rx_ncd
+54569-0118,doxycycline,rx_ncd
+54569-0147,doxycycline,rx_ncd
+54569-1840,doxycycline,rx_ncd
+54569-3074,doxycycline,rx_ncd
+54569-8401,doxycycline,rx_ncd
+54799-533,doxycycline,rx_ncd
+54799-535,doxycycline,rx_ncd
+54868-0023,doxycycline,rx_ncd
+54868-0191,doxycycline,rx_ncd
+54868-3169,doxycycline,rx_ncd
+54868-5269,doxycycline,rx_ncd
+54868-5676,doxycycline,rx_ncd
+54868-6190,doxycycline,rx_ncd
+55154-3325,doxycycline,rx_ncd
+55154-5868,doxycycline,rx_ncd
+55154-7128,doxycycline,rx_ncd
+55289-107,doxycycline,rx_ncd
+55289-502,doxycycline,rx_ncd
+55289-866,doxycycline,rx_ncd
+55695-032,doxycycline,rx_ncd
+55700-086,doxycycline,rx_ncd
+55700-122,doxycycline,rx_ncd
+55700-250,doxycycline,rx_ncd
+55700-323,doxycycline,rx_ncd
+57237-103,doxycycline,rx_ncd
+57237-104,doxycycline,rx_ncd
+57237-105,doxycycline,rx_ncd
+58118-3142,doxycycline,rx_ncd
+59115-122,doxycycline,rx_ncd
+59115-123,doxycycline,rx_ncd
+59762-3690,doxycycline,rx_ncd
+60429-162,doxycycline,rx_ncd
+60429-263,doxycycline,rx_ncd
+60687-118,doxycycline,rx_ncd
+60760-215,doxycycline,rx_ncd
+61748-111,doxycycline,rx_ncd
+61786-508,doxycycline,rx_ncd
+61919-082,doxycycline,rx_ncd
+61919-276,doxycycline,rx_ncd
+61919-299,doxycycline,rx_ncd
+61919-433,doxycycline,rx_ncd
+61919-474,doxycycline,rx_ncd
+62135-626,doxycycline,rx_ncd
+62135-984,doxycycline,rx_ncd
+62135-985,doxycycline,rx_ncd
+62584-693,doxycycline,rx_ncd
+63187-135,doxycycline,rx_ncd
+63187-672,doxycycline,rx_ncd
+63304-130,doxycycline,rx_ncd
+63304-131,doxycycline,rx_ncd
+63304-132,doxycycline,rx_ncd
+63304-173,doxycycline,rx_ncd
+63304-614,doxycycline,rx_ncd
+63304-615,doxycycline,rx_ncd
+63304-616,doxycycline,rx_ncd
+63323-130,doxycycline,rx_ncd
+63629-1531,doxycycline,rx_ncd
+63629-5361,doxycycline,rx_ncd
+63739-168,doxycycline,rx_ncd
+64725-5440,doxycycline,rx_ncd
+65841-821,doxycycline,rx_ncd
+65841-822,doxycycline,rx_ncd
+65841-823,doxycycline,rx_ncd
+66116-412,doxycycline,rx_ncd
+66336-558,doxycycline,rx_ncd
+66993-815,doxycycline,rx_ncd
+67046-135,doxycycline,rx_ncd
+67253-388,doxycycline,rx_ncd
+67253-389,doxycycline,rx_ncd
+67253-391,doxycycline,rx_ncd
+67405-475,doxycycline,rx_ncd
+67405-550,doxycycline,rx_ncd
+67405-650,doxycycline,rx_ncd
+67405-651,doxycycline,rx_ncd
+67457-437,doxycycline,rx_ncd
+68047-714,doxycycline,rx_ncd
+68084-743,doxycycline,rx_ncd
+68084-785,doxycycline,rx_ncd
+68084-939,doxycycline,rx_ncd
+68151-2022,doxycycline,rx_ncd
+68180-650,doxycycline,rx_ncd
+68180-651,doxycycline,rx_ncd
+68180-652,doxycycline,rx_ncd
+68180-657,doxycycline,rx_ncd
+68308-710,doxycycline,rx_ncd
+68308-715,doxycycline,rx_ncd
+68308-716,doxycycline,rx_ncd
+68308-775,doxycycline,rx_ncd
+68382-706,doxycycline,rx_ncd
+68382-707,doxycycline,rx_ncd
+68382-782,doxycycline,rx_ncd
+68387-381,doxycycline,rx_ncd
+68645-020,doxycycline,rx_ncd
+68645-021,doxycycline,rx_ncd
+68788-2112,doxycycline,rx_ncd
+68788-9037,doxycycline,rx_ncd
+68788-9292,doxycycline,rx_ncd
+68788-9767,doxycycline,rx_ncd
+68999-626,doxycycline,rx_ncd
+68999-984,doxycycline,rx_ncd
+68999-985,doxycycline,rx_ncd
+69007-822,doxycycline,rx_ncd
+69097-225,doxycycline,rx_ncd
+69097-226,doxycycline,rx_ncd
+69097-227,doxycycline,rx_ncd
+69097-228,doxycycline,rx_ncd
+69101-001,doxycycline,rx_ncd
+69189-0391,doxycycline,rx_ncd
+69235-310,doxycycline,rx_ncd
+69235-320,doxycycline,rx_ncd
+69235-350,doxycycline,rx_ncd
+69668-431,doxycycline,rx_ncd
+69668-432,doxycycline,rx_ncd
+69668-433,doxycycline,rx_ncd
+75921-119,doxycycline,rx_ncd
+55154-2650,doxycycline,rx_ncd
+55154-2653,doxycycline,rx_ncd
+55154-7469,doxycycline,rx_ncd
+Aug-90,tigecycline,rx_ncd
+0039-0017,cefotaxime,rx_ncd
+0039-0018,cefotaxime,rx_ncd
+0039-0019,cefotaxime,rx_ncd
+0039-0020,cefotaxime,rx_ncd
+0039-0023,cefotaxime,rx_ncd
+0039-0024,cefotaxime,rx_ncd
+0039-0037,cefotaxime,rx_ncd
+0039-0038,cefotaxime,rx_ncd
+0143-9930,cefotaxime,rx_ncd
+0143-9931,cefotaxime,rx_ncd
+0143-9933,cefotaxime,rx_ncd
+0143-9935,cefotaxime,rx_ncd
+0409-0811,cefotaxime,rx_ncd
+0409-0812,cefotaxime,rx_ncd
+52584-018,cefotaxime,rx_ncd
+55648-947,cefotaxime,rx_ncd
+55648-948,cefotaxime,rx_ncd
+55648-986,cefotaxime,rx_ncd
+64679-947,cefotaxime,rx_ncd
+64679-948,cefotaxime,rx_ncd
+64679-986,cefotaxime,rx_ncd
+68180-811,cefotaxime,rx_ncd
+68180-822,cefotaxime,rx_ncd
+68180-833,cefotaxime,rx_ncd
+Jun-43,ertapenem,rx_ncd
+Jun-45,ertapenem,rx_ncd
+0641-6166,amikacin,rx_ncd
+0641-6167,amikacin,rx_ncd
+0703-9032,amikacin,rx_ncd
+0703-9040,amikacin,rx_ncd
+23155-290,amikacin,rx_ncd
+63323-815,amikacin,rx_ncd
+63323-816,amikacin,rx_ncd
+59630-309,doripenem,rx_ncd
+59630-320,doripenem,rx_ncd
+0093-2270,clavulanate,rx_ncd
+0093-2272,clavulanate,rx_ncd
+0093-2274,clavulanate,rx_ncd
+0093-2275,clavulanate,rx_ncd
+0093-2277,clavulanate,rx_ncd
+0093-2279,clavulanate,rx_ncd
+0093-8675,clavulanate,rx_ncd
+0143-9853,clavulanate,rx_ncd
+0143-9981,clavulanate,rx_ncd
+0143-9982,clavulanate,rx_ncd
+0781-1619,clavulanate,rx_ncd
+0781-1643,clavulanate,rx_ncd
+0781-1831,clavulanate,rx_ncd
+0781-1852,clavulanate,rx_ncd
+0781-1874,clavulanate,rx_ncd
+0781-1943,clavulanate,rx_ncd
+0781-6102,clavulanate,rx_ncd
+0781-6104,clavulanate,rx_ncd
+0781-6139,clavulanate,rx_ncd
+10544-897,clavulanate,rx_ncd
+10544-931,clavulanate,rx_ncd
+10544-951,clavulanate,rx_ncd
+16590-019,clavulanate,rx_ncd
+16590-020,clavulanate,rx_ncd
+16714-292,clavulanate,rx_ncd
+16714-293,clavulanate,rx_ncd
+16714-294,clavulanate,rx_ncd
+16714-295,clavulanate,rx_ncd
+16714-296,clavulanate,rx_ncd
+16714-297,clavulanate,rx_ncd
+16714-476,clavulanate,rx_ncd
+16714-477,clavulanate,rx_ncd
+16714-478,clavulanate,rx_ncd
+16714-494,clavulanate,rx_ncd
+21695-214,clavulanate,rx_ncd
+21695-215,clavulanate,rx_ncd
+21695-401,clavulanate,rx_ncd
+21695-546,clavulanate,rx_ncd
+21695-767,clavulanate,rx_ncd
+33261-111,clavulanate,rx_ncd
+33261-112,clavulanate,rx_ncd
+33261-464,clavulanate,rx_ncd
+33261-600,clavulanate,rx_ncd
+33261-970,clavulanate,rx_ncd
+33261-988,clavulanate,rx_ncd
+33261-989,clavulanate,rx_ncd
+35356-981,clavulanate,rx_ncd
+35356-982,clavulanate,rx_ncd
+42254-282,clavulanate,rx_ncd
+42549-531,clavulanate,rx_ncd
+42549-570,clavulanate,rx_ncd
+43063-077,clavulanate,rx_ncd
+43063-342,clavulanate,rx_ncd
+43063-377,clavulanate,rx_ncd
+43598-003,clavulanate,rx_ncd
+43598-004,clavulanate,rx_ncd
+43598-006,clavulanate,rx_ncd
+43598-012,clavulanate,rx_ncd
+43598-018,clavulanate,rx_ncd
+43598-020,clavulanate,rx_ncd
+43598-021,clavulanate,rx_ncd
+43598-203,clavulanate,rx_ncd
+43598-204,clavulanate,rx_ncd
+43598-206,clavulanate,rx_ncd
+43598-208,clavulanate,rx_ncd
+43598-213,clavulanate,rx_ncd
+43598-218,clavulanate,rx_ncd
+43598-220,clavulanate,rx_ncd
+43598-221,clavulanate,rx_ncd
+43858-601,clavulanate,rx_ncd
+43858-602,clavulanate,rx_ncd
+43858-603,clavulanate,rx_ncd
+43858-604,clavulanate,rx_ncd
+43858-605,clavulanate,rx_ncd
+43858-606,clavulanate,rx_ncd
+43858-607,clavulanate,rx_ncd
+45865-418,clavulanate,rx_ncd
+49999-177,clavulanate,rx_ncd
+49999-246,clavulanate,rx_ncd
+50436-3129,clavulanate,rx_ncd
+50436-5166,clavulanate,rx_ncd
+50436-6051,clavulanate,rx_ncd
+51655-158,clavulanate,rx_ncd
+51655-160,clavulanate,rx_ncd
+52959-702,clavulanate,rx_ncd
+52959-707,clavulanate,rx_ncd
+53808-0341,clavulanate,rx_ncd
+53808-0740,clavulanate,rx_ncd
+53808-0759,clavulanate,rx_ncd
+54569-0117,clavulanate,rx_ncd
+54569-4325,clavulanate,rx_ncd
+54569-5470,clavulanate,rx_ncd
+54569-5471,clavulanate,rx_ncd
+54569-5487,clavulanate,rx_ncd
+54569-5488,clavulanate,rx_ncd
+54569-5638,clavulanate,rx_ncd
+54569-5689,clavulanate,rx_ncd
+54569-5690,clavulanate,rx_ncd
+54569-5831,clavulanate,rx_ncd
+54569-6043,clavulanate,rx_ncd
+54868-0286,clavulanate,rx_ncd
+54868-0387,clavulanate,rx_ncd
+54868-4735,clavulanate,rx_ncd
+54868-4743,clavulanate,rx_ncd
+54868-4951,clavulanate,rx_ncd
+54868-4990,clavulanate,rx_ncd
+54868-5165,clavulanate,rx_ncd
+54868-5175,clavulanate,rx_ncd
+54868-6271,clavulanate,rx_ncd
+55154-4511,clavulanate,rx_ncd
+55289-767,clavulanate,rx_ncd
+55289-845,clavulanate,rx_ncd
+55700-306,clavulanate,rx_ncd
+55700-375,clavulanate,rx_ncd
+58118-0017,clavulanate,rx_ncd
+58118-0019,clavulanate,rx_ncd
+58118-0047,clavulanate,rx_ncd
+58118-0057,clavulanate,rx_ncd
+59115-023,clavulanate,rx_ncd
+59115-024,clavulanate,rx_ncd
+59115-061,clavulanate,rx_ncd
+60432-065,clavulanate,rx_ncd
+60432-070,clavulanate,rx_ncd
+61786-137,clavulanate,rx_ncd
+61786-461,clavulanate,rx_ncd
+61786-472,clavulanate,rx_ncd
+61786-604,clavulanate,rx_ncd
+61786-742,clavulanate,rx_ncd
+61919-020,clavulanate,rx_ncd
+61919-202,clavulanate,rx_ncd
+61919-637,clavulanate,rx_ncd
+63187-014,clavulanate,rx_ncd
+63187-032,clavulanate,rx_ncd
+63187-320,clavulanate,rx_ncd
+63187-327,clavulanate,rx_ncd
+63187-423,clavulanate,rx_ncd
+63187-488,clavulanate,rx_ncd
+63187-542,clavulanate,rx_ncd
+63304-768,clavulanate,rx_ncd
+63629-1248,clavulanate,rx_ncd
+65862-501,clavulanate,rx_ncd
+65862-502,clavulanate,rx_ncd
+65862-503,clavulanate,rx_ncd
+65862-533,clavulanate,rx_ncd
+65862-534,clavulanate,rx_ncd
+65862-535,clavulanate,rx_ncd
+66116-478,clavulanate,rx_ncd
+66116-507,clavulanate,rx_ncd
+66685-1001,clavulanate,rx_ncd
+66685-1002,clavulanate,rx_ncd
+66685-1011,clavulanate,rx_ncd
+66685-1012,clavulanate,rx_ncd
+67296-0716,clavulanate,rx_ncd
+68788-0047,clavulanate,rx_ncd
+68788-0483,clavulanate,rx_ncd
+68788-0598,clavulanate,rx_ncd
+68788-8956,clavulanate,rx_ncd
+68788-8996,clavulanate,rx_ncd
+68788-9043,clavulanate,rx_ncd
+68788-9055,clavulanate,rx_ncd
+68788-9310,clavulanate,rx_ncd
+68788-9316,clavulanate,rx_ncd
+68788-9319,clavulanate,rx_ncd
+68788-9377,clavulanate,rx_ncd
+68788-9424,clavulanate,rx_ncd
+68788-9433,clavulanate,rx_ncd
+68788-9725,clavulanate,rx_ncd
+68788-9726,clavulanate,rx_ncd
+68788-9745,clavulanate,rx_ncd
+68788-9847,clavulanate,rx_ncd
+68788-9960,clavulanate,rx_ncd
+68788-9961,clavulanate,rx_ncd
+68788-9970,clavulanate,rx_ncd
+69189-1001,clavulanate,rx_ncd
+69189-1874,clavulanate,rx_ncd
+58118-0009,clavulanate,rx_ncd
+0456-0400,ceftaroline,rx_ncd
+0456-0600,ceftaroline,rx_ncd
+0143-9567,cefuroxime,rx_ncd
+0143-9568,cefuroxime,rx_ncd
+0143-9569,cefuroxime,rx_ncd
+0143-9976,cefuroxime,rx_ncd
+0143-9977,cefuroxime,rx_ncd
+0143-9979,cefuroxime,rx_ncd
+0173-0387,cefuroxime,rx_ncd
+0173-0394,cefuroxime,rx_ncd
+0173-0740,cefuroxime,rx_ncd
+0173-0741,cefuroxime,rx_ncd
+0409-0802,cefuroxime,rx_ncd
+16590-215,cefuroxime,rx_ncd
+16714-400,cefuroxime,rx_ncd
+16714-401,cefuroxime,rx_ncd
+21695-150,cefuroxime,rx_ncd
+21695-370,cefuroxime,rx_ncd
+24987-352,cefuroxime,rx_ncd
+24987-354,cefuroxime,rx_ncd
+24987-400,cefuroxime,rx_ncd
+24987-425,cefuroxime,rx_ncd
+24987-436,cefuroxime,rx_ncd
+24987-437,cefuroxime,rx_ncd
+25021-118,cefuroxime,rx_ncd
+25021-119,cefuroxime,rx_ncd
+25021-120,cefuroxime,rx_ncd
+42043-230,cefuroxime,rx_ncd
+42043-231,cefuroxime,rx_ncd
+43063-269,cefuroxime,rx_ncd
+43063-307,cefuroxime,rx_ncd
+43063-508,cefuroxime,rx_ncd
+43063-584,cefuroxime,rx_ncd
+43063-623,cefuroxime,rx_ncd
+43063-656,cefuroxime,rx_ncd
+43063-657,cefuroxime,rx_ncd
+44567-710,cefuroxime,rx_ncd
+44567-711,cefuroxime,rx_ncd
+44567-712,cefuroxime,rx_ncd
+44567-720,cefuroxime,rx_ncd
+44567-722,cefuroxime,rx_ncd
+50436-5022,cefuroxime,rx_ncd
+52343-062,cefuroxime,rx_ncd
+52343-063,cefuroxime,rx_ncd
+52959-308,cefuroxime,rx_ncd
+52959-939,cefuroxime,rx_ncd
+54569-4737,cefuroxime,rx_ncd
+54569-5386,cefuroxime,rx_ncd
+54569-5418,cefuroxime,rx_ncd
+54868-4987,cefuroxime,rx_ncd
+54868-5022,cefuroxime,rx_ncd
+55289-385,cefuroxime,rx_ncd
+55648-920,cefuroxime,rx_ncd
+55648-921,cefuroxime,rx_ncd
+55648-922,cefuroxime,rx_ncd
+57237-058,cefuroxime,rx_ncd
+57237-059,cefuroxime,rx_ncd
+58118-0921,cefuroxime,rx_ncd
+58118-0922,cefuroxime,rx_ncd
+60505-1201,cefuroxime,rx_ncd
+60505-1202,cefuroxime,rx_ncd
+61919-044,cefuroxime,rx_ncd
+61919-145,cefuroxime,rx_ncd
+63304-963,cefuroxime,rx_ncd
+63304-964,cefuroxime,rx_ncd
+63323-352,cefuroxime,rx_ncd
+63323-353,cefuroxime,rx_ncd
+63323-354,cefuroxime,rx_ncd
+64679-920,cefuroxime,rx_ncd
+64679-921,cefuroxime,rx_ncd
+64679-922,cefuroxime,rx_ncd
+65862-698,cefuroxime,rx_ncd
+65862-699,cefuroxime,rx_ncd
+65862-700,cefuroxime,rx_ncd
+66116-479,cefuroxime,rx_ncd
+66288-2075,cefuroxime,rx_ncd
+66288-2225,cefuroxime,rx_ncd
+67877-215,cefuroxime,rx_ncd
+67877-216,cefuroxime,rx_ncd
+68180-302,cefuroxime,rx_ncd
+68180-303,cefuroxime,rx_ncd
+68788-9333,cefuroxime,rx_ncd
+68788-9422,cefuroxime,rx_ncd
+68788-9700,cefuroxime,rx_ncd
+68788-9701,cefuroxime,rx_ncd
+68788-9914,cefuroxime,rx_ncd
+0574-0858,colistimethate,rx_ncd
+23155-193,colistimethate,rx_ncd
+25021-159,colistimethate,rx_ncd
+39822-0615,colistimethate,rx_ncd
+42023-107,colistimethate,rx_ncd
+42023-131,colistimethate,rx_ncd
+45932-0023,colistimethate,rx_ncd
+63323-393,colistimethate,rx_ncd
+0049-0520,penicillin,rx_ncd
+0049-0530,penicillin,rx_ncd
+0093-1172,penicillin,rx_ncd
+0093-1174,penicillin,rx_ncd
+0093-4125,penicillin,rx_ncd
+0093-4127,penicillin,rx_ncd
+0143-9836,penicillin,rx_ncd
+0143-9837,penicillin,rx_ncd
+0338-1021,penicillin,rx_ncd
+0338-1023,penicillin,rx_ncd
+0338-1025,penicillin,rx_ncd
+0440-2055,penicillin,rx_ncd
+0440-8055,penicillin,rx_ncd
+0440-8056,penicillin,rx_ncd
+0781-1205,penicillin,rx_ncd
+0781-1655,penicillin,rx_ncd
+0781-6135,penicillin,rx_ncd
+0781-6136,penicillin,rx_ncd
+0781-6153,penicillin,rx_ncd
+10544-075,penicillin,rx_ncd
+10544-296,penicillin,rx_ncd
+10544-297,penicillin,rx_ncd
+10544-500,penicillin,rx_ncd
+10544-975,penicillin,rx_ncd
+16714-234,penicillin,rx_ncd
+16714-235,penicillin,rx_ncd
+21695-318,penicillin,rx_ncd
+21695-559,penicillin,rx_ncd
+21695-772,penicillin,rx_ncd
+33261-134,penicillin,rx_ncd
+33261-138,penicillin,rx_ncd
+43063-054,penicillin,rx_ncd
+43063-096,penicillin,rx_ncd
+43063-557,penicillin,rx_ncd
+43063-576,penicillin,rx_ncd
+43063-614,penicillin,rx_ncd
+43063-622,penicillin,rx_ncd
+44567-310,penicillin,rx_ncd
+44567-311,penicillin,rx_ncd
+44567-312,penicillin,rx_ncd
+49999-002,penicillin,rx_ncd
+49999-050,penicillin,rx_ncd
+50436-3613,penicillin,rx_ncd
+51655-011,penicillin,rx_ncd
+54569-2702,penicillin,rx_ncd
+54569-2710,penicillin,rx_ncd
+54569-2933,penicillin,rx_ncd
+54569-2935,penicillin,rx_ncd
+54569-5877,penicillin,rx_ncd
+54868-1171,penicillin,rx_ncd
+54868-1173,penicillin,rx_ncd
+54868-1780,penicillin,rx_ncd
+54868-4125,penicillin,rx_ncd
+54868-5932,penicillin,rx_ncd
+55289-206,penicillin,rx_ncd
+55289-207,penicillin,rx_ncd
+55700-044,penicillin,rx_ncd
+57237-040,penicillin,rx_ncd
+57237-041,penicillin,rx_ncd
+60429-147,penicillin,rx_ncd
+60429-148,penicillin,rx_ncd
+60793-130,penicillin,rx_ncd
+60793-131,penicillin,rx_ncd
+60793-600,penicillin,rx_ncd
+60793-601,penicillin,rx_ncd
+60793-602,penicillin,rx_ncd
+60793-700,penicillin,rx_ncd
+60793-701,penicillin,rx_ncd
+60793-702,penicillin,rx_ncd
+61786-165,penicillin,rx_ncd
+61786-451,penicillin,rx_ncd
+61786-480,penicillin,rx_ncd
+63187-045,penicillin,rx_ncd
+63187-533,penicillin,rx_ncd
+63187-676,penicillin,rx_ncd
+63323-323,penicillin,rx_ncd
+63323-324,penicillin,rx_ncd
+63776-073,penicillin,rx_ncd
+63776-075,penicillin,rx_ncd
+65862-175,penicillin,rx_ncd
+65862-176,penicillin,rx_ncd
+67253-200,penicillin,rx_ncd
+67253-201,penicillin,rx_ncd
+67253-202,penicillin,rx_ncd
+67253-203,penicillin,rx_ncd
+68258-8910,penicillin,rx_ncd
+68788-8949,penicillin,rx_ncd
+68788-8990,penicillin,rx_ncd
+68788-9260,penicillin,rx_ncd
+68788-9289,penicillin,rx_ncd
+68788-9852,penicillin,rx_ncd
+68788-9853,penicillin,rx_ncd
+68788-9854,penicillin,rx_ncd
+0409-0106,daptomycin,rx_ncd
+67919-011,daptomycin,rx_ncd
+0143-9876,cefoxitin,rx_ncd
+0143-9877,cefoxitin,rx_ncd
+0143-9878,cefoxitin,rx_ncd
+0264-3123,cefoxitin,rx_ncd
+0264-3125,cefoxitin,rx_ncd
+25021-109,cefoxitin,rx_ncd
+25021-110,cefoxitin,rx_ncd
+25021-111,cefoxitin,rx_ncd
+44567-245,cefoxitin,rx_ncd
+44567-246,cefoxitin,rx_ncd
+44567-247,cefoxitin,rx_ncd
+60505-0759,cefoxitin,rx_ncd
+60505-0760,cefoxitin,rx_ncd
+60505-0761,cefoxitin,rx_ncd
+60505-6025,cefoxitin,rx_ncd
+60505-6026,cefoxitin,rx_ncd
+61786-429,cefoxitin,rx_ncd
+63323-341,cefoxitin,rx_ncd
+63323-342,cefoxitin,rx_ncd
+63323-343,cefoxitin,rx_ncd
+66288-4100,cefoxitin,rx_ncd
+0338-1017,nafcillin,rx_ncd
+0338-1019,nafcillin,rx_ncd
+0703-9095,nafcillin,rx_ncd
+0703-9105,nafcillin,rx_ncd
+0781-3124,nafcillin,rx_ncd
+0781-3125,nafcillin,rx_ncd
+0781-3126,nafcillin,rx_ncd
+0781-3128,nafcillin,rx_ncd
+0781-3129,nafcillin,rx_ncd
+0781-9124,nafcillin,rx_ncd
+0781-9125,nafcillin,rx_ncd
+0781-9126,nafcillin,rx_ncd
+0781-9224,nafcillin,rx_ncd
+0781-9225,nafcillin,rx_ncd
+25021-139,nafcillin,rx_ncd
+25021-140,nafcillin,rx_ncd
+25021-141,nafcillin,rx_ncd
+36000-175,nafcillin,rx_ncd
+36000-176,nafcillin,rx_ncd
+44567-221,nafcillin,rx_ncd
+44567-222,nafcillin,rx_ncd
+44567-223,nafcillin,rx_ncd
+55150-122,nafcillin,rx_ncd
+55150-123,nafcillin,rx_ncd
+55150-124,nafcillin,rx_ncd
+63323-327,nafcillin,rx_ncd
+63323-328,nafcillin,rx_ncd
+63323-330,nafcillin,rx_ncd
+0093-3123,oxacillin,rx_ncd
+0093-3125,oxacillin,rx_ncd
+0338-1013,oxacillin,rx_ncd
+0338-1015,oxacillin,rx_ncd
+0409-1230,oxacillin,rx_ncd
+0409-1231,oxacillin,rx_ncd
+0440-1380,oxacillin,rx_ncd
+0440-7380,oxacillin,rx_ncd
+0703-9106,oxacillin,rx_ncd
+0703-9107,oxacillin,rx_ncd
+0781-2248,oxacillin,rx_ncd
+0781-2258,oxacillin,rx_ncd
+0781-3094,oxacillin,rx_ncd
+0781-3095,oxacillin,rx_ncd
+0781-3099,oxacillin,rx_ncd
+0781-3101,oxacillin,rx_ncd
+0781-3103,oxacillin,rx_ncd
+0781-9109,oxacillin,rx_ncd
+0781-9110,oxacillin,rx_ncd
+0781-9111,oxacillin,rx_ncd
+0781-9112,oxacillin,rx_ncd
+0781-9113,oxacillin,rx_ncd
+16590-076,oxacillin,rx_ncd
+21695-124,oxacillin,rx_ncd
+25021-146,oxacillin,rx_ncd
+25021-162,oxacillin,rx_ncd
+25021-163,oxacillin,rx_ncd
+43063-180,oxacillin,rx_ncd
+43063-473,oxacillin,rx_ncd
+49999-120,oxacillin,rx_ncd
+50090-0116,oxacillin,rx_ncd
+50090-0117,oxacillin,rx_ncd
+50090-0310,oxacillin,rx_ncd
+52959-049,oxacillin,rx_ncd
+54569-0384,oxacillin,rx_ncd
+54569-1889,oxacillin,rx_ncd
+54868-0937,oxacillin,rx_ncd
+54868-1380,oxacillin,rx_ncd
+55150-127,oxacillin,rx_ncd
+55150-128,oxacillin,rx_ncd
+55150-129,oxacillin,rx_ncd
+55289-094,oxacillin,rx_ncd
+55289-592,oxacillin,rx_ncd
+67296-0122,oxacillin,rx_ncd
+69189-2248,oxacillin,rx_ncd
+76126-100,oxacillin,rx_ncd
+76126-101,oxacillin,rx_ncd
+52118-001,telavancin,rx_ncd
+52118-002,telavancin,rx_ncd
+62847-001,telavancin,rx_ncd
+62847-002,telavancin,rx_ncd
+0049-0013,ampicillin,rx_ncd
+0049-0014,ampicillin,rx_ncd
+0049-0022,ampicillin,rx_ncd
+0049-0023,ampicillin,rx_ncd
+0049-0024,ampicillin,rx_ncd
+0049-0031,ampicillin,rx_ncd
+0049-0032,ampicillin,rx_ncd
+0409-2682,ampicillin,rx_ncd
+0409-2683,ampicillin,rx_ncd
+0409-2684,ampicillin,rx_ncd
+0409-2685,ampicillin,rx_ncd
+0409-2686,ampicillin,rx_ncd
+0409-2687,ampicillin,rx_ncd
+0409-2689,ampicillin,rx_ncd
+0409-2987,ampicillin,rx_ncd
+0409-2988,ampicillin,rx_ncd
+0409-2998,ampicillin,rx_ncd
+0463-1118,ampicillin,rx_ncd
+0641-6116,ampicillin,rx_ncd
+0641-6117,ampicillin,rx_ncd
+0641-6118,ampicillin,rx_ncd
+0641-6119,ampicillin,rx_ncd
+0641-6120,ampicillin,rx_ncd
+0641-6121,ampicillin,rx_ncd
+0641-6122,ampicillin,rx_ncd
+0641-6123,ampicillin,rx_ncd
+0781-2144,ampicillin,rx_ncd
+0781-2145,ampicillin,rx_ncd
+0781-3032,ampicillin,rx_ncd
+0781-3033,ampicillin,rx_ncd
+0781-3034,ampicillin,rx_ncd
+0781-3400,ampicillin,rx_ncd
+0781-3402,ampicillin,rx_ncd
+0781-3404,ampicillin,rx_ncd
+0781-3407,ampicillin,rx_ncd
+0781-3408,ampicillin,rx_ncd
+0781-3409,ampicillin,rx_ncd
+0781-3412,ampicillin,rx_ncd
+0781-3413,ampicillin,rx_ncd
+0781-9242,ampicillin,rx_ncd
+0781-9250,ampicillin,rx_ncd
+0781-9261,ampicillin,rx_ncd
+0781-9273,ampicillin,rx_ncd
+0781-9401,ampicillin,rx_ncd
+0781-9402,ampicillin,rx_ncd
+0781-9404,ampicillin,rx_ncd
+0781-9407,ampicillin,rx_ncd
+0781-9408,ampicillin,rx_ncd
+0781-9409,ampicillin,rx_ncd
+0781-9412,ampicillin,rx_ncd
+0781-9413,ampicillin,rx_ncd
+10515-140,ampicillin,rx_ncd
+10515-142,ampicillin,rx_ncd
+10515-145,ampicillin,rx_ncd
+10515-146,ampicillin,rx_ncd
+10515-772,ampicillin,rx_ncd
+10544-122,ampicillin,rx_ncd
+25021-134,ampicillin,rx_ncd
+25021-135,ampicillin,rx_ncd
+25021-136,ampicillin,rx_ncd
+25021-137,ampicillin,rx_ncd
+25021-138,ampicillin,rx_ncd
+25021-142,ampicillin,rx_ncd
+25021-143,ampicillin,rx_ncd
+25021-144,ampicillin,rx_ncd
+26637-321,ampicillin,rx_ncd
+36000-070,ampicillin,rx_ncd
+36000-071,ampicillin,rx_ncd
+36000-072,ampicillin,rx_ncd
+36000-073,ampicillin,rx_ncd
+36000-094,ampicillin,rx_ncd
+36000-095,ampicillin,rx_ncd
+44567-100,ampicillin,rx_ncd
+44567-101,ampicillin,rx_ncd
+44567-102,ampicillin,rx_ncd
+44567-103,ampicillin,rx_ncd
+44567-104,ampicillin,rx_ncd
+44567-210,ampicillin,rx_ncd
+44567-211,ampicillin,rx_ncd
+44567-212,ampicillin,rx_ncd
+52584-071,ampicillin,rx_ncd
+52584-072,ampicillin,rx_ncd
+52584-135,ampicillin,rx_ncd
+52584-136,ampicillin,rx_ncd
+52584-389,ampicillin,rx_ncd
+52959-389,ampicillin,rx_ncd
+54569-2411,ampicillin,rx_ncd
+54868-3113,ampicillin,rx_ncd
+55150-111,ampicillin,rx_ncd
+55150-112,ampicillin,rx_ncd
+55150-113,ampicillin,rx_ncd
+55150-114,ampicillin,rx_ncd
+55150-115,ampicillin,rx_ncd
+55150-116,ampicillin,rx_ncd
+55150-117,ampicillin,rx_ncd
+55150-118,ampicillin,rx_ncd
+55150-178,ampicillin,rx_ncd
+55150-179,ampicillin,rx_ncd
+55154-2475,ampicillin,rx_ncd
+55154-2476,ampicillin,rx_ncd
+55154-5420,ampicillin,rx_ncd
+55154-9379,ampicillin,rx_ncd
+55154-9384,ampicillin,rx_ncd
+55154-9555,ampicillin,rx_ncd
+55289-023,ampicillin,rx_ncd
+55289-024,ampicillin,rx_ncd
+60429-023,ampicillin,rx_ncd
+60429-024,ampicillin,rx_ncd
+61786-587,ampicillin,rx_ncd
+63323-368,ampicillin,rx_ncd
+63323-369,ampicillin,rx_ncd
+63323-370,ampicillin,rx_ncd
+63323-387,ampicillin,rx_ncd
+63323-388,ampicillin,rx_ncd
+63323-389,ampicillin,rx_ncd
+63323-399,ampicillin,rx_ncd
+63323-404,ampicillin,rx_ncd
+67253-180,ampicillin,rx_ncd
+67253-181,ampicillin,rx_ncd
+67253-182,ampicillin,rx_ncd
+67253-183,ampicillin,rx_ncd
+67457-226,ampicillin,rx_ncd
+67457-230,ampicillin,rx_ncd
+67457-348,ampicillin,rx_ncd
+67457-349,ampicillin,rx_ncd
+67457-350,ampicillin,rx_ncd
+67457-351,ampicillin,rx_ncd
+67457-352,ampicillin,rx_ncd
+67457-353,ampicillin,rx_ncd
+67457-404,ampicillin,rx_ncd
+67457-649,ampicillin,rx_ncd
+76126-026,ampicillin,rx_ncd
+76126-027,ampicillin,rx_ncd
+76126-028,ampicillin,rx_ncd
+76126-035,ampicillin,rx_ncd
+76126-047,ampicillin,rx_ncd
+76126-049,ampicillin,rx_ncd
+76126-050,ampicillin,rx_ncd
+76126-273,ampicillin,rx_ncd
+0049-0013,sulbactam,rx_ncd
+0049-0014,sulbactam,rx_ncd
+0049-0022,sulbactam,rx_ncd
+0049-0023,sulbactam,rx_ncd
+0049-0024,sulbactam,rx_ncd
+0049-0031,sulbactam,rx_ncd
+0049-0032,sulbactam,rx_ncd
+0409-2687,sulbactam,rx_ncd
+0409-2689,sulbactam,rx_ncd
+0409-2987,sulbactam,rx_ncd
+0409-2988,sulbactam,rx_ncd
+0409-2998,sulbactam,rx_ncd
+0641-6116,sulbactam,rx_ncd
+0641-6117,sulbactam,rx_ncd
+0641-6118,sulbactam,rx_ncd
+0641-6119,sulbactam,rx_ncd
+0641-6120,sulbactam,rx_ncd
+0641-6121,sulbactam,rx_ncd
+0641-6122,sulbactam,rx_ncd
+0641-6123,sulbactam,rx_ncd
+0781-3032,sulbactam,rx_ncd
+0781-3033,sulbactam,rx_ncd
+0781-3034,sulbactam,rx_ncd
+25021-142,sulbactam,rx_ncd
+25021-143,sulbactam,rx_ncd
+25021-144,sulbactam,rx_ncd
+36000-094,sulbactam,rx_ncd
+36000-095,sulbactam,rx_ncd
+44567-210,sulbactam,rx_ncd
+44567-211,sulbactam,rx_ncd
+44567-212,sulbactam,rx_ncd
+55150-116,sulbactam,rx_ncd
+55150-117,sulbactam,rx_ncd
+55150-118,sulbactam,rx_ncd
+55150-178,sulbactam,rx_ncd
+55150-179,sulbactam,rx_ncd
+55154-2475,sulbactam,rx_ncd
+55154-2476,sulbactam,rx_ncd
+63323-368,sulbactam,rx_ncd
+63323-369,sulbactam,rx_ncd
+63323-370,sulbactam,rx_ncd
+67457-226,sulbactam,rx_ncd
+67457-230,sulbactam,rx_ncd
+67457-348,sulbactam,rx_ncd
+67457-349,sulbactam,rx_ncd
+67457-649,sulbactam,rx_ncd
+76126-035,sulbactam,rx_ncd
+76126-049,sulbactam,rx_ncd
+76126-273,sulbactam,rx_ncd
+0206-2100,piperacillin,rx_ncd
+0206-2404,piperacillin,rx_ncd
+0206-2405,piperacillin,rx_ncd
+0206-2408,piperacillin,rx_ncd
+0206-2409,piperacillin,rx_ncd
+0206-2411,piperacillin,rx_ncd
+0206-2413,piperacillin,rx_ncd
+0206-2416,piperacillin,rx_ncd
+0206-2501,piperacillin,rx_ncd
+0206-3100,piperacillin,rx_ncd
+0206-3501,piperacillin,rx_ncd
+0206-4100,piperacillin,rx_ncd
+0206-4501,piperacillin,rx_ncd
+0206-5501,piperacillin,rx_ncd
+0206-8852,piperacillin,rx_ncd
+0206-8854,piperacillin,rx_ncd
+0206-8855,piperacillin,rx_ncd
+0206-8859,piperacillin,rx_ncd
+0206-8860,piperacillin,rx_ncd
+0206-8861,piperacillin,rx_ncd
+0206-8862,piperacillin,rx_ncd
+0409-3374,piperacillin,rx_ncd
+0409-3378,piperacillin,rx_ncd
+0409-3379,piperacillin,rx_ncd
+0409-3383,piperacillin,rx_ncd
+0409-3385,piperacillin,rx_ncd
+0409-3390,piperacillin,rx_ncd
+0781-3110,piperacillin,rx_ncd
+0781-3113,piperacillin,rx_ncd
+0781-3114,piperacillin,rx_ncd
+0781-3344,piperacillin,rx_ncd
+0781-3350,piperacillin,rx_ncd
+0781-3367,piperacillin,rx_ncd
+0781-9344,piperacillin,rx_ncd
+0781-9350,piperacillin,rx_ncd
+0781-9367,piperacillin,rx_ncd
+25021-164,piperacillin,rx_ncd
+25021-165,piperacillin,rx_ncd
+25021-166,piperacillin,rx_ncd
+44567-801,piperacillin,rx_ncd
+44567-802,piperacillin,rx_ncd
+44567-803,piperacillin,rx_ncd
+44567-804,piperacillin,rx_ncd
+55150-119,piperacillin,rx_ncd
+55150-120,piperacillin,rx_ncd
+55150-121,piperacillin,rx_ncd
+55154-4228,piperacillin,rx_ncd
+55154-9386,piperacillin,rx_ncd
+60505-0686,piperacillin,rx_ncd
+60505-0687,piperacillin,rx_ncd
+60505-0688,piperacillin,rx_ncd
+60505-0773,piperacillin,rx_ncd
+63323-300,piperacillin,rx_ncd
+63323-304,piperacillin,rx_ncd
+63323-309,piperacillin,rx_ncd
+63323-320,piperacillin,rx_ncd
+67457-521,piperacillin,rx_ncd
+67457-522,piperacillin,rx_ncd
+67457-523,piperacillin,rx_ncd
+0206-2100,tazobactam,rx_ncd
+0206-2404,tazobactam,rx_ncd
+0206-2405,tazobactam,rx_ncd
+0206-2408,tazobactam,rx_ncd
+0206-2409,tazobactam,rx_ncd
+0206-2411,tazobactam,rx_ncd
+0206-2413,tazobactam,rx_ncd
+0206-2416,tazobactam,rx_ncd
+0206-2501,tazobactam,rx_ncd
+0206-3100,tazobactam,rx_ncd
+0206-3501,tazobactam,rx_ncd
+0206-4100,tazobactam,rx_ncd
+0206-4501,tazobactam,rx_ncd
+0206-5501,tazobactam,rx_ncd
+0206-8852,tazobactam,rx_ncd
+0206-8854,tazobactam,rx_ncd
+0206-8855,tazobactam,rx_ncd
+0206-8859,tazobactam,rx_ncd
+0206-8860,tazobactam,rx_ncd
+0206-8861,tazobactam,rx_ncd
+0206-8862,tazobactam,rx_ncd
+0409-3374,tazobactam,rx_ncd
+0409-3378,tazobactam,rx_ncd
+0409-3379,tazobactam,rx_ncd
+0409-3383,tazobactam,rx_ncd
+0409-3385,tazobactam,rx_ncd
+0409-3390,tazobactam,rx_ncd
+0781-3110,tazobactam,rx_ncd
+0781-3113,tazobactam,rx_ncd
+0781-3114,tazobactam,rx_ncd
+0781-3344,tazobactam,rx_ncd
+0781-3350,tazobactam,rx_ncd
+0781-3367,tazobactam,rx_ncd
+0781-9344,tazobactam,rx_ncd
+0781-9350,tazobactam,rx_ncd
+0781-9367,tazobactam,rx_ncd
+25021-164,tazobactam,rx_ncd
+25021-165,tazobactam,rx_ncd
+25021-166,tazobactam,rx_ncd
+44567-801,tazobactam,rx_ncd
+44567-802,tazobactam,rx_ncd
+44567-803,tazobactam,rx_ncd
+44567-804,tazobactam,rx_ncd
+55150-119,tazobactam,rx_ncd
+55150-120,tazobactam,rx_ncd
+55150-121,tazobactam,rx_ncd
+55154-4228,tazobactam,rx_ncd
+55154-9386,tazobactam,rx_ncd
+60505-0686,tazobactam,rx_ncd
+60505-0687,tazobactam,rx_ncd
+60505-0688,tazobactam,rx_ncd
+60505-0773,tazobactam,rx_ncd
+63323-300,tazobactam,rx_ncd
+63323-304,tazobactam,rx_ncd
+63323-309,tazobactam,rx_ncd
+63323-320,tazobactam,rx_ncd
+67457-521,tazobactam,rx_ncd
+67457-522,tazobactam,rx_ncd
+67457-523,tazobactam,rx_ncd
+67919-030,tazobactam,rx_ncd
+0049-0520,penicillin g,rx_ncd
+0049-0530,penicillin g,rx_ncd
+0338-1021,penicillin g,rx_ncd
+0338-1023,penicillin g,rx_ncd
+0338-1025,penicillin g,rx_ncd
+0781-6135,penicillin g,rx_ncd
+0781-6136,penicillin g,rx_ncd
+0781-6153,penicillin g,rx_ncd
+44567-310,penicillin g,rx_ncd
+44567-311,penicillin g,rx_ncd
+44567-312,penicillin g,rx_ncd
+54569-5877,penicillin g,rx_ncd
+54868-5932,penicillin g,rx_ncd
+60793-130,penicillin g,rx_ncd
+60793-131,penicillin g,rx_ncd
+60793-600,penicillin g,rx_ncd
+60793-601,penicillin g,rx_ncd
+60793-602,penicillin g,rx_ncd
+60793-700,penicillin g,rx_ncd
+60793-701,penicillin g,rx_ncd
+60793-702,penicillin g,rx_ncd
+63323-323,penicillin g,rx_ncd
+63323-324,penicillin g,rx_ncd
+63776-073,penicillin g,rx_ncd
+63776-075,penicillin g,rx_ncd
+68258-8910,penicillin g,rx_ncd
+57894-030,infliximab,rx_ncd
+58406-435,etanercept,rx_ncd
+58406-445,etanercept,rx_ncd
+58406-455,etanercept,rx_ncd
+50474-710,certolizumab pegol,rx_ncd
+57894-070,golimumab,rx_ncd
+57894-071,golimumab,rx_ncd
+57894-350,golimumab,rx_ncd

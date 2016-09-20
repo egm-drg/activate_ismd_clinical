@@ -1,0 +1,23 @@
+
+- dx
+- - nontuberculosis mycobacteri*
+- - bronchiectasis
+- - cystic fibrosis
+- - tuberculosis
+- - - chronic
+- - infections
+- - - lung
+- - rheumatoid arthritis
+- - marfan's
+- - scoliosis
+- - late stage renal disease
+- - ototoxcicity
+- - ocular toxcicity
+- - hepatotoxcicity
+- 
+- demo
+- - age
+- - gender
+- 
+- rx
+- - antibiotics

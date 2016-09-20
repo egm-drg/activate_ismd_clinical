@@ -1,0 +1,37 @@
+HCPCS|LongDescription|TYPE|GrouporBetos|match_term
+J0456|injection, azithromycin, 500 mg|HCPC|O1E|azithromycin
+Q0144|azithromycin dihydrate, oral, capsules/powder, 1 gram|HCPC|O1E|azithromycin
+J1956|injection, levofloxacin, 250 mg|HCPC|O1E|levofloxacin
+J2280|injection, moxifloxacin, 100 mg|HCPC|O1E|moxifloxacin
+G9313|amoxicillin, with or without clavulanate, not prescribed as first line antibiotic at the time of diagnosis for documented reason (eg, cystic fibrosis, immotile cilia disorders, ciliary dyskinesia, immune deficiency, prior history of sinus surgery within the past 12 months, and anatomic abnormalities, such as deviated nasal septum, resistant organisms, allergy to medication, recurrent sinusitis, chronic sinusitis, or other reasons)|HCPC|M5B|amoxicillin
+G9314|amoxicillin, with or without clavulanate, not prescribed as first line antibiotic at the time of diagnosis, reason not given|HCPC|M5B|amoxicillin
+G9315|documentation amoxicillin, with or without clavulanate, prescribed as a first line antibiotic at the time of diagnosis|HCPC|M5B|amoxicillin
+G9313|amoxicillin, with or without clavulanate, not prescribed as first line antibiotic at the time of diagnosis for documented reason (eg, cystic fibrosis, immotile cilia disorders, ciliary dyskinesia, immune deficiency, prior history of sinus surgery within the past 12 months, and anatomic abnormalities, such as deviated nasal septum, resistant organisms, allergy to medication, recurrent sinusitis, chronic sinusitis, or other reasons)|HCPC|M5B|clavulanate
+G9314|amoxicillin, with or without clavulanate, not prescribed as first line antibiotic at the time of diagnosis, reason not given|HCPC|M5B|clavulanate
+G9315|documentation amoxicillin, with or without clavulanate, prescribed as a first line antibiotic at the time of diagnosis|HCPC|M5B|clavulanate
+4041F|documentation of order for cefazolin or cefuroxime for antimicrobial prophylaxis (peri 2)|CPT|Other|cefuroxime
+J0697|injection, sterile cefuroxime sodium, per 750 mg|HCPC|O1E|cefuroxime
+J0744|injection, ciprofloxacin for intravenous infusion, 200 mg|HCPC|O1E|ciprofloxacin
+S0039|injection, sulfamethoxazole and trimethoprim, 10 ml|HCPC|Z2|sulf%trimethoprim
+J2020|injection, linezolid, 200 mg|HCPC|O1E|linezolid
+S0030|injection, metronidazole, 500 mg|HCPC|Z2|metronidazole
+G9313|amoxicillin, with or without clavulanate, not prescribed as first line antibiotic at the time of diagnosis for documented reason (eg, cystic fibrosis, immotile cilia disorders, ciliary dyskinesia, immune deficiency, prior history of sinus surgery within the past 12 months, and anatomic abnormalities, such as deviated nasal septum, resistant organisms, allergy to medication, recurrent sinusitis, chronic sinusitis, or other reasons)|HCPC|M5B|amoxicillin
+G9314|amoxicillin, with or without clavulanate, not prescribed as first line antibiotic at the time of diagnosis, reason not given|HCPC|M5B|amoxicillin
+G9315|documentation amoxicillin, with or without clavulanate, prescribed as a first line antibiotic at the time of diagnosis|HCPC|M5B|amoxicillin
+S0077|injection, clindamycin phosphate, 300 mg|HCPC|Z2|clindamycin
+J0456|injection, azithromycin, 500 mg|HCPC|O1E|azithromycin
+Q0144|azithromycin dihydrate, oral, capsules/powder, 1 gram|HCPC|O1E|azithromycin
+J1956|injection, levofloxacin, 250 mg|HCPC|O1E|levofloxacin
+G9313|amoxicillin, with or without clavulanate, not prescribed as first line antibiotic at the time of diagnosis for documented reason (eg, cystic fibrosis, immotile cilia disorders, ciliary dyskinesia, immune deficiency, prior history of sinus surgery within the past 12 months, and anatomic abnormalities, such as deviated nasal septum, resistant organisms, allergy to medication, recurrent sinusitis, chronic sinusitis, or other reasons)|HCPC|M5B|amoxicillin
+G9314|amoxicillin, with or without clavulanate, not prescribed as first line antibiotic at the time of diagnosis, reason not given|HCPC|M5B|amoxicillin
+G9315|documentation amoxicillin, with or without clavulanate, prescribed as a first line antibiotic at the time of diagnosis|HCPC|M5B|amoxicillin
+G9313|amoxicillin, with or without clavulanate, not prescribed as first line antibiotic at the time of diagnosis for documented reason (eg, cystic fibrosis, immotile cilia disorders, ciliary dyskinesia, immune deficiency, prior history of sinus surgery within the past 12 months, and anatomic abnormalities, such as deviated nasal septum, resistant organisms, allergy to medication, recurrent sinusitis, chronic sinusitis, or other reasons)|HCPC|M5B|clavulanate
+G9314|amoxicillin, with or without clavulanate, not prescribed as first line antibiotic at the time of diagnosis, reason not given|HCPC|M5B|clavulanate
+G9315|documentation amoxicillin, with or without clavulanate, prescribed as a first line antibiotic at the time of diagnosis|HCPC|M5B|clavulanate
+J2280|injection, moxifloxacin, 100 mg|HCPC|O1E|moxifloxacin
+S0030|injection, metronidazole, 500 mg|HCPC|Z2|metronidazole
+J0744|injection, ciprofloxacin for intravenous infusion, 200 mg|HCPC|O1E|ciprofloxacin
+J2020|injection, linezolid, 200 mg|HCPC|O1E|linezolid
+4041F|documentation of order for cefazolin or cefuroxime for antimicrobial prophylaxis (peri 2)|CPT|Other|cefuroxime
+J0697|injection, sterile cefuroxime sodium, per 750 mg|HCPC|O1E|cefuroxime
+S0077|injection, clindamycin phosphate, 300 mg|HCPC|Z2|clindamycin

@@ -1,0 +1,8 @@
+
+################################################################################
+
+- conduct google search, by hand, for all antibiotic names (generic or brand) 
+  that are used to treat
+- - pneumonia
+- - lung infection
+- - pulmonary infection

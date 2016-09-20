@@ -1,0 +1,18 @@
+bronchiectasis
+cystic fibrosis
+tuberculosis
+pulm.*infect
+infect.*lung
+lung.*infect
+sep.*pulm
+pulm.*sep
+pneumonia.*bact
+bact.*pneumonia
+respiratory.*infect
+infect.*respiratory
+rheumatoid arthritis
+marfan
+scoliosis
+renal.*late
+oto.*tox
+myco.*bact

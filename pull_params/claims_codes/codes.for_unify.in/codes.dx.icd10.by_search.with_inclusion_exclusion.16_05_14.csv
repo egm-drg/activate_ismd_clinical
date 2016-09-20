@@ -1,0 +1,616 @@
+inclusion_exclusion,search_term,code,description
+,tuberculosis,A15,respiratory tuberculosis
+,tuberculosis,A150,tuberculosis of lung
+n,tuberculosis,A154,tuberculosis of intrathoracic lymph nodes
+n,tuberculosis,A155,tuberculosis of larynx
+,tuberculosis,A157,primary respiratory tuberculosis
+,tuberculosis,A158,other respiratory tuberculosis
+,tuberculosis,A159,respiratory tuberculosis unspecified
+n,tuberculosis,A17,tuberculosis of nervous system
+n,tuberculosis,A178,other tuberculosis of nervous system
+n,tuberculosis,A1789,other tuberculosis of nervous system
+n,tuberculosis,A179,tuberculosis of nervous system
+n,tuberculosis,A18,tuberculosis of other organs
+n,tuberculosis,A180,tuberculosis of bones and joints
+n,tuberculosis,A1801,tuberculosis of spine
+n,tuberculosis,A1803,tuberculosis of other bones
+n,tuberculosis,A1809,other musculoskeletal tuberculosis
+n,tuberculosis,A181,tuberculosis of genitourinary system
+n,tuberculosis,A1810,tuberculosis of genitourinary system
+n,tuberculosis,A1811,tuberculosis of kidney and ureter
+n,tuberculosis,A1812,tuberculosis of bladder
+n,tuberculosis,A1813,tuberculosis of other urinary organs
+n,tuberculosis,A1814,tuberculosis of prostate
+n,tuberculosis,A1815,tuberculosis of other male genital organs
+n,tuberculosis,A1816,tuberculosis of cervix
+n,tuberculosis,A1818,tuberculosis of other female genital organs
+n,tuberculosis,A183,tuberculosis of intestines
+n,tuberculosis,A1839,retroperitoneal tuberculosis
+n,tuberculosis,A184,tuberculosis of skin and subcutaneous tissue
+n,tuberculosis,A185,tuberculosis of eye
+n,tuberculosis,A1850,tuberculosis of eye
+n,tuberculosis,A1859,other tuberculosis of eye
+n,tuberculosis,A186,tuberculosis of (inner) (middle) ear
+n,tuberculosis,A187,tuberculosis of adrenal glands
+n,tuberculosis,A188,tuberculosis of other specified organs
+n,tuberculosis,A1881,tuberculosis of thyroid gland
+n,tuberculosis,A1882,tuberculosis of other endocrine glands
+n,tuberculosis,A1883,tuberculosis of digestive tract organs
+n,tuberculosis,A1884,tuberculosis of heart
+n,tuberculosis,A1885,tuberculosis of spleen
+n,tuberculosis,A1889,tuberculosis of other sites
+,tuberculosis,A19,miliary tuberculosis
+,tuberculosis,A190,acute miliary tuberculosis of a single specified site
+,tuberculosis,A191,acute miliary tuberculosis of multiple sites
+,tuberculosis,A192,acute miliary tuberculosis
+,tuberculosis,A198,other miliary tuberculosis
+,tuberculosis,A199,miliary tuberculosis
+,pulm%infect,A310,pulmonary mycobacterial infection
+,infect%lung,B671,echinococcus granulosus infection of lung
+,tuberculosis,B90,sequelae of tuberculosis
+n,tuberculosis,B900,sequelae of central nervous system tuberculosis
+n,tuberculosis,B901,sequelae of genitourinary tuberculosis
+n,tuberculosis,B902,sequelae of tuberculosis of bones and joints
+n,tuberculosis,B908,sequelae of tuberculosis of other organs
+,tuberculosis,B909,sequelae of respiratory and unspecified tuberculosis
+n,oto%tox,E0500,thyrotoxicosis with diffuse goiter without thyrotoxic crisis or storm
+n,oto%tox,E0501,thyrotoxicosis with diffuse goiter with thyrotoxic crisis or storm
+n,oto%tox,E051,thyrotoxicosis with toxic single thyroid nodule
+n,oto%tox,E0510,thyrotoxicosis with toxic single thyroid nodule without thyrotoxic crisis or storm
+n,oto%tox,E0511,thyrotoxicosis with toxic single thyroid nodule with thyrotoxic crisis or storm
+n,oto%tox,E052,thyrotoxicosis with toxic multinodular goiter
+n,oto%tox,E0520,thyrotoxicosis with toxic multinodular goiter without thyrotoxic crisis or storm
+n,oto%tox,E0521,thyrotoxicosis with toxic multinodular goiter with thyrotoxic crisis or storm
+n,oto%tox,E0530,thyrotoxicosis from ectopic thyroid tissue without thyrotoxic crisis or storm
+n,oto%tox,E0531,thyrotoxicosis from ectopic thyroid tissue with thyrotoxic crisis or storm
+n,oto%tox,E0540,thyrotoxicosis factitia without thyrotoxic crisis or storm
+n,oto%tox,E0541,thyrotoxicosis factitia with thyrotoxic crisis or storm
+n,oto%tox,E0580,other thyrotoxicosis without thyrotoxic crisis or storm
+n,oto%tox,E0581,other thyrotoxicosis with thyrotoxic crisis or storm
+n,oto%tox,E0590,thyrotoxicosis
+n,oto%tox,E0591,thyrotoxicosis
+,cystic fibrosis,E84,cystic fibrosis
+,cystic fibrosis,E840,cystic fibrosis with pulmonary manifestations
+,cystic fibrosis,E841,cystic fibrosis with intestinal manifestations
+n,cystic fibrosis,E8411,meconium ileus in cystic fibrosis
+,cystic fibrosis,E8419,cystic fibrosis with other intestinal manifestations
+,cystic fibrosis,E848,cystic fibrosis with other manifestations
+,cystic fibrosis,E849,cystic fibrosis
+,oto%tox,H910,ototoxic hearing loss
+,oto%tox,H9101,ototoxic hearing loss
+,oto%tox,H9102,ototoxic hearing loss
+,oto%tox,H9103,ototoxic hearing loss
+,oto%tox,H9109,ototoxic hearing loss
+,end%renal,I120,hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease
+,end%renal,I1311,hypertensive heart and chronic kidney disease without heart failure
+,end%renal,I132,hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease
+,sep%pulm,I2601,septic pulmonary embolism with acute cor pulmonale
+,sep%pulm,I2690,septic pulmonary embolism without acute cor pulmonale
+,search_term,ICD 10 Code,Description
+,respiratory%infect,J06,acute upper respiratory infections of multiple and unspecified sites
+,respiratory%infect,J069,acute upper respiratory infection
+,bact%pneumonia,J15,bacterial pneumonia
+,pneumonia%bact,J156,pneumonia due to other aerobic gram-negative bacteria
+,pneumonia%bact,J158,pneumonia due to other specified bacteria
+,bact%pneumonia,J159,unspecified bacterial pneumonia
+,respiratory%infect,J22,unspecified acute lower respiratory infection
+,pulm%infect,J440,chronic obstructive pulmonary disease with acute lower respiratory infection
+,respiratory%infect,J440,chronic obstructive pulmonary disease with acute lower respiratory infection
+,bronchiectasis,J47,bronchiectasis
+,bronchiectasis,J470,bronchiectasis with acute lower respiratory infection
+,respiratory%infect,J470,bronchiectasis with acute lower respiratory infection
+,bronchiectasis,J471,bronchiectasis with (acute) exacerbation
+,bronchiectasis,J479,bronchiectasis
+,tuberculosis,J65,pneumoconiosis associated with tuberculosis
+n,oto%tox,L560,drug phototoxic response
+,rheumatoid arthritis,M05,rheumatoid arthritis with rheumatoid factor
+,rheumatoid arthritis,M051,rheumatoid lung disease with rheumatoid arthritis
+,rheumatoid arthritis,M0510,rheumatoid lung disease with rheumatoid arthritis of unspecified site
+,rheumatoid arthritis,M0511,rheumatoid lung disease with rheumatoid arthritis of shoulder
+,rheumatoid arthritis,M05111,rheumatoid lung disease with rheumatoid arthritis of right shoulder
+,rheumatoid arthritis,M05112,rheumatoid lung disease with rheumatoid arthritis of left shoulder
+,rheumatoid arthritis,M05119,rheumatoid lung disease with rheumatoid arthritis of unspecified shoulder
+,rheumatoid arthritis,M0512,rheumatoid lung disease with rheumatoid arthritis of elbow
+,rheumatoid arthritis,M05121,rheumatoid lung disease with rheumatoid arthritis of right elbow
+,rheumatoid arthritis,M05122,rheumatoid lung disease with rheumatoid arthritis of left elbow
+,rheumatoid arthritis,M05129,rheumatoid lung disease with rheumatoid arthritis of unspecified elbow
+,rheumatoid arthritis,M0513,rheumatoid lung disease with rheumatoid arthritis of wrist
+,rheumatoid arthritis,M05131,rheumatoid lung disease with rheumatoid arthritis of right wrist
+,rheumatoid arthritis,M05132,rheumatoid lung disease with rheumatoid arthritis of left wrist
+,rheumatoid arthritis,M05139,rheumatoid lung disease with rheumatoid arthritis of unspecified wrist
+,rheumatoid arthritis,M0514,rheumatoid lung disease with rheumatoid arthritis of hand
+,rheumatoid arthritis,M05141,rheumatoid lung disease with rheumatoid arthritis of right hand
+,rheumatoid arthritis,M05142,rheumatoid lung disease with rheumatoid arthritis of left hand
+,rheumatoid arthritis,M05149,rheumatoid lung disease with rheumatoid arthritis of unspecified hand
+,rheumatoid arthritis,M0515,rheumatoid lung disease with rheumatoid arthritis of hip
+,rheumatoid arthritis,M05151,rheumatoid lung disease with rheumatoid arthritis of right hip
+,rheumatoid arthritis,M05152,rheumatoid lung disease with rheumatoid arthritis of left hip
+,rheumatoid arthritis,M05159,rheumatoid lung disease with rheumatoid arthritis of unspecified hip
+,rheumatoid arthritis,M0516,rheumatoid lung disease with rheumatoid arthritis of knee
+,rheumatoid arthritis,M05161,rheumatoid lung disease with rheumatoid arthritis of right knee
+,rheumatoid arthritis,M05162,rheumatoid lung disease with rheumatoid arthritis of left knee
+,rheumatoid arthritis,M05169,rheumatoid lung disease with rheumatoid arthritis of unspecified knee
+,rheumatoid arthritis,M0517,rheumatoid lung disease with rheumatoid arthritis of ankle and foot
+,rheumatoid arthritis,M05171,rheumatoid lung disease with rheumatoid arthritis of right ankle and foot
+,rheumatoid arthritis,M05172,rheumatoid lung disease with rheumatoid arthritis of left ankle and foot
+,rheumatoid arthritis,M05179,rheumatoid lung disease with rheumatoid arthritis of unspecified ankle and foot
+,rheumatoid arthritis,M0519,rheumatoid lung disease with rheumatoid arthritis of multiple sites
+,rheumatoid arthritis,M052,rheumatoid vasculitis with rheumatoid arthritis
+,rheumatoid arthritis,M0520,rheumatoid vasculitis with rheumatoid arthritis of unspecified site
+,rheumatoid arthritis,M0521,rheumatoid vasculitis with rheumatoid arthritis of shoulder
+,rheumatoid arthritis,M05211,rheumatoid vasculitis with rheumatoid arthritis of right shoulder
+,rheumatoid arthritis,M05212,rheumatoid vasculitis with rheumatoid arthritis of left shoulder
+,rheumatoid arthritis,M05219,rheumatoid vasculitis with rheumatoid arthritis of unspecified shoulder
+,rheumatoid arthritis,M0522,rheumatoid vasculitis with rheumatoid arthritis of elbow
+,rheumatoid arthritis,M05221,rheumatoid vasculitis with rheumatoid arthritis of right elbow
+,rheumatoid arthritis,M05222,rheumatoid vasculitis with rheumatoid arthritis of left elbow
+,rheumatoid arthritis,M05229,rheumatoid vasculitis with rheumatoid arthritis of unspecified elbow
+,rheumatoid arthritis,M0523,rheumatoid vasculitis with rheumatoid arthritis of wrist
+,rheumatoid arthritis,M05231,rheumatoid vasculitis with rheumatoid arthritis of right wrist
+,rheumatoid arthritis,M05232,rheumatoid vasculitis with rheumatoid arthritis of left wrist
+,rheumatoid arthritis,M05239,rheumatoid vasculitis with rheumatoid arthritis of unspecified wrist
+,rheumatoid arthritis,M0524,rheumatoid vasculitis with rheumatoid arthritis of hand
+,rheumatoid arthritis,M05241,rheumatoid vasculitis with rheumatoid arthritis of right hand
+,rheumatoid arthritis,M05242,rheumatoid vasculitis with rheumatoid arthritis of left hand
+,rheumatoid arthritis,M05249,rheumatoid vasculitis with rheumatoid arthritis of unspecified hand
+,rheumatoid arthritis,M0525,rheumatoid vasculitis with rheumatoid arthritis of hip
+,rheumatoid arthritis,M05251,rheumatoid vasculitis with rheumatoid arthritis of right hip
+,rheumatoid arthritis,M05252,rheumatoid vasculitis with rheumatoid arthritis of left hip
+,rheumatoid arthritis,M05259,rheumatoid vasculitis with rheumatoid arthritis of unspecified hip
+,rheumatoid arthritis,M0526,rheumatoid vasculitis with rheumatoid arthritis of knee
+,rheumatoid arthritis,M05261,rheumatoid vasculitis with rheumatoid arthritis of right knee
+,rheumatoid arthritis,M05262,rheumatoid vasculitis with rheumatoid arthritis of left knee
+,rheumatoid arthritis,M05269,rheumatoid vasculitis with rheumatoid arthritis of unspecified knee
+,rheumatoid arthritis,M0527,rheumatoid vasculitis with rheumatoid arthritis of ankle and foot
+,rheumatoid arthritis,M05271,rheumatoid vasculitis with rheumatoid arthritis of right ankle and foot
+,rheumatoid arthritis,M05272,rheumatoid vasculitis with rheumatoid arthritis of left ankle and foot
+,rheumatoid arthritis,M05279,rheumatoid vasculitis with rheumatoid arthritis of unspecified ankle and foot
+,rheumatoid arthritis,M0529,rheumatoid vasculitis with rheumatoid arthritis of multiple sites
+,rheumatoid arthritis,M053,rheumatoid heart disease with rheumatoid arthritis
+,rheumatoid arthritis,M0530,rheumatoid heart disease with rheumatoid arthritis of unspecified site
+,rheumatoid arthritis,M0531,rheumatoid heart disease with rheumatoid arthritis of shoulder
+,rheumatoid arthritis,M05311,rheumatoid heart disease with rheumatoid arthritis of right shoulder
+,rheumatoid arthritis,M05312,rheumatoid heart disease with rheumatoid arthritis of left shoulder
+,rheumatoid arthritis,M05319,rheumatoid heart disease with rheumatoid arthritis of unspecified shoulder
+,rheumatoid arthritis,M0532,rheumatoid heart disease with rheumatoid arthritis of elbow
+,rheumatoid arthritis,M05321,rheumatoid heart disease with rheumatoid arthritis of right elbow
+,rheumatoid arthritis,M05322,rheumatoid heart disease with rheumatoid arthritis of left elbow
+,rheumatoid arthritis,M05329,rheumatoid heart disease with rheumatoid arthritis of unspecified elbow
+,rheumatoid arthritis,M0533,rheumatoid heart disease with rheumatoid arthritis of wrist
+,rheumatoid arthritis,M05331,rheumatoid heart disease with rheumatoid arthritis of right wrist
+,rheumatoid arthritis,M05332,rheumatoid heart disease with rheumatoid arthritis of left wrist
+,rheumatoid arthritis,M05339,rheumatoid heart disease with rheumatoid arthritis of unspecified wrist
+,rheumatoid arthritis,M0534,rheumatoid heart disease with rheumatoid arthritis of hand
+,rheumatoid arthritis,M05341,rheumatoid heart disease with rheumatoid arthritis of right hand
+,rheumatoid arthritis,M05342,rheumatoid heart disease with rheumatoid arthritis of left hand
+,rheumatoid arthritis,M05349,rheumatoid heart disease with rheumatoid arthritis of unspecified hand
+,rheumatoid arthritis,M0535,rheumatoid heart disease with rheumatoid arthritis of hip
+,rheumatoid arthritis,M05351,rheumatoid heart disease with rheumatoid arthritis of right hip
+,rheumatoid arthritis,M05352,rheumatoid heart disease with rheumatoid arthritis of left hip
+,rheumatoid arthritis,M05359,rheumatoid heart disease with rheumatoid arthritis of unspecified hip
+,rheumatoid arthritis,M0536,rheumatoid heart disease with rheumatoid arthritis of knee
+,rheumatoid arthritis,M05361,rheumatoid heart disease with rheumatoid arthritis of right knee
+,rheumatoid arthritis,M05362,rheumatoid heart disease with rheumatoid arthritis of left knee
+,rheumatoid arthritis,M05369,rheumatoid heart disease with rheumatoid arthritis of unspecified knee
+,rheumatoid arthritis,M0537,rheumatoid heart disease with rheumatoid arthritis of ankle and foot
+,rheumatoid arthritis,M05371,rheumatoid heart disease with rheumatoid arthritis of right ankle and foot
+,rheumatoid arthritis,M05372,rheumatoid heart disease with rheumatoid arthritis of left ankle and foot
+,rheumatoid arthritis,M05379,rheumatoid heart disease with rheumatoid arthritis of unspecified ankle and foot
+,rheumatoid arthritis,M0539,rheumatoid heart disease with rheumatoid arthritis of multiple sites
+,rheumatoid arthritis,M054,rheumatoid myopathy with rheumatoid arthritis
+,rheumatoid arthritis,M0540,rheumatoid myopathy with rheumatoid arthritis of unspecified site
+,rheumatoid arthritis,M0541,rheumatoid myopathy with rheumatoid arthritis of shoulder
+,rheumatoid arthritis,M05411,rheumatoid myopathy with rheumatoid arthritis of right shoulder
+,rheumatoid arthritis,M05412,rheumatoid myopathy with rheumatoid arthritis of left shoulder
+,rheumatoid arthritis,M05419,rheumatoid myopathy with rheumatoid arthritis of unspecified shoulder
+,rheumatoid arthritis,M0542,rheumatoid myopathy with rheumatoid arthritis of elbow
+,rheumatoid arthritis,M05421,rheumatoid myopathy with rheumatoid arthritis of right elbow
+,rheumatoid arthritis,M05422,rheumatoid myopathy with rheumatoid arthritis of left elbow
+,rheumatoid arthritis,M05429,rheumatoid myopathy with rheumatoid arthritis of unspecified elbow
+,rheumatoid arthritis,M0543,rheumatoid myopathy with rheumatoid arthritis of wrist
+,rheumatoid arthritis,M05431,rheumatoid myopathy with rheumatoid arthritis of right wrist
+,rheumatoid arthritis,M05432,rheumatoid myopathy with rheumatoid arthritis of left wrist
+,rheumatoid arthritis,M05439,rheumatoid myopathy with rheumatoid arthritis of unspecified wrist
+,rheumatoid arthritis,M0544,rheumatoid myopathy with rheumatoid arthritis of hand
+,rheumatoid arthritis,M05441,rheumatoid myopathy with rheumatoid arthritis of right hand
+,rheumatoid arthritis,M05442,rheumatoid myopathy with rheumatoid arthritis of left hand
+,rheumatoid arthritis,M05449,rheumatoid myopathy with rheumatoid arthritis of unspecified hand
+,rheumatoid arthritis,M0545,rheumatoid myopathy with rheumatoid arthritis of hip
+,rheumatoid arthritis,M05451,rheumatoid myopathy with rheumatoid arthritis of right hip
+,rheumatoid arthritis,M05452,rheumatoid myopathy with rheumatoid arthritis of left hip
+,rheumatoid arthritis,M05459,rheumatoid myopathy with rheumatoid arthritis of unspecified hip
+,rheumatoid arthritis,M0546,rheumatoid myopathy with rheumatoid arthritis of knee
+,rheumatoid arthritis,M05461,rheumatoid myopathy with rheumatoid arthritis of right knee
+,rheumatoid arthritis,M05462,rheumatoid myopathy with rheumatoid arthritis of left knee
+,rheumatoid arthritis,M05469,rheumatoid myopathy with rheumatoid arthritis of unspecified knee
+,rheumatoid arthritis,M0547,rheumatoid myopathy with rheumatoid arthritis of ankle and foot
+,rheumatoid arthritis,M05471,rheumatoid myopathy with rheumatoid arthritis of right ankle and foot
+,rheumatoid arthritis,M05472,rheumatoid myopathy with rheumatoid arthritis of left ankle and foot
+,rheumatoid arthritis,M05479,rheumatoid myopathy with rheumatoid arthritis of unspecified ankle and foot
+,rheumatoid arthritis,M0549,rheumatoid myopathy with rheumatoid arthritis of multiple sites
+,rheumatoid arthritis,M055,rheumatoid polyneuropathy with rheumatoid arthritis
+,rheumatoid arthritis,M0550,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified site
+,rheumatoid arthritis,M0551,rheumatoid polyneuropathy with rheumatoid arthritis of shoulder
+,rheumatoid arthritis,M05511,rheumatoid polyneuropathy with rheumatoid arthritis of right shoulder
+,rheumatoid arthritis,M05512,rheumatoid polyneuropathy with rheumatoid arthritis of left shoulder
+,rheumatoid arthritis,M05519,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified shoulder
+,rheumatoid arthritis,M0552,rheumatoid polyneuropathy with rheumatoid arthritis of elbow
+,rheumatoid arthritis,M05521,rheumatoid polyneuropathy with rheumatoid arthritis of right elbow
+,rheumatoid arthritis,M05522,rheumatoid polyneuropathy with rheumatoid arthritis of left elbow
+,rheumatoid arthritis,M05529,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified elbow
+,rheumatoid arthritis,M0553,rheumatoid polyneuropathy with rheumatoid arthritis of wrist
+,rheumatoid arthritis,M05531,rheumatoid polyneuropathy with rheumatoid arthritis of right wrist
+,rheumatoid arthritis,M05532,rheumatoid polyneuropathy with rheumatoid arthritis of left wrist
+,rheumatoid arthritis,M05539,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified wrist
+,rheumatoid arthritis,M0554,rheumatoid polyneuropathy with rheumatoid arthritis of hand
+,rheumatoid arthritis,M05541,rheumatoid polyneuropathy with rheumatoid arthritis of right hand
+,rheumatoid arthritis,M05542,rheumatoid polyneuropathy with rheumatoid arthritis of left hand
+,rheumatoid arthritis,M05549,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hand
+,rheumatoid arthritis,M0555,rheumatoid polyneuropathy with rheumatoid arthritis of hip
+,rheumatoid arthritis,M05551,rheumatoid polyneuropathy with rheumatoid arthritis of right hip
+,rheumatoid arthritis,M05552,rheumatoid polyneuropathy with rheumatoid arthritis of left hip
+,rheumatoid arthritis,M05559,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hip
+,rheumatoid arthritis,M0556,rheumatoid polyneuropathy with rheumatoid arthritis of knee
+,rheumatoid arthritis,M05561,rheumatoid polyneuropathy with rheumatoid arthritis of right knee
+,rheumatoid arthritis,M05562,rheumatoid polyneuropathy with rheumatoid arthritis of left knee
+,rheumatoid arthritis,M05569,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified knee
+,rheumatoid arthritis,M0557,rheumatoid polyneuropathy with rheumatoid arthritis of ankle and foot
+,rheumatoid arthritis,M05571,rheumatoid polyneuropathy with rheumatoid arthritis of right ankle and foot
+,rheumatoid arthritis,M05572,rheumatoid polyneuropathy with rheumatoid arthritis of left ankle and foot
+,rheumatoid arthritis,M05579,rheumatoid polyneuropathy with rheumatoid arthritis of unspecified ankle and foot
+,rheumatoid arthritis,M0559,rheumatoid polyneuropathy with rheumatoid arthritis of multiple sites
+,rheumatoid arthritis,M056,rheumatoid arthritis with involvement of other organs and systems
+,rheumatoid arthritis,M0560,rheumatoid arthritis of unspecified site with involvement of other organs and systems
+,rheumatoid arthritis,M0561,rheumatoid arthritis of shoulder with involvement of other organs and systems
+,rheumatoid arthritis,M05611,rheumatoid arthritis of right shoulder with involvement of other organs and systems
+,rheumatoid arthritis,M05612,rheumatoid arthritis of left shoulder with involvement of other organs and systems
+,rheumatoid arthritis,M05619,rheumatoid arthritis of unspecified shoulder with involvement of other organs and systems
+,rheumatoid arthritis,M0562,rheumatoid arthritis of elbow with involvement of other organs and systems
+,rheumatoid arthritis,M05621,rheumatoid arthritis of right elbow with involvement of other organs and systems
+,rheumatoid arthritis,M05622,rheumatoid arthritis of left elbow with involvement of other organs and systems
+,rheumatoid arthritis,M05629,rheumatoid arthritis of unspecified elbow with involvement of other organs and systems
+,rheumatoid arthritis,M0563,rheumatoid arthritis of wrist with involvement of other organs and systems
+,rheumatoid arthritis,M05631,rheumatoid arthritis of right wrist with involvement of other organs and systems
+,rheumatoid arthritis,M05632,rheumatoid arthritis of left wrist with involvement of other organs and systems
+,rheumatoid arthritis,M05639,rheumatoid arthritis of unspecified wrist with involvement of other organs and systems
+,rheumatoid arthritis,M0564,rheumatoid arthritis of hand with involvement of other organs and systems
+,rheumatoid arthritis,M05641,rheumatoid arthritis of right hand with involvement of other organs and systems
+,rheumatoid arthritis,M05642,rheumatoid arthritis of left hand with involvement of other organs and systems
+,rheumatoid arthritis,M05649,rheumatoid arthritis of unspecified hand with involvement of other organs and systems
+,rheumatoid arthritis,M0565,rheumatoid arthritis of hip with involvement of other organs and systems
+,rheumatoid arthritis,M05651,rheumatoid arthritis of right hip with involvement of other organs and systems
+,rheumatoid arthritis,M05652,rheumatoid arthritis of left hip with involvement of other organs and systems
+,rheumatoid arthritis,M05659,rheumatoid arthritis of unspecified hip with involvement of other organs and systems
+,rheumatoid arthritis,M0566,rheumatoid arthritis of knee with involvement of other organs and systems
+,rheumatoid arthritis,M05661,rheumatoid arthritis of right knee with involvement of other organs and systems
+,rheumatoid arthritis,M05662,rheumatoid arthritis of left knee with involvement of other organs and systems
+,rheumatoid arthritis,M05669,rheumatoid arthritis of unspecified knee with involvement of other organs and systems
+,rheumatoid arthritis,M0567,rheumatoid arthritis of ankle and foot with involvement of other organs and systems
+,rheumatoid arthritis,M05671,rheumatoid arthritis of right ankle and foot with involvement of other organs and systems
+,rheumatoid arthritis,M05672,rheumatoid arthritis of left ankle and foot with involvement of other organs and systems
+,rheumatoid arthritis,M05679,rheumatoid arthritis of unspecified ankle and foot with involvement of other organs and systems
+,rheumatoid arthritis,M0569,rheumatoid arthritis of multiple sites with involvement of other organs and systems
+,rheumatoid arthritis,M057,rheumatoid arthritis with rheumatoid factor without organ or systems involvement
+,rheumatoid arthritis,M0570,rheumatoid arthritis with rheumatoid factor of unspecified site without organ or systems involvement
+,rheumatoid arthritis,M0571,rheumatoid arthritis with rheumatoid factor of shoulder without organ or systems involvement
+,rheumatoid arthritis,M05711,rheumatoid arthritis with rheumatoid factor of right shoulder without organ or systems involvement
+,rheumatoid arthritis,M05712,rheumatoid arthritis with rheumatoid factor of left shoulder without organ or systems involvement
+,rheumatoid arthritis,M05719,rheumatoid arthritis with rheumatoid factor of unspecified shoulder without organ or systems involvement
+,rheumatoid arthritis,M0572,rheumatoid arthritis with rheumatoid factor of elbow without organ or systems involvement
+,rheumatoid arthritis,M05721,rheumatoid arthritis with rheumatoid factor of right elbow without organ or systems involvement
+,rheumatoid arthritis,M05722,rheumatoid arthritis with rheumatoid factor of left elbow without organ or systems involvement
+,rheumatoid arthritis,M05729,rheumatoid arthritis with rheumatoid factor of unspecified elbow without organ or systems involvement
+,rheumatoid arthritis,M0573,rheumatoid arthritis with rheumatoid factor of wrist without organ or systems involvement
+,rheumatoid arthritis,M05731,rheumatoid arthritis with rheumatoid factor of right wrist without organ or systems involvement
+,rheumatoid arthritis,M05732,rheumatoid arthritis with rheumatoid factor of left wrist without organ or systems involvement
+,rheumatoid arthritis,M05739,rheumatoid arthritis with rheumatoid factor of unspecified wrist without organ or systems involvement
+,rheumatoid arthritis,M0574,rheumatoid arthritis with rheumatoid factor of hand without organ or systems involvement
+,rheumatoid arthritis,M05741,rheumatoid arthritis with rheumatoid factor of right hand without organ or systems involvement
+,rheumatoid arthritis,M05742,rheumatoid arthritis with rheumatoid factor of left hand without organ or systems involvement
+,rheumatoid arthritis,M05749,rheumatoid arthritis with rheumatoid factor of unspecified hand without organ or systems involvement
+,rheumatoid arthritis,M0575,rheumatoid arthritis with rheumatoid factor of hip without organ or systems involvement
+,rheumatoid arthritis,M05751,rheumatoid arthritis with rheumatoid factor of right hip without organ or systems involvement
+,rheumatoid arthritis,M05752,rheumatoid arthritis with rheumatoid factor of left hip without organ or systems involvement
+,rheumatoid arthritis,M05759,rheumatoid arthritis with rheumatoid factor of unspecified hip without organ or systems involvement
+,rheumatoid arthritis,M0576,rheumatoid arthritis with rheumatoid factor of knee without organ or systems involvement
+,rheumatoid arthritis,M05761,rheumatoid arthritis with rheumatoid factor of right knee without organ or systems involvement
+,rheumatoid arthritis,M05762,rheumatoid arthritis with rheumatoid factor of left knee without organ or systems involvement
+,rheumatoid arthritis,M05769,rheumatoid arthritis with rheumatoid factor of unspecified knee without organ or systems involvement
+,rheumatoid arthritis,M0577,rheumatoid arthritis with rheumatoid factor of ankle and foot without organ or systems involvement
+,rheumatoid arthritis,M05771,rheumatoid arthritis with rheumatoid factor of right ankle and foot without organ or systems involvement
+,rheumatoid arthritis,M05772,rheumatoid arthritis with rheumatoid factor of left ankle and foot without organ or systems involvement
+,rheumatoid arthritis,M05779,rheumatoid arthritis with rheumatoid factor of unspecified ankle and foot without organ or systems involvement
+,rheumatoid arthritis,M0579,rheumatoid arthritis with rheumatoid factor of multiple sites without organ or systems involvement
+,rheumatoid arthritis,M058,other rheumatoid arthritis with rheumatoid factor
+,rheumatoid arthritis,M0580,other rheumatoid arthritis with rheumatoid factor of unspecified site
+,rheumatoid arthritis,M0581,other rheumatoid arthritis with rheumatoid factor of shoulder
+,rheumatoid arthritis,M05811,other rheumatoid arthritis with rheumatoid factor of right shoulder
+,rheumatoid arthritis,M05812,other rheumatoid arthritis with rheumatoid factor of left shoulder
+,rheumatoid arthritis,M05819,other rheumatoid arthritis with rheumatoid factor of unspecified shoulder
+,rheumatoid arthritis,M0582,other rheumatoid arthritis with rheumatoid factor of elbow
+,rheumatoid arthritis,M05821,other rheumatoid arthritis with rheumatoid factor of right elbow
+,rheumatoid arthritis,M05822,other rheumatoid arthritis with rheumatoid factor of left elbow
+,rheumatoid arthritis,M05829,other rheumatoid arthritis with rheumatoid factor of unspecified elbow
+,rheumatoid arthritis,M0583,other rheumatoid arthritis with rheumatoid factor of wrist
+,rheumatoid arthritis,M05831,other rheumatoid arthritis with rheumatoid factor of right wrist
+,rheumatoid arthritis,M05832,other rheumatoid arthritis with rheumatoid factor of left wrist
+,rheumatoid arthritis,M05839,other rheumatoid arthritis with rheumatoid factor of unspecified wrist
+,rheumatoid arthritis,M0584,other rheumatoid arthritis with rheumatoid factor of hand
+,rheumatoid arthritis,M05841,other rheumatoid arthritis with rheumatoid factor of right hand
+,rheumatoid arthritis,M05842,other rheumatoid arthritis with rheumatoid factor of left hand
+,rheumatoid arthritis,M05849,other rheumatoid arthritis with rheumatoid factor of unspecified hand
+,rheumatoid arthritis,M0585,other rheumatoid arthritis with rheumatoid factor of hip
+,rheumatoid arthritis,M05851,other rheumatoid arthritis with rheumatoid factor of right hip
+,rheumatoid arthritis,M05852,other rheumatoid arthritis with rheumatoid factor of left hip
+,rheumatoid arthritis,M05859,other rheumatoid arthritis with rheumatoid factor of unspecified hip
+,rheumatoid arthritis,M0586,other rheumatoid arthritis with rheumatoid factor of knee
+,rheumatoid arthritis,M05861,other rheumatoid arthritis with rheumatoid factor of right knee
+,rheumatoid arthritis,M05862,other rheumatoid arthritis with rheumatoid factor of left knee
+,rheumatoid arthritis,M05869,other rheumatoid arthritis with rheumatoid factor of unspecified knee
+,rheumatoid arthritis,M0587,other rheumatoid arthritis with rheumatoid factor of ankle and foot
+,rheumatoid arthritis,M05871,other rheumatoid arthritis with rheumatoid factor of right ankle and foot
+,rheumatoid arthritis,M05872,other rheumatoid arthritis with rheumatoid factor of left ankle and foot
+,rheumatoid arthritis,M05879,other rheumatoid arthritis with rheumatoid factor of unspecified ankle and foot
+,rheumatoid arthritis,M0589,other rheumatoid arthritis with rheumatoid factor of multiple sites
+,rheumatoid arthritis,M059,rheumatoid arthritis with rheumatoid factor
+,rheumatoid arthritis,M06,other rheumatoid arthritis
+,rheumatoid arthritis,M060,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M0600,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M0601,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06011,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06012,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06019,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M0602,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06021,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06022,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06029,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M0603,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06031,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06032,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06039,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M0604,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06041,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06042,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06049,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M0605,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06051,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06052,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06059,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M0606,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06061,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06062,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06069,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M0607,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06071,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06072,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M06079,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M0608,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M0609,rheumatoid arthritis without rheumatoid factor
+,rheumatoid arthritis,M068,other specified rheumatoid arthritis
+,rheumatoid arthritis,M0680,other specified rheumatoid arthritis
+,rheumatoid arthritis,M0681,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06811,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06812,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06819,other specified rheumatoid arthritis
+,rheumatoid arthritis,M0682,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06821,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06822,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06829,other specified rheumatoid arthritis
+,rheumatoid arthritis,M0683,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06831,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06832,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06839,other specified rheumatoid arthritis
+,rheumatoid arthritis,M0684,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06841,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06842,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06849,other specified rheumatoid arthritis
+,rheumatoid arthritis,M0685,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06851,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06852,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06859,other specified rheumatoid arthritis
+,rheumatoid arthritis,M0686,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06861,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06862,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06869,other specified rheumatoid arthritis
+,rheumatoid arthritis,M0687,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06871,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06872,other specified rheumatoid arthritis
+,rheumatoid arthritis,M06879,other specified rheumatoid arthritis
+,rheumatoid arthritis,M0688,other specified rheumatoid arthritis
+,rheumatoid arthritis,M0689,other specified rheumatoid arthritis
+,rheumatoid arthritis,M069,rheumatoid arthritis
+,rheumatoid arthritis,M080,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0800,unspecified juvenile rheumatoid arthritis of unspecified site
+,rheumatoid arthritis,M0801,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08011,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08012,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08019,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0802,unspecified juvenile rheumatoid arthritis of elbow
+,rheumatoid arthritis,M08021,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08022,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08029,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0803,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08031,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08032,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08039,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0804,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08041,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08042,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08049,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0805,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08051,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08052,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08059,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0806,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08061,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08062,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08069,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0807,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08071,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08072,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08079,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0808,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0809,unspecified juvenile rheumatoid arthritis
+,rheumatoid arthritis,M082,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M0820,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M0821,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08211,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08212,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08219,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M0822,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08221,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08222,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08229,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M0823,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08231,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08232,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08239,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M0824,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08241,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08242,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08249,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M0825,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08251,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08252,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08259,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M0826,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08261,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08262,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08269,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M0827,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08271,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08272,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M08279,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M0828,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M0829,juvenile rheumatoid arthritis with systemic onset
+,rheumatoid arthritis,M084,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0840,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0841,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08411,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08412,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08419,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0842,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08421,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08422,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08429,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0843,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08431,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08432,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08439,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0844,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08441,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08442,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08449,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0845,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08451,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08452,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08459,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0846,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08461,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08462,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08469,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0847,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08471,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08472,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M08479,pauciarticular juvenile rheumatoid arthritis
+,rheumatoid arthritis,M0848,pauciarticular juvenile rheumatoid arthritis
+,scoliosis,M41,scoliosis
+,scoliosis,M410,infantile idiopathic scoliosis
+,scoliosis,M4100,infantile idiopathic scoliosis
+,scoliosis,M4102,infantile idiopathic scoliosis
+,scoliosis,M4103,infantile idiopathic scoliosis
+,scoliosis,M4104,infantile idiopathic scoliosis
+,scoliosis,M4105,infantile idiopathic scoliosis
+,scoliosis,M4106,infantile idiopathic scoliosis
+,scoliosis,M4107,infantile idiopathic scoliosis
+,scoliosis,M4108,infantile idiopathic scoliosis
+,scoliosis,M411,juvenile and adolescent idiopathic scoliosis
+,scoliosis,M4111,juvenile idiopathic scoliosis
+,scoliosis,M41112,juvenile idiopathic scoliosis
+,scoliosis,M41113,juvenile idiopathic scoliosis
+,scoliosis,M41114,juvenile idiopathic scoliosis
+,scoliosis,M41115,juvenile idiopathic scoliosis
+,scoliosis,M41116,juvenile idiopathic scoliosis
+,scoliosis,M41117,juvenile idiopathic scoliosis
+,scoliosis,M41119,juvenile idiopathic scoliosis
+,scoliosis,M4112,adolescent scoliosis
+,scoliosis,M41122,adolescent idiopathic scoliosis
+,scoliosis,M41123,adolescent idiopathic scoliosis
+,scoliosis,M41124,adolescent idiopathic scoliosis
+,scoliosis,M41125,adolescent idiopathic scoliosis
+,scoliosis,M41126,adolescent idiopathic scoliosis
+,scoliosis,M41127,adolescent idiopathic scoliosis
+,scoliosis,M41129,adolescent idiopathic scoliosis
+,scoliosis,M412,other idiopathic scoliosis
+,scoliosis,M4120,other idiopathic scoliosis
+,scoliosis,M4122,other idiopathic scoliosis
+,scoliosis,M4123,other idiopathic scoliosis
+,scoliosis,M4124,other idiopathic scoliosis
+,scoliosis,M4125,other idiopathic scoliosis
+,scoliosis,M4126,other idiopathic scoliosis
+,scoliosis,M4127,other idiopathic scoliosis
+,scoliosis,M413,thoracogenic scoliosis
+,scoliosis,M4130,thoracogenic scoliosis
+,scoliosis,M4134,thoracogenic scoliosis
+,scoliosis,M4135,thoracogenic scoliosis
+,scoliosis,M414,neuromuscular scoliosis
+,scoliosis,M4140,neuromuscular scoliosis
+,scoliosis,M4141,neuromuscular scoliosis
+,scoliosis,M4142,neuromuscular scoliosis
+,scoliosis,M4143,neuromuscular scoliosis
+,scoliosis,M4144,neuromuscular scoliosis
+,scoliosis,M4145,neuromuscular scoliosis
+,scoliosis,M4146,neuromuscular scoliosis
+,scoliosis,M4147,neuromuscular scoliosis
+,scoliosis,M415,other secondary scoliosis
+,scoliosis,M4150,other secondary scoliosis
+,scoliosis,M4152,other secondary scoliosis
+,scoliosis,M4153,other secondary scoliosis
+,scoliosis,M4154,other secondary scoliosis
+,scoliosis,M4155,other secondary scoliosis
+,scoliosis,M4156,other secondary scoliosis
+,scoliosis,M4157,other secondary scoliosis
+,scoliosis,M418,other forms of scoliosis
+,scoliosis,M4180,other forms of scoliosis
+,scoliosis,M4182,other forms of scoliosis
+,scoliosis,M4183,other forms of scoliosis
+,scoliosis,M4184,other forms of scoliosis
+,scoliosis,M4185,other forms of scoliosis
+,scoliosis,M4186,other forms of scoliosis
+,scoliosis,M4187,other forms of scoliosis
+,scoliosis,M419,scoliosis
+,scoliosis,M965,postradiation scoliosis
+,end%renal,N186,end stage renal disease
+n,tuberculosis,O980,tuberculosis complicating pregnancy
+n,tuberculosis,O9801,tuberculosis complicating pregnancy
+n,tuberculosis,O98011,tuberculosis complicating pregnancy
+n,tuberculosis,O98012,tuberculosis complicating pregnancy
+n,tuberculosis,O98013,tuberculosis complicating pregnancy
+n,tuberculosis,O98019,tuberculosis complicating pregnancy
+n,tuberculosis,O9802,tuberculosis complicating childbirth
+n,tuberculosis,O9803,tuberculosis complicating the puerperium
+,pneumonia%bact,P236,congenital pneumonia due to other bacterial agents
+,tuberculosis,P370,congenital tuberculosis
+n,pulm%sep,Q214,aortopulmonary septal defect
+,bronchiectasis,Q334,congenital bronchiectasis
+,scoliosis,Q763,congenital scoliosis due to congenital bony malformation
+,scoliosis,Q764,other congenital malformations of spine
+,scoliosis,Q7649,other congenital malformations of spine
+,marfan,Q874,marfan's syndrome
+,marfan,Q8740,marfan's syndrome
+,marfan,Q8741,marfan's syndrome with cardiovascular manifestations
+,marfan,Q87410,marfan's syndrome with aortic dilation
+,marfan,Q87418,marfan's syndrome with other cardiovascular manifestations
+,marfan,Q8742,marfan's syndrome with ocular manifestations
+,marfan,Q8743,marfan's syndrome with skeletal manifestation
+n,tuberculosis,R761,nonspecific reaction to test for tuberculosis
+n,tuberculosis,R7611,nonspecific reaction to tuberculin skin test without active tuberculosis
+n,tuberculosis,R7612,nonspecific reaction to cell mediated immunity measurement of gamma interferon antigen response without active tuberculosis
+,lung%infect,T8633,heart-lung transplant infection
+,lung%infect,T86812,lung transplant infection
+n,tuberculosis,Z111,encounter for screening for respiratory tuberculosis
+n,cystic fibrosis,Z141,cystic fibrosis carrier
+n,tuberculosis,Z201,contact with and (suspected) exposure to tuberculosis
+,scoliosis,Z4782,encounter for orthopedic aftercare following scoliosis surgery
+n,tuberculosis,Z8611,personal history of tuberculosis
+,end%renal,Z992,dependence on renal dialysis

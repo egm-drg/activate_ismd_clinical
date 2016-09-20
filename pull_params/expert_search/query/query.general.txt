@@ -1,0 +1,38 @@
+
+################################################################################
+   (    ("Pulm.*" OR "Lung")
+    AND (   "Infect.*"
+         OR ("Antibiotic.*" AND "Tox.*")
+         OR (    ("Nephro.*" OR "Kidney") 
+             AND "Tox.*"
+            )
+        )
+   )
+OR ("Infect.*" AND "Bronchiectasis")
+OR ("Liposom.*" AND "Antibiotic.*")
+OR (    "Immunosuppress.*" AND "Therapy"
+    AND ("Pulm.*" OR "Lung")
+    AND "Infect.*"
+   )
+OR (    "Tuberculosis" 
+    AND ("Pulm.*" OR "Lung")
+   )
+OR (    ("COPD" OR "Chronic Obstructive Pulmonary Disease")
+    AND "Bronchiectasis"
+   )
+OR (    (   "Antibiotic.*
+         OR (   "Nontuberculosis Mycobacteria"
+             OR "Nontuberculosis Mycobacterial"
+             OR "Nontuberculosis Mycobacterium"
+             OR "Non-tuberculosis Mycobacteria"
+             OR "Non-tuberculosis Mycobacterial"
+             OR "Non-tuberculosis Mycobacterium"
+             OR "Non tuberculosis Mycobacteria"
+             OR "Non tuberculosis Mycobacterial"
+             OR "Non tuberculosis Mycobacterium"
+            )
+        )
+    AND (    "Localized Infusion" 
+         OR ( "Inhaled Treatment" OR "Inhaled Treatments" )
+        )
+   )

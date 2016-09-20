@@ -1,0 +1,12 @@
+
+
+################################################################################
+
+- Pneumonia / Pulmonary Infections - http://www.icd10data.com/ICD10CM/Codes/J00-J99/J09-J18/J18-/J18.9
+- Nontuberculosis Mycobacterium - http://www.icd10data.com/ICD10CM/Codes/A00-B99/A30-A49/A31-/A31.0
+- Tuberculosis - http://www.icd10data.com/ICD10CM/Codes/A00-B99/A15-A19
+- Broncheictasis - http://www.icd10data.com/ICD10CM/Codes/J00-J99/J40-J47/J47-/J47
+- Cystic Fibrosis - http://www.icd10data.com/ICD10CM/Codes/E00-E89/E70-E88/E84-/E84.9
+- Rheumatoid Arthritis / Severe Autoimune conditions - http://www.icd10data.com/ICD10CM/Codes/M00-M99/M05-M14/M0\
+5-
+- Antibiotic generated toxicity, including nephro, oto, ocular, and hepato toxicity

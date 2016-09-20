@@ -1,0 +1,1084 @@
+code|code_type|description|doseage_format|match_term|inclusion_exclusion
+01150|ICD_9|Tuberculous bronchiectasis, unspecified||bronchiectasis|
+01151|ICD_9|Tuberculous bronchiectasis, bacteriological or histological examination not done||bronchiectasis|
+01152|ICD_9|Tuberculous bronchiectasis, bacteriological or histological examination unknown (at present)||bronchiectasis|
+01153|ICD_9|Tuberculous bronchiectasis, tubercle bacilli found (in sputum) by microscopy||bronchiectasis|
+01154|ICD_9|Tuberculous bronchiectasis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||bronchiectasis|
+01155|ICD_9|Tuberculous bronchiectasis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||bronchiectasis|
+01156|ICD_9|Tuberculous bronchiectasis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||bronchiectasis|
+4940|ICD_9|Bronchiectasis without acute exacerbation||bronchiectasis|
+4941|ICD_9|Bronchiectasis with acute exacerbation||bronchiectasis|
+74861|ICD_9|Congenital bronchiectasis||bronchiectasis|
+27700|ICD_9|Cystic fibrosis without mention of meconium ileus||cystic fibrosis|
+27701|ICD_9|Cystic fibrosis with meconium ileus||cystic fibrosis|
+27702|ICD_9|Cystic fibrosis with pulmonary manifestations||cystic fibrosis|
+27703|ICD_9|Cystic fibrosis with gastrointestinal manifestations||cystic fibrosis|
+27709|ICD_9|Cystic fibrosis with other manifestations||cystic fibrosis|
+V776|ICD_9|Screening for cystic fibrosis||cystic fibrosis|
+V8381|ICD_9|Cystic fibrosis gene carrier||cystic fibrosis|
+01005|ICD_9|Primary tuberculous infection, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01006|ICD_9|Primary tuberculous infection, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01010|ICD_9|Tuberculous pleurisy in primary progressive tuberculosis, unspecified||tuberculosis|
+01011|ICD_9|Tuberculous pleurisy in primary progressive tuberculosis, bacteriological or histological examination not done||tuberculosis|
+01012|ICD_9|Tuberculous pleurisy in primary progressive tuberculosis, bacteriological or histological examination unknown (at present)||tuberculosis|
+01013|ICD_9|Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01014|ICD_9|Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01015|ICD_9|Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01016|ICD_9|Tuberculous pleurisy in primary progressive tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01080|ICD_9|Other primary progressive tuberculosis, unspecified||tuberculosis|
+01081|ICD_9|Other primary progressive tuberculosis, bacteriological or histological examination not done||tuberculosis|
+01082|ICD_9|Other primary progressive tuberculosis, bacteriological or histological examination unknown (at present)||tuberculosis|
+01083|ICD_9|Other primary progressive tuberculosis, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01084|ICD_9|Other primary progressive tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01085|ICD_9|Other primary progressive tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01086|ICD_9|Other primary progressive tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01095|ICD_9|Primary tuberculous infection, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01096|ICD_9|Primary tuberculous infection, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01100|ICD_9|Tuberculosis of lung, infiltrative, unspecified||tuberculosis|
+01101|ICD_9|Tuberculosis of lung, infiltrative, bacteriological or histological examination not done||tuberculosis|
+01102|ICD_9|Tuberculosis of lung, infiltrative, bacteriological or histological examination unknown (at present)||tuberculosis|
+01103|ICD_9|Tuberculosis of lung, infiltrative, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01104|ICD_9|Tuberculosis of lung, infiltrative, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01105|ICD_9|Tuberculosis of lung, infiltrative, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01106|ICD_9|Tuberculosis of lung, infiltrative, tubercle bacilli not found bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01110|ICD_9|Tuberculosis of lung, nodular, unspecified||tuberculosis|
+01111|ICD_9|Tuberculosis of lung, nodular, bacteriological or histological examination not done||tuberculosis|
+01112|ICD_9|Tuberculosis of lung, nodular, bacteriological or histological examination unknown (at present)||tuberculosis|
+01113|ICD_9|Tuberculosis of lung, nodular, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01114|ICD_9|Tuberculosis of lung, nodular, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01115|ICD_9|Tuberculosis of lung, nodular, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01116|ICD_9|Tuberculosis of lung, nodular, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01120|ICD_9|Tuberculosis of lung with cavitation, unspecified||tuberculosis|
+01121|ICD_9|Tuberculosis of lung with cavitation, bacteriological or histological examination not done||tuberculosis|
+01122|ICD_9|Tuberculosis of lung with cavitation, bacteriological or histological examination unknown (at present)||tuberculosis|
+01123|ICD_9|Tuberculosis of lung with cavitation, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01124|ICD_9|Tuberculosis of lung with cavitation, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01125|ICD_9|Tuberculosis of lung with cavitation, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01126|ICD_9|Tuberculosis of lung with cavitation, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01130|ICD_9|Tuberculosis of bronchus, unspecified||tuberculosis|
+01131|ICD_9|Tuberculosis of bronchus, bacteriological or histological examination not done||tuberculosis|
+01132|ICD_9|Tuberculosis of bronchus, bacteriological or histological examination unknown (at present)||tuberculosis|
+01133|ICD_9|Tuberculosis of bronchus, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01134|ICD_9|Tuberculosis of bronchus, tubercle bacilli not found (in sputum) by microscopy, but found in bacterial culture||tuberculosis|
+01135|ICD_9|Tuberculosis of bronchus, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01136|ICD_9|Tuberculosis of bronchus, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01145|ICD_9|Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01146|ICD_9|Tuberculous fibrosis of lung, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01155|ICD_9|Tuberculous bronchiectasis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01156|ICD_9|Tuberculous bronchiectasis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01165|ICD_9|Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01166|ICD_9|Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01175|ICD_9|Tuberculous pneumothorax, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01176|ICD_9|Tuberculous pneumothorax, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01180|ICD_9|Other specified pulmonary tuberculosis, unspecified||tuberculosis|
+01181|ICD_9|Other specified pulmonary tuberculosis, bacteriological or histological examination not done||tuberculosis|
+01182|ICD_9|Other specified pulmonary tuberculosis, bacteriological or histological examination unknown (at present)||tuberculosis|
+01183|ICD_9|Other specified pulmonary tuberculosis, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01184|ICD_9|Other specified pulmonary tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01185|ICD_9|Other specified pulmonary tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01186|ICD_9|Other specified pulmonary tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01190|ICD_9|Pulmonary tuberculosis, unspecified, unspecified||tuberculosis|
+01191|ICD_9|Pulmonary tuberculosis, unspecified, bacteriological or histological examination not done||tuberculosis|
+01192|ICD_9|Pulmonary tuberculosis, unspecified, bacteriological or histological examination unknown (at present)||tuberculosis|
+01193|ICD_9|Pulmonary tuberculosis, unspecified, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01194|ICD_9|Pulmonary tuberculosis, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01195|ICD_9|Pulmonary tuberculosis, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01196|ICD_9|Pulmonary tuberculosis, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01205|ICD_9|Tuberculous pleurisy, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01206|ICD_9|Tuberculous pleurisy, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01210|ICD_9|Tuberculosis of intrathoracic lymph nodes, unspecified||tuberculosis|
+01211|ICD_9|Tuberculosis of intrathoracic lymph nodes, bacteriological or histological examination not done||tuberculosis|
+01212|ICD_9|Tuberculosis of intrathoracic lymph nodes, bacteriological or histological examination unknown (at present)||tuberculosis|
+01213|ICD_9|Tuberculosis of intrathoracic lymph nodes, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01214|ICD_9|Tuberculosis of intrathoracic lymph nodes, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01215|ICD_9|Tuberculosis of intrathoracic lymph nodes, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01216|ICD_9|Tuberculosis of intrathoracic lymph nodes, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01220|ICD_9|Isolated tracheal or bronchial tuberculosis, unspecified||tuberculosis|
+01221|ICD_9|Isolated tracheal or bronchial tuberculosis, bacteriological or histological examination not done||tuberculosis|
+01222|ICD_9|Isolated tracheal or bronchial tuberculosis, bacteriological or histological examination unknown (at present)||tuberculosis|
+01223|ICD_9|Isolated tracheal or bronchial tuberculosis, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01224|ICD_9|Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01225|ICD_9|Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01226|ICD_9|Isolated tracheal or bronchial tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01235|ICD_9|Tuberculous laryngitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01236|ICD_9|Tuberculous laryngitis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01280|ICD_9|Other specified respiratory tuberculosis, unspecified||tuberculosis|
+01281|ICD_9|Other specified respiratory tuberculosis, bacteriological or histological examination not done||tuberculosis|
+01282|ICD_9|Other specified respiratory tuberculosis, bacteriological or histological examination unknown (at present)||tuberculosis|
+01283|ICD_9|Other specified respiratory tuberculosis, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01284|ICD_9|Other specified respiratory tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01285|ICD_9|Other specified respiratory tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01286|ICD_9|Other specified respiratory tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01305|ICD_9|Tuberculous meningitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01306|ICD_9|Tuberculous meningitis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01315|ICD_9|Tuberculoma of meninges, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01316|ICD_9|Tuberculoma of meninges, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01325|ICD_9|Tuberculoma of brain, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01326|ICD_9|Tuberculoma of brain, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01335|ICD_9|Tuberculous abscess of brain, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01336|ICD_9|Tuberculous abscess of brain, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01345|ICD_9|Tuberculoma of spinal cord, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01346|ICD_9|Tuberculoma of spinal cord, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01355|ICD_9|Tuberculous abscess of spinal cord, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01356|ICD_9|Tuberculous abscess of spinal cord, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01365|ICD_9|Tuberculous encephalitis or myelitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01366|ICD_9|Tuberculous encephalitis or myelitis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01380|ICD_9|Other specified tuberculosis of central nervous system, unspecified||tuberculosis|
+01381|ICD_9|Other specified tuberculosis of central nervous system, bacteriological or histological examination not done||tuberculosis|
+01382|ICD_9|Other specified tuberculosis of central nervous system, bacteriological or histological examination unknown (at present)||tuberculosis|
+01383|ICD_9|Other specified tuberculosis of central nervous system, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01384|ICD_9|Other specified tuberculosis of central nervous system, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01385|ICD_9|Other specified tuberculosis of central nervous system, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01386|ICD_9|Other specified tuberculosis of central nervous system, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01390|ICD_9|Unspecified tuberculosis of central nervous system, unspecified||tuberculosis|
+01391|ICD_9|Unspecified tuberculosis of central nervous system, bacteriological or histological examination not done||tuberculosis|
+01392|ICD_9|Unspecified tuberculosis of central nervous system, bacteriological or histological examination unknown (at present)||tuberculosis|
+01393|ICD_9|Unspecified tuberculosis of central nervous system, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01394|ICD_9|Unspecified tuberculosis of central nervous system, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01395|ICD_9|Unspecified tuberculosis of central nervous system, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01396|ICD_9|Unspecified tuberculosis of central nervous system, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01405|ICD_9|Tuberculous peritonitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01406|ICD_9|Tuberculous peritonitis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01480|ICD_9|Other tuberculosis of intestines, peritoneum, and mesenteric glands, unspecified||tuberculosis|
+01481|ICD_9|Other tuberculosis of intestines, peritoneum, and mesenteric glands, bacteriological or histological examination not done||tuberculosis|
+01482|ICD_9|Other tuberculosis of intestines, peritoneum, and mesenteric glands, bacteriological or histological examination unknown (at present)||tuberculosis|
+01483|ICD_9|Other tuberculosis of intestines, peritoneum, and mesenteric glands, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01484|ICD_9|Other tuberculosis of intestines, peritoneum, and mesenteric glands, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01485|ICD_9|Other tuberculosis of intestines, peritoneum, and mesenteric glands, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01486|ICD_9|Other tuberculosis of intestines, peritoneum, and mesenteric glands, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01500|ICD_9|Tuberculosis of vertebral column, unspecified||tuberculosis|
+01501|ICD_9|Tuberculosis of vertebral column, bacteriological or histological examination not done||tuberculosis|
+01502|ICD_9|Tuberculosis of vertebral column, bacteriological or histological examination unknown (at present)||tuberculosis|
+01503|ICD_9|Tuberculosis of vertebral column, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01504|ICD_9|Tuberculosis of vertebral column, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01505|ICD_9|Tuberculosis of vertebral column, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01506|ICD_9|Tuberculosis of vertebral column, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01510|ICD_9|Tuberculosis of hip, unspecified||tuberculosis|
+01511|ICD_9|Tuberculosis of hip, bacteriological or histological examination not done||tuberculosis|
+01512|ICD_9|Tuberculosis of hip, bacteriological or histological examination unknown (at present)||tuberculosis|
+01513|ICD_9|Tuberculosis of hip, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01514|ICD_9|Tuberculosis of hip, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01515|ICD_9|Tuberculosis of hip, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01516|ICD_9|Tuberculosis of hip, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01520|ICD_9|Tuberculosis of knee, unspecified||tuberculosis|
+01521|ICD_9|Tuberculosis of knee, bacteriological or histological examination not done||tuberculosis|
+01522|ICD_9|Tuberculosis of knee, bacteriological or histological examination unknown (at present)||tuberculosis|
+01523|ICD_9|Tuberculosis of knee, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01524|ICD_9|Tuberculosis of knee, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01525|ICD_9|Tuberculosis of knee, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01526|ICD_9|Tuberculosis of knee, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01550|ICD_9|Tuberculosis of limb bones, unspecified||tuberculosis|
+01551|ICD_9|Tuberculosis of limb bones, bacteriological or histological examination not done||tuberculosis|
+01552|ICD_9|Tuberculosis of limb bones, bacteriological or histological examination unknown (at present)||tuberculosis|
+01553|ICD_9|Tuberculosis of limb bones, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01554|ICD_9|Tuberculosis of limb bones, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01555|ICD_9|Tuberculosis of limb bones, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01556|ICD_9|Tuberculosis of limb bones, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01560|ICD_9|Tuberculosis of mastoid, unspecified||tuberculosis|
+01561|ICD_9|Tuberculosis of mastoid, bacteriological or histological examination not done||tuberculosis|
+01562|ICD_9|Tuberculosis of mastoid, bacteriological or histological examination unknown (at present)||tuberculosis|
+01563|ICD_9|Tuberculosis of mastoid, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01564|ICD_9|Tuberculosis of mastoid, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01565|ICD_9|Tuberculosis of mastoid, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01566|ICD_9|Tuberculosis of mastoid, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01570|ICD_9|Tuberculosis of other specified bone, unspecified||tuberculosis|
+01571|ICD_9|Tuberculosis of other specified bone, bacteriological or histological examination not done||tuberculosis|
+01572|ICD_9|Tuberculosis of other specified bone, bacteriological or histological examination unknown (at present)||tuberculosis|
+01573|ICD_9|Tuberculosis of other specified bone, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01574|ICD_9|Tuberculosis of other specified bone, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01575|ICD_9|Tuberculosis of other specified bone, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01576|ICD_9|Tuberculosis of other specified bone, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01580|ICD_9|Tuberculosis of other specified joint, unspecified||tuberculosis|
+01581|ICD_9|Tuberculosis of other specified joint, bacteriological or histological examination not done||tuberculosis|
+01582|ICD_9|Tuberculosis of other specified joint, bacteriological or histological examination unknown (at present)||tuberculosis|
+01583|ICD_9|Tuberculosis of other specified joint, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01584|ICD_9|Tuberculosis of other specified joint, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01585|ICD_9|Tuberculosis of other specified joint, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01586|ICD_9|Tuberculosis of other specified joint, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01590|ICD_9|Tuberculosis of unspecified bones and joints, unspecified||tuberculosis|
+01591|ICD_9|Tuberculosis of unspecified bones and joints, bacteriological or histological examination not done||tuberculosis|
+01592|ICD_9|Tuberculosis of unspecified bones and joints, bacteriological or histological examination unknown (at present)||tuberculosis|
+01593|ICD_9|Tuberculosis of unspecified bones and joints, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01594|ICD_9|Tuberculosis of unspecified bones and joints, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01595|ICD_9|Tuberculosis of unspecified bones and joints, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01596|ICD_9|Tuberculosis of unspecified bones and joints, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01600|ICD_9|Tuberculosis of kidney, unspecified||tuberculosis|
+01601|ICD_9|Tuberculosis of kidney, bacteriological or histological examination not done||tuberculosis|
+01602|ICD_9|Tuberculosis of kidney, bacteriological or histological examination unknown (at present)||tuberculosis|
+01603|ICD_9|Tuberculosis of kidney, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01604|ICD_9|Tuberculosis of kidney, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01605|ICD_9|Tuberculosis of kidney, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01606|ICD_9|Tuberculosis of kidney, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01610|ICD_9|Tuberculosis of bladder, unspecified||tuberculosis|
+01611|ICD_9|Tuberculosis of bladder, bacteriological or histological examination not done||tuberculosis|
+01612|ICD_9|Tuberculosis of bladder, bacteriological or histological examination unknown (at present)||tuberculosis|
+01613|ICD_9|Tuberculosis of bladder, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01614|ICD_9|Tuberculosis of bladder, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01615|ICD_9|Tuberculosis of bladder, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01616|ICD_9|Tuberculosis of bladder, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01620|ICD_9|Tuberculosis of ureter, unspecified||tuberculosis|
+01621|ICD_9|Tuberculosis of ureter, bacteriological or histological examination not done||tuberculosis|
+01622|ICD_9|Tuberculosis of ureter, bacteriological or histological examination unknown (at present)||tuberculosis|
+01623|ICD_9|Tuberculosis of ureter, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01624|ICD_9|Tuberculosis of ureter, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01625|ICD_9|Tuberculosis of ureter, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01626|ICD_9|Tuberculosis of ureter, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01630|ICD_9|Tuberculosis of other urinary organs, unspecified||tuberculosis|
+01631|ICD_9|Tuberculosis of other urinary organs, bacteriological or histological examination not done||tuberculosis|
+01632|ICD_9|Tuberculosis of other urinary organs, bacteriological or histological examination unknown (at present)||tuberculosis|
+01633|ICD_9|Tuberculosis of other urinary organs, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01634|ICD_9|Tuberculosis of other urinary organs, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01635|ICD_9|Tuberculosis of other urinary organs, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01636|ICD_9|Tuberculosis of other urinary organs, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01640|ICD_9|Tuberculosis of epididymis, unspecified||tuberculosis|
+01641|ICD_9|Tuberculosis of epididymis, bacteriological or histological examination not done||tuberculosis|
+01642|ICD_9|Tuberculosis of epididymis, bacteriological or histological examination unknown (at present)||tuberculosis|
+01643|ICD_9|Tuberculosis of epididymis, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01644|ICD_9|Tuberculosis of epididymis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01645|ICD_9|Tuberculosis of epididymis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01646|ICD_9|Tuberculosis of epididymis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01650|ICD_9|Tuberculosis of other male genital organs, unspecified||tuberculosis|
+01651|ICD_9|Tuberculosis of other male genital organs, bacteriological or histological examination not done||tuberculosis|
+01652|ICD_9|Tuberculosis of other male genital organs, bacteriological or histological examination unknown (at present)||tuberculosis|
+01653|ICD_9|Tuberculosis of other male genital organs, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01654|ICD_9|Tuberculosis of other male genital organs, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01655|ICD_9|Tuberculosis of other male genital organs, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01656|ICD_9|Tuberculosis of other male genital organs, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01665|ICD_9|Tuberculous oophoritis and salpingitis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01666|ICD_9|Tuberculous oophoritis and salpingitis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01670|ICD_9|Tuberculosis of other female genital organs, unspecified||tuberculosis|
+01671|ICD_9|Tuberculosis of other female genital organs, bacteriological or histological examination not done||tuberculosis|
+01672|ICD_9|Tuberculosis of other female genital organs, bacteriological or histological examination unknown (at present)||tuberculosis|
+01673|ICD_9|Tuberculosis of other female genital organs, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01674|ICD_9|Tuberculosis of other female genital organs, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01675|ICD_9|Tuberculosis of other female genital organs, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01676|ICD_9|Tuberculosis of other female genital organs, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01690|ICD_9|Genitourinary tuberculosis, unspecified, unspecified||tuberculosis|
+01691|ICD_9|Genitourinary tuberculosis, unspecified, bacteriological or histological examination not done||tuberculosis|
+01692|ICD_9|Genitourinary tuberculosis, unspecified, bacteriological or histological examination unknown (at present)||tuberculosis|
+01693|ICD_9|Genitourinary tuberculosis, unspecified, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01694|ICD_9|Genitourinary tuberculosis, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01695|ICD_9|Genitourinary tuberculosis, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01696|ICD_9|Genitourinary tuberculosis, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01700|ICD_9|Tuberculosis of skin and subcutaneous cellular tissue, unspecified||tuberculosis|
+01701|ICD_9|Tuberculosis of skin and subcutaneous cellular tissue, bacteriological or histological examination not done||tuberculosis|
+01702|ICD_9|Tuberculosis of skin and subcutaneous cellular tissue, bacteriological or histological examination unknown (at present)||tuberculosis|
+01703|ICD_9|Tuberculosis of skin and subcutaneous cellular tissue, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01704|ICD_9|Tuberculosis of skin and subcutaneous cellular tissue, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01705|ICD_9|Tuberculosis of skin and subcutaneous cellular tissue, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01706|ICD_9|Tuberculosis of skin and subcutaneous cellular tissue, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01710|ICD_9|Erythema nodosum with hypersensitivity reaction in tuberculosis, unspecified||tuberculosis|
+01711|ICD_9|Erythema nodosum with hypersensitivity reaction in tuberculosis, bacteriological or histological examination not done||tuberculosis|
+01712|ICD_9|Erythema nodosum with hypersensitivity reaction in tuberculosis, bacteriological or histological examination unknown (at present)||tuberculosis|
+01713|ICD_9|Erythema nodosum with hypersensitivity reaction in tuberculosis, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01714|ICD_9|Erythema nodosum with hypersensitivity reaction in tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01715|ICD_9|Erythema nodosum with hypersensitivity reaction in tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01716|ICD_9|Erythema nodosum with hypersensitivity reaction in tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01720|ICD_9|Tuberculosis of peripheral lymph nodes, unspecified||tuberculosis|
+01721|ICD_9|Tuberculosis of peripheral lymph nodes, bacteriological or histological examination not done||tuberculosis|
+01722|ICD_9|Tuberculosis of peripheral lymph nodes, bacteriological or histological examination unknown (at present)||tuberculosis|
+01723|ICD_9|Tuberculosis of peripheral lymph nodes, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01724|ICD_9|Tuberculosis of peripheral lymph nodes, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01725|ICD_9|Tuberculosis of peripheral lymph nodes, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01726|ICD_9|Tuberculosis of peripheral lymph nodes, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01730|ICD_9|Tuberculosis of eye, unspecified||tuberculosis|
+01731|ICD_9|Tuberculosis of eye, bacteriological or histological examination not done||tuberculosis|
+01732|ICD_9|Tuberculosis of eye, bacteriological or histological examination unknown (at present)||tuberculosis|
+01733|ICD_9|Tuberculosis of eye, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01734|ICD_9|Tuberculosis of eye, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01735|ICD_9|Tuberculosis of eye, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01736|ICD_9|Tuberculosis of eye, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01740|ICD_9|Tuberculosis of ear, unspecified||tuberculosis|
+01741|ICD_9|Tuberculosis of ear, bacteriological or histological examination not done||tuberculosis|
+01742|ICD_9|Tuberculosis of ear, bacteriological or histological examination unknown (at present)||tuberculosis|
+01743|ICD_9|Tuberculosis of ear, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01744|ICD_9|Tuberculosis of ear, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01745|ICD_9|Tuberculosis of ear, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01746|ICD_9|Tuberculosis of ear, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01750|ICD_9|Tuberculosis of thyroid gland, unspecified||tuberculosis|
+01751|ICD_9|Tuberculosis of thyroid gland, bacteriological or histological examination not done||tuberculosis|
+01752|ICD_9|Tuberculosis of thyroid gland, bacteriological or histological examination unknown (at present)||tuberculosis|
+01753|ICD_9|Tuberculosis of thyroid gland, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01754|ICD_9|Tuberculosis of thyroid gland, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01755|ICD_9|Tuberculosis of thyroid gland, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01756|ICD_9|Tuberculosis of thyroid gland, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01760|ICD_9|Tuberculosis of adrenal glands, unspecified||tuberculosis|
+01761|ICD_9|Tuberculosis of adrenal glands, bacteriological or histological examination not done||tuberculosis|
+01762|ICD_9|Tuberculosis of adrenal glands, bacteriological or histological examination unknown (at present)||tuberculosis|
+01763|ICD_9|Tuberculosis of adrenal glands, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01764|ICD_9|Tuberculosis of adrenal glands, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01765|ICD_9|Tuberculosis of adrenal glands, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01766|ICD_9|Tuberculosis of adrenal glands, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01770|ICD_9|Tuberculosis of spleen, unspecified||tuberculosis|
+01771|ICD_9|Tuberculosis of spleen, bacteriological or histological examination not done||tuberculosis|
+01772|ICD_9|Tuberculosis of spleen, bacteriological or histological examination unknown (at present)||tuberculosis|
+01773|ICD_9|Tuberculosis of spleen, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01774|ICD_9|Tuberculosis of spleen, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01775|ICD_9|Tuberculosis of spleen, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01776|ICD_9|Tuberculosis of spleen, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01780|ICD_9|Tuberculosis of esophagus, unspecified||tuberculosis|
+01781|ICD_9|Tuberculosis of esophagus, bacteriological or histological examination not done||tuberculosis|
+01782|ICD_9|Tuberculosis of esophagus, bacteriological or histological examination unknown (at present)||tuberculosis|
+01783|ICD_9|Tuberculosis of esophagus, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01784|ICD_9|Tuberculosis of esophagus, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01785|ICD_9|Tuberculosis of esophagus, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01786|ICD_9|Tuberculosis of esophagus, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01790|ICD_9|Tuberculosis of other specified organs, unspecified||tuberculosis|
+01791|ICD_9|Tuberculosis of other specified organs, bacteriological or histological examination not done||tuberculosis|
+01792|ICD_9|Tuberculosis of other specified organs, bacteriological or histological examination unknown (at present)||tuberculosis|
+01793|ICD_9|Tuberculosis of other specified organs, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01794|ICD_9|Tuberculosis of other specified organs, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01795|ICD_9|Tuberculosis of other specified organs, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01796|ICD_9|Tuberculosis of other specified organs, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01800|ICD_9|Acute miliary tuberculosis, unspecified||tuberculosis|
+01801|ICD_9|Acute miliary tuberculosis, bacteriological or histological examination not done||tuberculosis|
+01802|ICD_9|Acute miliary tuberculosis, bacteriological or histological examination unknown (at present)||tuberculosis|
+01803|ICD_9|Acute miliary tuberculosis, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01804|ICD_9|Acute miliary tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01805|ICD_9|Acute miliary tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01806|ICD_9|Acute miliary tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01880|ICD_9|Other specified miliary tuberculosis, unspecified||tuberculosis|
+01881|ICD_9|Other specified miliary tuberculosis, bacteriological or histological examination not done||tuberculosis|
+01882|ICD_9|Other specified miliary tuberculosis, bacteriological or histological examination unknown (at present)||tuberculosis|
+01883|ICD_9|Other specified miliary tuberculosis, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01884|ICD_9|Other specified miliary tuberculosis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01885|ICD_9|Other specified miliary tuberculosis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01886|ICD_9|Other specified miliary tuberculosis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+01890|ICD_9|Miliary tuberculosis, unspecified, unspecified||tuberculosis|
+01891|ICD_9|Miliary tuberculosis, unspecified, bacteriological or histological examination not done||tuberculosis|
+01892|ICD_9|Miliary tuberculosis, unspecified, bacteriological or histological examination unknown (at present)||tuberculosis|
+01893|ICD_9|Miliary tuberculosis, unspecified, tubercle bacilli found (in sputum) by microscopy||tuberculosis|
+01894|ICD_9|Miliary tuberculosis, unspecified, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||tuberculosis|
+01895|ICD_9|Miliary tuberculosis, unspecified, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||tuberculosis|
+01896|ICD_9|Miliary tuberculosis, unspecified, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||tuberculosis|
+1370|ICD_9|Late effects of respiratory or unspecified tuberculosis||tuberculosis|
+1371|ICD_9|Late effects of central nervous system tuberculosis||tuberculosis|
+1372|ICD_9|Late effects of genitourinary tuberculosis||tuberculosis|
+1373|ICD_9|Late effects of tuberculosis of bones and joints||tuberculosis|
+1374|ICD_9|Late effects of tuberculosis of other specified organs||tuberculosis|
+5110|ICD_9|Pleurisy without mention of effusion or current tuberculosis||tuberculosis|
+5111|ICD_9|Pleurisy with effusion, with mention of a bacterial cause other than tuberculosis||tuberculosis|
+64730|ICD_9|Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable||tuberculosis|
+64731|ICD_9|Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition||tuberculosis|
+64732|ICD_9|Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication||tuberculosis|
+64733|ICD_9|Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication||tuberculosis|
+64734|ICD_9|Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium,postpartum condition or complication||tuberculosis|
+79551|ICD_9|Nonspecific reaction to tuberculin skin test without active tuberculosis||tuberculosis|
+79552|ICD_9|Nonspecific reaction to cell mediated immunity measurement of gamma interferon antigen response without active tuberculosis||tuberculosis|
+V011|ICD_9|Contact with or exposure to tuberculosis||tuberculosis|
+V032|ICD_9|Need for prophylactic vaccination and inoculation against tuberculosis [BCG]||tuberculosis|
+V1201|ICD_9|Personal history of tuberculosis||tuberculosis|
+V712|ICD_9|Observation for suspected tuberculosis||tuberculosis|
+V741|ICD_9|Screening examination for pulmonary tuberculosis||tuberculosis|
+0391|ICD_9|Pulmonary actinomycotic infection||pulm.*infect|
+1221|ICD_9|Echinococcus granulosus infection of lung||infect.*lung|
+41512|ICD_9|Septic pulmonary embolism||sep.*pulm|
+01161|ICD_9|Tuberculous pneumonia [any form], bacteriological or histological examination not done||pneumonia.*bact|
+01162|ICD_9|Tuberculous pneumonia [any form], bacteriological or histological examination unknown (at present)||pneumonia.*bact|
+01164|ICD_9|Tuberculous pneumonia [any form], tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture||pneumonia.*bact|
+01165|ICD_9|Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically||pneumonia.*bact|
+01166|ICD_9|Tuberculous pneumonia [any form], tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]||pneumonia.*bact|
+48283|ICD_9|Pneumonia due to other gram-negative bacteria||pneumonia.*bact|
+48289|ICD_9|Pneumonia due to other specified bacteria||pneumonia.*bact|
+4829|ICD_9|Bacterial pneumonia, unspecified||bact.*pneumonia|
+4658|ICD_9|Acute upper respiratory infections of other multiple sites||respiratory.*infect|
+4659|ICD_9|Acute upper respiratory infections of unspecified site||respiratory.*infect|
+7140|ICD_9|Rheumatoid arthritis||rheumatoid arthritis|
+7142|ICD_9|Other rheumatoid arthritis with visceral or systemic involvement||rheumatoid arthritis|
+71430|ICD_9|Polyarticular juvenile rheumatoid arthritis, chronic or unspecified||rheumatoid arthritis|
+71431|ICD_9|Polyarticular juvenile rheumatoid arthritis, acute||rheumatoid arthritis|
+71432|ICD_9|Pauciarticular juvenile rheumatoid arthritis||rheumatoid arthritis|
+71433|ICD_9|Monoarticular juvenile rheumatoid arthritis||rheumatoid arthritis|
+V821|ICD_9|Screening for rheumatoid arthritis||rheumatoid arthritis|
+75982|ICD_9|Marfan syndrome||marfan|
+73730|ICD_9|Scoliosis [and kyphoscoliosis], idiopathic||scoliosis|
+73731|ICD_9|Resolving infantile idiopathic scoliosis||scoliosis|
+73732|ICD_9|Progressive infantile idiopathic scoliosis||scoliosis|
+73733|ICD_9|Scoliosis due to radiation||scoliosis|
+73734|ICD_9|Thoracogenic scoliosis||scoliosis|
+73739|ICD_9|Other kyphoscoliosis and scoliosis||scoliosis|
+73743|ICD_9|Scoliosis associated with other conditions||scoliosis|
+24240|ICD_9|Thyrotoxicosis from ectopic thyroid nodule without mention of thyrotoxic crisis or storm||oto.*tox|
+24241|ICD_9|Thyrotoxicosis from ectopic thyroid nodule with mention of thyrotoxic crisis or storm||oto.*tox|
+24280|ICD_9|Thyrotoxicosis of other specified origin without mention of thyrotoxic crisis or storm||oto.*tox|
+24281|ICD_9|Thyrotoxicosis of other specified origin with mention of thyrotoxic crisis or storm||oto.*tox|
+24290|ICD_9|Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm||oto.*tox|
+24291|ICD_9|Thyrotoxicosis without mention of goiter or other cause, with mention of thyrotoxic crisis or storm||oto.*tox|
+J47|ICD_10|Bronchiectasis||bronchiectasis|
+J470|ICD_10|Bronchiectasis with acute lower respiratory infection||bronchiectasis|
+J471|ICD_10|Bronchiectasis with (acute) exacerbation||bronchiectasis|
+J479|ICD_10|Bronchiectasis, uncomplicated||bronchiectasis|
+Q334|ICD_10|Congenital bronchiectasis||bronchiectasis|
+E84|ICD_10|Cystic fibrosis||cystic fibrosis|
+E840|ICD_10|Cystic fibrosis with pulmonary manifestations||cystic fibrosis|
+E841|ICD_10|Cystic fibrosis with intestinal manifestations||cystic fibrosis|
+E8411|ICD_10|Meconium ileus in cystic fibrosis||cystic fibrosis|
+E8419|ICD_10|Cystic fibrosis with other intestinal manifestations||cystic fibrosis|
+E848|ICD_10|Cystic fibrosis with other manifestations||cystic fibrosis|
+E849|ICD_10|Cystic fibrosis, unspecified||cystic fibrosis|
+Z141|ICD_10|Cystic fibrosis carrier||cystic fibrosis|
+A15|ICD_10|Respiratory tuberculosis||tuberculosis|
+A150|ICD_10|Tuberculosis of lung||tuberculosis|
+A154|ICD_10|Tuberculosis of intrathoracic lymph nodes||tuberculosis|
+A155|ICD_10|Tuberculosis of larynx, trachea and bronchus||tuberculosis|
+A157|ICD_10|Primary respiratory tuberculosis||tuberculosis|
+A158|ICD_10|Other respiratory tuberculosis||tuberculosis|
+A159|ICD_10|Respiratory tuberculosis unspecified||tuberculosis|
+A17|ICD_10|Tuberculosis of nervous system||tuberculosis|
+A178|ICD_10|Other tuberculosis of nervous system||tuberculosis|
+A1789|ICD_10|Other tuberculosis of nervous system||tuberculosis|
+A179|ICD_10|Tuberculosis of nervous system, unspecified||tuberculosis|
+A18|ICD_10|Tuberculosis of other organs||tuberculosis|
+A180|ICD_10|Tuberculosis of bones and joints||tuberculosis|
+A1801|ICD_10|Tuberculosis of spine||tuberculosis|
+A1803|ICD_10|Tuberculosis of other bones||tuberculosis|
+A1809|ICD_10|Other musculoskeletal tuberculosis||tuberculosis|
+A181|ICD_10|Tuberculosis of genitourinary system||tuberculosis|
+A1810|ICD_10|Tuberculosis of genitourinary system, unspecified||tuberculosis|
+A1811|ICD_10|Tuberculosis of kidney and ureter||tuberculosis|
+A1812|ICD_10|Tuberculosis of bladder||tuberculosis|
+A1813|ICD_10|Tuberculosis of other urinary organs||tuberculosis|
+A1814|ICD_10|Tuberculosis of prostate||tuberculosis|
+A1815|ICD_10|Tuberculosis of other male genital organs||tuberculosis|
+A1816|ICD_10|Tuberculosis of cervix||tuberculosis|
+A1818|ICD_10|Tuberculosis of other female genital organs||tuberculosis|
+A183|ICD_10|Tuberculosis of intestines, peritoneum and mesenteric glands||tuberculosis|
+A1839|ICD_10|Retroperitoneal tuberculosis||tuberculosis|
+A184|ICD_10|Tuberculosis of skin and subcutaneous tissue||tuberculosis|
+A185|ICD_10|Tuberculosis of eye||tuberculosis|
+A1850|ICD_10|Tuberculosis of eye, unspecified||tuberculosis|
+A1859|ICD_10|Other tuberculosis of eye||tuberculosis|
+A186|ICD_10|Tuberculosis of (inner) (middle) ear||tuberculosis|
+A187|ICD_10|Tuberculosis of adrenal glands||tuberculosis|
+A188|ICD_10|Tuberculosis of other specified organs||tuberculosis|
+A1881|ICD_10|Tuberculosis of thyroid gland||tuberculosis|
+A1882|ICD_10|Tuberculosis of other endocrine glands||tuberculosis|
+A1883|ICD_10|Tuberculosis of digestive tract organs, not elsewhere classified||tuberculosis|
+A1884|ICD_10|Tuberculosis of heart||tuberculosis|
+A1885|ICD_10|Tuberculosis of spleen||tuberculosis|
+A1889|ICD_10|Tuberculosis of other sites||tuberculosis|
+A19|ICD_10|Miliary tuberculosis||tuberculosis|
+A190|ICD_10|Acute miliary tuberculosis of a single specified site||tuberculosis|
+A191|ICD_10|Acute miliary tuberculosis of multiple sites||tuberculosis|
+A192|ICD_10|Acute miliary tuberculosis, unspecified||tuberculosis|
+A198|ICD_10|Other miliary tuberculosis||tuberculosis|
+A199|ICD_10|Miliary tuberculosis, unspecified||tuberculosis|
+B90|ICD_10|Sequelae of tuberculosis||tuberculosis|
+B900|ICD_10|Sequelae of central nervous system tuberculosis||tuberculosis|
+B901|ICD_10|Sequelae of genitourinary tuberculosis||tuberculosis|
+B902|ICD_10|Sequelae of tuberculosis of bones and joints||tuberculosis|
+B908|ICD_10|Sequelae of tuberculosis of other organs||tuberculosis|
+B909|ICD_10|Sequelae of respiratory and unspecified tuberculosis||tuberculosis|
+J65|ICD_10|Pneumoconiosis associated with tuberculosis||tuberculosis|
+O980|ICD_10|Tuberculosis complicating pregnancy, childbirth and the puerperium||tuberculosis|
+O9801|ICD_10|Tuberculosis complicating pregnancy||tuberculosis|
+O98011|ICD_10|Tuberculosis complicating pregnancy, first trimester||tuberculosis|
+O98012|ICD_10|Tuberculosis complicating pregnancy, second trimester||tuberculosis|
+O98013|ICD_10|Tuberculosis complicating pregnancy, third trimester||tuberculosis|
+O98019|ICD_10|Tuberculosis complicating pregnancy, unspecified trimester||tuberculosis|
+O9802|ICD_10|Tuberculosis complicating childbirth||tuberculosis|
+O9803|ICD_10|Tuberculosis complicating the puerperium||tuberculosis|
+P370|ICD_10|Congenital tuberculosis||tuberculosis|
+R761|ICD_10|Nonspecific reaction to test for tuberculosis||tuberculosis|
+R7611|ICD_10|Nonspecific reaction to tuberculin skin test without active tuberculosis||tuberculosis|
+R7612|ICD_10|Nonspecific reaction to cell mediated immunity measurement of gamma interferon antigen response without active tuberculosis||tuberculosis|
+Z111|ICD_10|Encounter for screening for respiratory tuberculosis||tuberculosis|
+Z201|ICD_10|Contact with and (suspected) exposure to tuberculosis||tuberculosis|
+Z8611|ICD_10|Personal history of tuberculosis||tuberculosis|
+A310|ICD_10|Pulmonary mycobacterial infection||pulm.*infect|
+J440|ICD_10|Chronic obstructive pulmonary disease with acute lower respiratory infection||pulm.*infect|
+B671|ICD_10|Echinococcus granulosus infection of lung||infect.*lung|
+T8633|ICD_10|Heart-lung transplant infection||lung.*infect|
+T86812|ICD_10|Lung transplant infection||lung.*infect|
+I2601|ICD_10|Septic pulmonary embolism with acute cor pulmonale||sep.*pulm|
+I2690|ICD_10|Septic pulmonary embolism without acute cor pulmonale||sep.*pulm|
+Q214|ICD_10|Aortopulmonary septal defect||pulm.*sep|
+J156|ICD_10|Pneumonia due to other aerobic Gram-negative bacteria||pneumonia.*bact|
+J158|ICD_10|Pneumonia due to other specified bacteria||pneumonia.*bact|
+P236|ICD_10|Congenital pneumonia due to other bacterial agents||pneumonia.*bact|
+J15|ICD_10|Bacterial pneumonia, not elsewhere classified||bact.*pneumonia|
+J159|ICD_10|Unspecified bacterial pneumonia||bact.*pneumonia|
+J06|ICD_10|Acute upper respiratory infections of multiple and unspecified sites||respiratory.*infect|
+J069|ICD_10|Acute upper respiratory infection, unspecified||respiratory.*infect|
+J22|ICD_10|Unspecified acute lower respiratory infection||respiratory.*infect|
+J440|ICD_10|Chronic obstructive pulmonary disease with acute lower respiratory infection||respiratory.*infect|
+J470|ICD_10|Bronchiectasis with acute lower respiratory infection||respiratory.*infect|
+M05|ICD_10|Rheumatoid arthritis with rheumatoid factor||rheumatoid arthritis|
+M051|ICD_10|Rheumatoid lung disease with rheumatoid arthritis||rheumatoid arthritis|
+M0510|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of unspecified site||rheumatoid arthritis|
+M0511|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of shoulder||rheumatoid arthritis|
+M05111|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of right shoulder||rheumatoid arthritis|
+M05112|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of left shoulder||rheumatoid arthritis|
+M05119|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of unspecified shoulder||rheumatoid arthritis|
+M0512|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of elbow||rheumatoid arthritis|
+M05121|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of right elbow||rheumatoid arthritis|
+M05122|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of left elbow||rheumatoid arthritis|
+M05129|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of unspecified elbow||rheumatoid arthritis|
+M0513|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of wrist||rheumatoid arthritis|
+M05131|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of right wrist||rheumatoid arthritis|
+M05132|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of left wrist||rheumatoid arthritis|
+M05139|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of unspecified wrist||rheumatoid arthritis|
+M0514|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of hand||rheumatoid arthritis|
+M05141|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of right hand||rheumatoid arthritis|
+M05142|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of left hand||rheumatoid arthritis|
+M05149|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of unspecified hand||rheumatoid arthritis|
+M0515|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of hip||rheumatoid arthritis|
+M05151|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of right hip||rheumatoid arthritis|
+M05152|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of left hip||rheumatoid arthritis|
+M05159|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of unspecified hip||rheumatoid arthritis|
+M0516|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of knee||rheumatoid arthritis|
+M05161|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of right knee||rheumatoid arthritis|
+M05162|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of left knee||rheumatoid arthritis|
+M05169|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of unspecified knee||rheumatoid arthritis|
+M0517|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of ankle and foot||rheumatoid arthritis|
+M05171|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of right ankle and foot||rheumatoid arthritis|
+M05172|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of left ankle and foot||rheumatoid arthritis|
+M05179|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of unspecified ankle and foot||rheumatoid arthritis|
+M0519|ICD_10|Rheumatoid lung disease with rheumatoid arthritis of multiple sites||rheumatoid arthritis|
+M052|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis||rheumatoid arthritis|
+M0520|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of unspecified site||rheumatoid arthritis|
+M0521|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of shoulder||rheumatoid arthritis|
+M05211|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of right shoulder||rheumatoid arthritis|
+M05212|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of left shoulder||rheumatoid arthritis|
+M05219|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of unspecified shoulder||rheumatoid arthritis|
+M0522|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of elbow||rheumatoid arthritis|
+M05221|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of right elbow||rheumatoid arthritis|
+M05222|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of left elbow||rheumatoid arthritis|
+M05229|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of unspecified elbow||rheumatoid arthritis|
+M0523|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of wrist||rheumatoid arthritis|
+M05231|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of right wrist||rheumatoid arthritis|
+M05232|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of left wrist||rheumatoid arthritis|
+M05239|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of unspecified wrist||rheumatoid arthritis|
+M0524|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of hand||rheumatoid arthritis|
+M05241|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of right hand||rheumatoid arthritis|
+M05242|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of left hand||rheumatoid arthritis|
+M05249|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of unspecified hand||rheumatoid arthritis|
+M0525|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of hip||rheumatoid arthritis|
+M05251|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of right hip||rheumatoid arthritis|
+M05252|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of left hip||rheumatoid arthritis|
+M05259|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of unspecified hip||rheumatoid arthritis|
+M0526|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of knee||rheumatoid arthritis|
+M05261|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of right knee||rheumatoid arthritis|
+M05262|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of left knee||rheumatoid arthritis|
+M05269|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of unspecified knee||rheumatoid arthritis|
+M0527|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of ankle and foot||rheumatoid arthritis|
+M05271|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of right ankle and foot||rheumatoid arthritis|
+M05272|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of left ankle and foot||rheumatoid arthritis|
+M05279|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of unspecified ankle and foot||rheumatoid arthritis|
+M0529|ICD_10|Rheumatoid vasculitis with rheumatoid arthritis of multiple sites||rheumatoid arthritis|
+M053|ICD_10|Rheumatoid heart disease with rheumatoid arthritis||rheumatoid arthritis|
+M0530|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of unspecified site||rheumatoid arthritis|
+M0531|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of shoulder||rheumatoid arthritis|
+M05311|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of right shoulder||rheumatoid arthritis|
+M05312|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of left shoulder||rheumatoid arthritis|
+M05319|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of unspecified shoulder||rheumatoid arthritis|
+M0532|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of elbow||rheumatoid arthritis|
+M05321|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of right elbow||rheumatoid arthritis|
+M05322|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of left elbow||rheumatoid arthritis|
+M05329|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of unspecified elbow||rheumatoid arthritis|
+M0533|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of wrist||rheumatoid arthritis|
+M05331|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of right wrist||rheumatoid arthritis|
+M05332|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of left wrist||rheumatoid arthritis|
+M05339|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of unspecified wrist||rheumatoid arthritis|
+M0534|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of hand||rheumatoid arthritis|
+M05341|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of right hand||rheumatoid arthritis|
+M05342|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of left hand||rheumatoid arthritis|
+M05349|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of unspecified hand||rheumatoid arthritis|
+M0535|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of hip||rheumatoid arthritis|
+M05351|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of right hip||rheumatoid arthritis|
+M05352|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of left hip||rheumatoid arthritis|
+M05359|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of unspecified hip||rheumatoid arthritis|
+M0536|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of knee||rheumatoid arthritis|
+M05361|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of right knee||rheumatoid arthritis|
+M05362|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of left knee||rheumatoid arthritis|
+M05369|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of unspecified knee||rheumatoid arthritis|
+M0537|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of ankle and foot||rheumatoid arthritis|
+M05371|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of right ankle and foot||rheumatoid arthritis|
+M05372|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of left ankle and foot||rheumatoid arthritis|
+M05379|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of unspecified ankle and foot||rheumatoid arthritis|
+M0539|ICD_10|Rheumatoid heart disease with rheumatoid arthritis of multiple sites||rheumatoid arthritis|
+M054|ICD_10|Rheumatoid myopathy with rheumatoid arthritis||rheumatoid arthritis|
+M0540|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of unspecified site||rheumatoid arthritis|
+M0541|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of shoulder||rheumatoid arthritis|
+M05411|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of right shoulder||rheumatoid arthritis|
+M05412|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of left shoulder||rheumatoid arthritis|
+M05419|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of unspecified shoulder||rheumatoid arthritis|
+M0542|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of elbow||rheumatoid arthritis|
+M05421|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of right elbow||rheumatoid arthritis|
+M05422|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of left elbow||rheumatoid arthritis|
+M05429|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of unspecified elbow||rheumatoid arthritis|
+M0543|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of wrist||rheumatoid arthritis|
+M05431|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of right wrist||rheumatoid arthritis|
+M05432|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of left wrist||rheumatoid arthritis|
+M05439|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of unspecified wrist||rheumatoid arthritis|
+M0544|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of hand||rheumatoid arthritis|
+M05441|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of right hand||rheumatoid arthritis|
+M05442|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of left hand||rheumatoid arthritis|
+M05449|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of unspecified hand||rheumatoid arthritis|
+M0545|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of hip||rheumatoid arthritis|
+M05451|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of right hip||rheumatoid arthritis|
+M05452|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of left hip||rheumatoid arthritis|
+M05459|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of unspecified hip||rheumatoid arthritis|
+M0546|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of knee||rheumatoid arthritis|
+M05461|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of right knee||rheumatoid arthritis|
+M05462|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of left knee||rheumatoid arthritis|
+M05469|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of unspecified knee||rheumatoid arthritis|
+M0547|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of ankle and foot||rheumatoid arthritis|
+M05471|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of right ankle and foot||rheumatoid arthritis|
+M05472|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of left ankle and foot||rheumatoid arthritis|
+M05479|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of unspecified ankle and foot||rheumatoid arthritis|
+M0549|ICD_10|Rheumatoid myopathy with rheumatoid arthritis of multiple sites||rheumatoid arthritis|
+M055|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis||rheumatoid arthritis|
+M0550|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified site||rheumatoid arthritis|
+M0551|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of shoulder||rheumatoid arthritis|
+M05511|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of right shoulder||rheumatoid arthritis|
+M05512|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of left shoulder||rheumatoid arthritis|
+M05519|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified shoulder||rheumatoid arthritis|
+M0552|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of elbow||rheumatoid arthritis|
+M05521|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of right elbow||rheumatoid arthritis|
+M05522|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of left elbow||rheumatoid arthritis|
+M05529|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified elbow||rheumatoid arthritis|
+M0553|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of wrist||rheumatoid arthritis|
+M05531|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of right wrist||rheumatoid arthritis|
+M05532|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of left wrist||rheumatoid arthritis|
+M05539|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified wrist||rheumatoid arthritis|
+M0554|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of hand||rheumatoid arthritis|
+M05541|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of right hand||rheumatoid arthritis|
+M05542|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of left hand||rheumatoid arthritis|
+M05549|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hand||rheumatoid arthritis|
+M0555|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of hip||rheumatoid arthritis|
+M05551|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of right hip||rheumatoid arthritis|
+M05552|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of left hip||rheumatoid arthritis|
+M05559|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hip||rheumatoid arthritis|
+M0556|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of knee||rheumatoid arthritis|
+M05561|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of right knee||rheumatoid arthritis|
+M05562|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of left knee||rheumatoid arthritis|
+M05569|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified knee||rheumatoid arthritis|
+M0557|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of ankle and foot||rheumatoid arthritis|
+M05571|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of right ankle and foot||rheumatoid arthritis|
+M05572|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of left ankle and foot||rheumatoid arthritis|
+M05579|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified ankle and foot||rheumatoid arthritis|
+M0559|ICD_10|Rheumatoid polyneuropathy with rheumatoid arthritis of multiple sites||rheumatoid arthritis|
+M056|ICD_10|Rheumatoid arthritis with involvement of other organs and systems||rheumatoid arthritis|
+M0560|ICD_10|Rheumatoid arthritis of unspecified site with involvement of other organs and systems||rheumatoid arthritis|
+M0561|ICD_10|Rheumatoid arthritis of shoulder with involvement of other organs and systems||rheumatoid arthritis|
+M05611|ICD_10|Rheumatoid arthritis of right shoulder with involvement of other organs and systems||rheumatoid arthritis|
+M05612|ICD_10|Rheumatoid arthritis of left shoulder with involvement of other organs and systems||rheumatoid arthritis|
+M05619|ICD_10|Rheumatoid arthritis of unspecified shoulder with involvement of other organs and systems||rheumatoid arthritis|
+M0562|ICD_10|Rheumatoid arthritis of elbow with involvement of other organs and systems||rheumatoid arthritis|
+M05621|ICD_10|Rheumatoid arthritis of right elbow with involvement of other organs and systems||rheumatoid arthritis|
+M05622|ICD_10|Rheumatoid arthritis of left elbow with involvement of other organs and systems||rheumatoid arthritis|
+M05629|ICD_10|Rheumatoid arthritis of unspecified elbow with involvement of other organs and systems||rheumatoid arthritis|
+M0563|ICD_10|Rheumatoid arthritis of wrist with involvement of other organs and systems||rheumatoid arthritis|
+M05631|ICD_10|Rheumatoid arthritis of right wrist with involvement of other organs and systems||rheumatoid arthritis|
+M05632|ICD_10|Rheumatoid arthritis of left wrist with involvement of other organs and systems||rheumatoid arthritis|
+M05639|ICD_10|Rheumatoid arthritis of unspecified wrist with involvement of other organs and systems||rheumatoid arthritis|
+M0564|ICD_10|Rheumatoid arthritis of hand with involvement of other organs and systems||rheumatoid arthritis|
+M05641|ICD_10|Rheumatoid arthritis of right hand with involvement of other organs and systems||rheumatoid arthritis|
+M05642|ICD_10|Rheumatoid arthritis of left hand with involvement of other organs and systems||rheumatoid arthritis|
+M05649|ICD_10|Rheumatoid arthritis of unspecified hand with involvement of other organs and systems||rheumatoid arthritis|
+M0565|ICD_10|Rheumatoid arthritis of hip with involvement of other organs and systems||rheumatoid arthritis|
+M05651|ICD_10|Rheumatoid arthritis of right hip with involvement of other organs and systems||rheumatoid arthritis|
+M05652|ICD_10|Rheumatoid arthritis of left hip with involvement of other organs and systems||rheumatoid arthritis|
+M05659|ICD_10|Rheumatoid arthritis of unspecified hip with involvement of other organs and systems||rheumatoid arthritis|
+M0566|ICD_10|Rheumatoid arthritis of knee with involvement of other organs and systems||rheumatoid arthritis|
+M05661|ICD_10|Rheumatoid arthritis of right knee with involvement of other organs and systems||rheumatoid arthritis|
+M05662|ICD_10|Rheumatoid arthritis of left knee with involvement of other organs and systems||rheumatoid arthritis|
+M05669|ICD_10|Rheumatoid arthritis of unspecified knee with involvement of other organs and systems||rheumatoid arthritis|
+M0567|ICD_10|Rheumatoid arthritis of ankle and foot with involvement of other organs and systems||rheumatoid arthritis|
+M05671|ICD_10|Rheumatoid arthritis of right ankle and foot with involvement of other organs and systems||rheumatoid arthritis|
+M05672|ICD_10|Rheumatoid arthritis of left ankle and foot with involvement of other organs and systems||rheumatoid arthritis|
+M05679|ICD_10|Rheumatoid arthritis of unspecified ankle and foot with involvement of other organs and systems||rheumatoid arthritis|
+M0569|ICD_10|Rheumatoid arthritis of multiple sites with involvement of other organs and systems||rheumatoid arthritis|
+M057|ICD_10|Rheumatoid arthritis with rheumatoid factor without organ or systems involvement||rheumatoid arthritis|
+M0570|ICD_10|Rheumatoid arthritis with rheumatoid factor of unspecified site without organ or systems involvement||rheumatoid arthritis|
+M0571|ICD_10|Rheumatoid arthritis with rheumatoid factor of shoulder without organ or systems involvement||rheumatoid arthritis|
+M05711|ICD_10|Rheumatoid arthritis with rheumatoid factor of right shoulder without organ or systems involvement||rheumatoid arthritis|
+M05712|ICD_10|Rheumatoid arthritis with rheumatoid factor of left shoulder without organ or systems involvement||rheumatoid arthritis|
+M05719|ICD_10|Rheumatoid arthritis with rheumatoid factor of unspecified shoulder without organ or systems involvement||rheumatoid arthritis|
+M0572|ICD_10|Rheumatoid arthritis with rheumatoid factor of elbow without organ or systems involvement||rheumatoid arthritis|
+M05721|ICD_10|Rheumatoid arthritis with rheumatoid factor of right elbow without organ or systems involvement||rheumatoid arthritis|
+M05722|ICD_10|Rheumatoid arthritis with rheumatoid factor of left elbow without organ or systems involvement||rheumatoid arthritis|
+M05729|ICD_10|Rheumatoid arthritis with rheumatoid factor of unspecified elbow without organ or systems involvement||rheumatoid arthritis|
+M0573|ICD_10|Rheumatoid arthritis with rheumatoid factor of wrist without organ or systems involvement||rheumatoid arthritis|
+M05731|ICD_10|Rheumatoid arthritis with rheumatoid factor of right wrist without organ or systems involvement||rheumatoid arthritis|
+M05732|ICD_10|Rheumatoid arthritis with rheumatoid factor of left wrist without organ or systems involvement||rheumatoid arthritis|
+M05739|ICD_10|Rheumatoid arthritis with rheumatoid factor of unspecified wrist without organ or systems involvement||rheumatoid arthritis|
+M0574|ICD_10|Rheumatoid arthritis with rheumatoid factor of hand without organ or systems involvement||rheumatoid arthritis|
+M05741|ICD_10|Rheumatoid arthritis with rheumatoid factor of right hand without organ or systems involvement||rheumatoid arthritis|
+M05742|ICD_10|Rheumatoid arthritis with rheumatoid factor of left hand without organ or systems involvement||rheumatoid arthritis|
+M05749|ICD_10|Rheumatoid arthritis with rheumatoid factor of unspecified hand without organ or systems involvement||rheumatoid arthritis|
+M0575|ICD_10|Rheumatoid arthritis with rheumatoid factor of hip without organ or systems involvement||rheumatoid arthritis|
+M05751|ICD_10|Rheumatoid arthritis with rheumatoid factor of right hip without organ or systems involvement||rheumatoid arthritis|
+M05752|ICD_10|Rheumatoid arthritis with rheumatoid factor of left hip without organ or systems involvement||rheumatoid arthritis|
+M05759|ICD_10|Rheumatoid arthritis with rheumatoid factor of unspecified hip without organ or systems involvement||rheumatoid arthritis|
+M0576|ICD_10|Rheumatoid arthritis with rheumatoid factor of knee without organ or systems involvement||rheumatoid arthritis|
+M05761|ICD_10|Rheumatoid arthritis with rheumatoid factor of right knee without organ or systems involvement||rheumatoid arthritis|
+M05762|ICD_10|Rheumatoid arthritis with rheumatoid factor of left knee without organ or systems involvement||rheumatoid arthritis|
+M05769|ICD_10|Rheumatoid arthritis with rheumatoid factor of unspecified knee without organ or systems involvement||rheumatoid arthritis|
+M0577|ICD_10|Rheumatoid arthritis with rheumatoid factor of ankle and foot without organ or systems involvement||rheumatoid arthritis|
+M05771|ICD_10|Rheumatoid arthritis with rheumatoid factor of right ankle and foot without organ or systems involvement||rheumatoid arthritis|
+M05772|ICD_10|Rheumatoid arthritis with rheumatoid factor of left ankle and foot without organ or systems involvement||rheumatoid arthritis|
+M05779|ICD_10|Rheumatoid arthritis with rheumatoid factor of unspecified ankle and foot without organ or systems involvement||rheumatoid arthritis|
+M0579|ICD_10|Rheumatoid arthritis with rheumatoid factor of multiple sites without organ or systems involvement||rheumatoid arthritis|
+M058|ICD_10|Other rheumatoid arthritis with rheumatoid factor||rheumatoid arthritis|
+M0580|ICD_10|Other rheumatoid arthritis with rheumatoid factor of unspecified site||rheumatoid arthritis|
+M0581|ICD_10|Other rheumatoid arthritis with rheumatoid factor of shoulder||rheumatoid arthritis|
+M05811|ICD_10|Other rheumatoid arthritis with rheumatoid factor of right shoulder||rheumatoid arthritis|
+M05812|ICD_10|Other rheumatoid arthritis with rheumatoid factor of left shoulder||rheumatoid arthritis|
+M05819|ICD_10|Other rheumatoid arthritis with rheumatoid factor of unspecified shoulder||rheumatoid arthritis|
+M0582|ICD_10|Other rheumatoid arthritis with rheumatoid factor of elbow||rheumatoid arthritis|
+M05821|ICD_10|Other rheumatoid arthritis with rheumatoid factor of right elbow||rheumatoid arthritis|
+M05822|ICD_10|Other rheumatoid arthritis with rheumatoid factor of left elbow||rheumatoid arthritis|
+M05829|ICD_10|Other rheumatoid arthritis with rheumatoid factor of unspecified elbow||rheumatoid arthritis|
+M0583|ICD_10|Other rheumatoid arthritis with rheumatoid factor of wrist||rheumatoid arthritis|
+M05831|ICD_10|Other rheumatoid arthritis with rheumatoid factor of right wrist||rheumatoid arthritis|
+M05832|ICD_10|Other rheumatoid arthritis with rheumatoid factor of left wrist||rheumatoid arthritis|
+M05839|ICD_10|Other rheumatoid arthritis with rheumatoid factor of unspecified wrist||rheumatoid arthritis|
+M0584|ICD_10|Other rheumatoid arthritis with rheumatoid factor of hand||rheumatoid arthritis|
+M05841|ICD_10|Other rheumatoid arthritis with rheumatoid factor of right hand||rheumatoid arthritis|
+M05842|ICD_10|Other rheumatoid arthritis with rheumatoid factor of left hand||rheumatoid arthritis|
+M05849|ICD_10|Other rheumatoid arthritis with rheumatoid factor of unspecified hand||rheumatoid arthritis|
+M0585|ICD_10|Other rheumatoid arthritis with rheumatoid factor of hip||rheumatoid arthritis|
+M05851|ICD_10|Other rheumatoid arthritis with rheumatoid factor of right hip||rheumatoid arthritis|
+M05852|ICD_10|Other rheumatoid arthritis with rheumatoid factor of left hip||rheumatoid arthritis|
+M05859|ICD_10|Other rheumatoid arthritis with rheumatoid factor of unspecified hip||rheumatoid arthritis|
+M0586|ICD_10|Other rheumatoid arthritis with rheumatoid factor of knee||rheumatoid arthritis|
+M05861|ICD_10|Other rheumatoid arthritis with rheumatoid factor of right knee||rheumatoid arthritis|
+M05862|ICD_10|Other rheumatoid arthritis with rheumatoid factor of left knee||rheumatoid arthritis|
+M05869|ICD_10|Other rheumatoid arthritis with rheumatoid factor of unspecified knee||rheumatoid arthritis|
+M0587|ICD_10|Other rheumatoid arthritis with rheumatoid factor of ankle and foot||rheumatoid arthritis|
+M05871|ICD_10|Other rheumatoid arthritis with rheumatoid factor of right ankle and foot||rheumatoid arthritis|
+M05872|ICD_10|Other rheumatoid arthritis with rheumatoid factor of left ankle and foot||rheumatoid arthritis|
+M05879|ICD_10|Other rheumatoid arthritis with rheumatoid factor of unspecified ankle and foot||rheumatoid arthritis|
+M0589|ICD_10|Other rheumatoid arthritis with rheumatoid factor of multiple sites||rheumatoid arthritis|
+M059|ICD_10|Rheumatoid arthritis with rheumatoid factor, unspecified||rheumatoid arthritis|
+M06|ICD_10|Other rheumatoid arthritis||rheumatoid arthritis|
+M060|ICD_10|Rheumatoid arthritis without rheumatoid factor||rheumatoid arthritis|
+M0600|ICD_10|Rheumatoid arthritis without rheumatoid factor, unspecified site||rheumatoid arthritis|
+M0601|ICD_10|Rheumatoid arthritis without rheumatoid factor, shoulder||rheumatoid arthritis|
+M06011|ICD_10|Rheumatoid arthritis without rheumatoid factor, right shoulder||rheumatoid arthritis|
+M06012|ICD_10|Rheumatoid arthritis without rheumatoid factor, left shoulder||rheumatoid arthritis|
+M06019|ICD_10|Rheumatoid arthritis without rheumatoid factor, unspecified shoulder||rheumatoid arthritis|
+M0602|ICD_10|Rheumatoid arthritis without rheumatoid factor, elbow||rheumatoid arthritis|
+M06021|ICD_10|Rheumatoid arthritis without rheumatoid factor, right elbow||rheumatoid arthritis|
+M06022|ICD_10|Rheumatoid arthritis without rheumatoid factor, left elbow||rheumatoid arthritis|
+M06029|ICD_10|Rheumatoid arthritis without rheumatoid factor, unspecified elbow||rheumatoid arthritis|
+M0603|ICD_10|Rheumatoid arthritis without rheumatoid factor, wrist||rheumatoid arthritis|
+M06031|ICD_10|Rheumatoid arthritis without rheumatoid factor, right wrist||rheumatoid arthritis|
+M06032|ICD_10|Rheumatoid arthritis without rheumatoid factor, left wrist||rheumatoid arthritis|
+M06039|ICD_10|Rheumatoid arthritis without rheumatoid factor, unspecified wrist||rheumatoid arthritis|
+M0604|ICD_10|Rheumatoid arthritis without rheumatoid factor, hand||rheumatoid arthritis|
+M06041|ICD_10|Rheumatoid arthritis without rheumatoid factor, right hand||rheumatoid arthritis|
+M06042|ICD_10|Rheumatoid arthritis without rheumatoid factor, left hand||rheumatoid arthritis|
+M06049|ICD_10|Rheumatoid arthritis without rheumatoid factor, unspecified hand||rheumatoid arthritis|
+M0605|ICD_10|Rheumatoid arthritis without rheumatoid factor, hip||rheumatoid arthritis|
+M06051|ICD_10|Rheumatoid arthritis without rheumatoid factor, right hip||rheumatoid arthritis|
+M06052|ICD_10|Rheumatoid arthritis without rheumatoid factor, left hip||rheumatoid arthritis|
+M06059|ICD_10|Rheumatoid arthritis without rheumatoid factor, unspecified hip||rheumatoid arthritis|
+M0606|ICD_10|Rheumatoid arthritis without rheumatoid factor, knee||rheumatoid arthritis|
+M06061|ICD_10|Rheumatoid arthritis without rheumatoid factor, right knee||rheumatoid arthritis|
+M06062|ICD_10|Rheumatoid arthritis without rheumatoid factor, left knee||rheumatoid arthritis|
+M06069|ICD_10|Rheumatoid arthritis without rheumatoid factor, unspecified knee||rheumatoid arthritis|
+M0607|ICD_10|Rheumatoid arthritis without rheumatoid factor, ankle and foot||rheumatoid arthritis|
+M06071|ICD_10|Rheumatoid arthritis without rheumatoid factor, right ankle and foot||rheumatoid arthritis|
+M06072|ICD_10|Rheumatoid arthritis without rheumatoid factor, left ankle and foot||rheumatoid arthritis|
+M06079|ICD_10|Rheumatoid arthritis without rheumatoid factor, unspecified ankle and foot||rheumatoid arthritis|
+M0608|ICD_10|Rheumatoid arthritis without rheumatoid factor, vertebrae||rheumatoid arthritis|
+M0609|ICD_10|Rheumatoid arthritis without rheumatoid factor, multiple sites||rheumatoid arthritis|
+M068|ICD_10|Other specified rheumatoid arthritis||rheumatoid arthritis|
+M0680|ICD_10|Other specified rheumatoid arthritis, unspecified site||rheumatoid arthritis|
+M0681|ICD_10|Other specified rheumatoid arthritis, shoulder||rheumatoid arthritis|
+M06811|ICD_10|Other specified rheumatoid arthritis, right shoulder||rheumatoid arthritis|
+M06812|ICD_10|Other specified rheumatoid arthritis, left shoulder||rheumatoid arthritis|
+M06819|ICD_10|Other specified rheumatoid arthritis, unspecified shoulder||rheumatoid arthritis|
+M0682|ICD_10|Other specified rheumatoid arthritis, elbow||rheumatoid arthritis|
+M06821|ICD_10|Other specified rheumatoid arthritis, right elbow||rheumatoid arthritis|
+M06822|ICD_10|Other specified rheumatoid arthritis, left elbow||rheumatoid arthritis|
+M06829|ICD_10|Other specified rheumatoid arthritis, unspecified elbow||rheumatoid arthritis|
+M0683|ICD_10|Other specified rheumatoid arthritis, wrist||rheumatoid arthritis|
+M06831|ICD_10|Other specified rheumatoid arthritis, right wrist||rheumatoid arthritis|
+M06832|ICD_10|Other specified rheumatoid arthritis, left wrist||rheumatoid arthritis|
+M06839|ICD_10|Other specified rheumatoid arthritis, unspecified wrist||rheumatoid arthritis|
+M0684|ICD_10|Other specified rheumatoid arthritis, hand||rheumatoid arthritis|
+M06841|ICD_10|Other specified rheumatoid arthritis, right hand||rheumatoid arthritis|
+M06842|ICD_10|Other specified rheumatoid arthritis, left hand||rheumatoid arthritis|
+M06849|ICD_10|Other specified rheumatoid arthritis, unspecified hand||rheumatoid arthritis|
+M0685|ICD_10|Other specified rheumatoid arthritis, hip||rheumatoid arthritis|
+M06851|ICD_10|Other specified rheumatoid arthritis, right hip||rheumatoid arthritis|
+M06852|ICD_10|Other specified rheumatoid arthritis, left hip||rheumatoid arthritis|
+M06859|ICD_10|Other specified rheumatoid arthritis, unspecified hip||rheumatoid arthritis|
+M0686|ICD_10|Other specified rheumatoid arthritis, knee||rheumatoid arthritis|
+M06861|ICD_10|Other specified rheumatoid arthritis, right knee||rheumatoid arthritis|
+M06862|ICD_10|Other specified rheumatoid arthritis, left knee||rheumatoid arthritis|
+M06869|ICD_10|Other specified rheumatoid arthritis, unspecified knee||rheumatoid arthritis|
+M0687|ICD_10|Other specified rheumatoid arthritis, ankle and foot||rheumatoid arthritis|
+M06871|ICD_10|Other specified rheumatoid arthritis, right ankle and foot||rheumatoid arthritis|
+M06872|ICD_10|Other specified rheumatoid arthritis, left ankle and foot||rheumatoid arthritis|
+M06879|ICD_10|Other specified rheumatoid arthritis, unspecified ankle and foot||rheumatoid arthritis|
+M0688|ICD_10|Other specified rheumatoid arthritis, vertebrae||rheumatoid arthritis|
+M0689|ICD_10|Other specified rheumatoid arthritis, multiple sites||rheumatoid arthritis|
+M069|ICD_10|Rheumatoid arthritis, unspecified||rheumatoid arthritis|
+M080|ICD_10|Unspecified juvenile rheumatoid arthritis||rheumatoid arthritis|
+M0800|ICD_10|Unspecified juvenile rheumatoid arthritis of unspecified site||rheumatoid arthritis|
+M0801|ICD_10|Unspecified juvenile rheumatoid arthritis, shoulder||rheumatoid arthritis|
+M08011|ICD_10|Unspecified juvenile rheumatoid arthritis, right shoulder||rheumatoid arthritis|
+M08012|ICD_10|Unspecified juvenile rheumatoid arthritis, left shoulder||rheumatoid arthritis|
+M08019|ICD_10|Unspecified juvenile rheumatoid arthritis, unspecified shoulder||rheumatoid arthritis|
+M0802|ICD_10|Unspecified juvenile rheumatoid arthritis of elbow||rheumatoid arthritis|
+M08021|ICD_10|Unspecified juvenile rheumatoid arthritis, right elbow||rheumatoid arthritis|
+M08022|ICD_10|Unspecified juvenile rheumatoid arthritis, left elbow||rheumatoid arthritis|
+M08029|ICD_10|Unspecified juvenile rheumatoid arthritis, unspecified elbow||rheumatoid arthritis|
+M0803|ICD_10|Unspecified juvenile rheumatoid arthritis, wrist||rheumatoid arthritis|
+M08031|ICD_10|Unspecified juvenile rheumatoid arthritis, right wrist||rheumatoid arthritis|
+M08032|ICD_10|Unspecified juvenile rheumatoid arthritis, left wrist||rheumatoid arthritis|
+M08039|ICD_10|Unspecified juvenile rheumatoid arthritis, unspecified wrist||rheumatoid arthritis|
+M0804|ICD_10|Unspecified juvenile rheumatoid arthritis, hand||rheumatoid arthritis|
+M08041|ICD_10|Unspecified juvenile rheumatoid arthritis, right hand||rheumatoid arthritis|
+M08042|ICD_10|Unspecified juvenile rheumatoid arthritis, left hand||rheumatoid arthritis|
+M08049|ICD_10|Unspecified juvenile rheumatoid arthritis, unspecified hand||rheumatoid arthritis|
+M0805|ICD_10|Unspecified juvenile rheumatoid arthritis, hip||rheumatoid arthritis|
+M08051|ICD_10|Unspecified juvenile rheumatoid arthritis, right hip||rheumatoid arthritis|
+M08052|ICD_10|Unspecified juvenile rheumatoid arthritis, left hip||rheumatoid arthritis|
+M08059|ICD_10|Unspecified juvenile rheumatoid arthritis, unspecified hip||rheumatoid arthritis|
+M0806|ICD_10|Unspecified juvenile rheumatoid arthritis, knee||rheumatoid arthritis|
+M08061|ICD_10|Unspecified juvenile rheumatoid arthritis, right knee||rheumatoid arthritis|
+M08062|ICD_10|Unspecified juvenile rheumatoid arthritis, left knee||rheumatoid arthritis|
+M08069|ICD_10|Unspecified juvenile rheumatoid arthritis, unspecified knee||rheumatoid arthritis|
+M0807|ICD_10|Unspecified juvenile rheumatoid arthritis, ankle and foot||rheumatoid arthritis|
+M08071|ICD_10|Unspecified juvenile rheumatoid arthritis, right ankle and foot||rheumatoid arthritis|
+M08072|ICD_10|Unspecified juvenile rheumatoid arthritis, left ankle and foot||rheumatoid arthritis|
+M08079|ICD_10|Unspecified juvenile rheumatoid arthritis, unspecified ankle and foot||rheumatoid arthritis|
+M0808|ICD_10|Unspecified juvenile rheumatoid arthritis, vertebrae||rheumatoid arthritis|
+M0809|ICD_10|Unspecified juvenile rheumatoid arthritis, multiple sites||rheumatoid arthritis|
+M082|ICD_10|Juvenile rheumatoid arthritis with systemic onset||rheumatoid arthritis|
+M0820|ICD_10|Juvenile rheumatoid arthritis with systemic onset, unspecified site||rheumatoid arthritis|
+M0821|ICD_10|Juvenile rheumatoid arthritis with systemic onset, shoulder||rheumatoid arthritis|
+M08211|ICD_10|Juvenile rheumatoid arthritis with systemic onset, right shoulder||rheumatoid arthritis|
+M08212|ICD_10|Juvenile rheumatoid arthritis with systemic onset, left shoulder||rheumatoid arthritis|
+M08219|ICD_10|Juvenile rheumatoid arthritis with systemic onset, unspecified shoulder||rheumatoid arthritis|
+M0822|ICD_10|Juvenile rheumatoid arthritis with systemic onset, elbow||rheumatoid arthritis|
+M08221|ICD_10|Juvenile rheumatoid arthritis with systemic onset, right elbow||rheumatoid arthritis|
+M08222|ICD_10|Juvenile rheumatoid arthritis with systemic onset, left elbow||rheumatoid arthritis|
+M08229|ICD_10|Juvenile rheumatoid arthritis with systemic onset, unspecified elbow||rheumatoid arthritis|
+M0823|ICD_10|Juvenile rheumatoid arthritis with systemic onset, wrist||rheumatoid arthritis|
+M08231|ICD_10|Juvenile rheumatoid arthritis with systemic onset, right wrist||rheumatoid arthritis|
+M08232|ICD_10|Juvenile rheumatoid arthritis with systemic onset, left wrist||rheumatoid arthritis|
+M08239|ICD_10|Juvenile rheumatoid arthritis with systemic onset, unspecified wrist||rheumatoid arthritis|
+M0824|ICD_10|Juvenile rheumatoid arthritis with systemic onset, hand||rheumatoid arthritis|
+M08241|ICD_10|Juvenile rheumatoid arthritis with systemic onset, right hand||rheumatoid arthritis|
+M08242|ICD_10|Juvenile rheumatoid arthritis with systemic onset, left hand||rheumatoid arthritis|
+M08249|ICD_10|Juvenile rheumatoid arthritis with systemic onset, unspecified hand||rheumatoid arthritis|
+M0825|ICD_10|Juvenile rheumatoid arthritis with systemic onset, hip||rheumatoid arthritis|
+M08251|ICD_10|Juvenile rheumatoid arthritis with systemic onset, right hip||rheumatoid arthritis|
+M08252|ICD_10|Juvenile rheumatoid arthritis with systemic onset, left hip||rheumatoid arthritis|
+M08259|ICD_10|Juvenile rheumatoid arthritis with systemic onset, unspecified hip||rheumatoid arthritis|
+M0826|ICD_10|Juvenile rheumatoid arthritis with systemic onset, knee||rheumatoid arthritis|
+M08261|ICD_10|Juvenile rheumatoid arthritis with systemic onset, right knee||rheumatoid arthritis|
+M08262|ICD_10|Juvenile rheumatoid arthritis with systemic onset, left knee||rheumatoid arthritis|
+M08269|ICD_10|Juvenile rheumatoid arthritis with systemic onset, unspecified knee||rheumatoid arthritis|
+M0827|ICD_10|Juvenile rheumatoid arthritis with systemic onset, ankle and foot||rheumatoid arthritis|
+M08271|ICD_10|Juvenile rheumatoid arthritis with systemic onset, right ankle and foot||rheumatoid arthritis|
+M08272|ICD_10|Juvenile rheumatoid arthritis with systemic onset, left ankle and foot||rheumatoid arthritis|
+M08279|ICD_10|Juvenile rheumatoid arthritis with systemic onset, unspecified ankle and foot||rheumatoid arthritis|
+M0828|ICD_10|Juvenile rheumatoid arthritis with systemic onset, vertebrae||rheumatoid arthritis|
+M0829|ICD_10|Juvenile rheumatoid arthritis with systemic onset, multiple sites||rheumatoid arthritis|
+M084|ICD_10|Pauciarticular juvenile rheumatoid arthritis||rheumatoid arthritis|
+M0840|ICD_10|Pauciarticular juvenile rheumatoid arthritis, unspecified site||rheumatoid arthritis|
+M0841|ICD_10|Pauciarticular juvenile rheumatoid arthritis, shoulder||rheumatoid arthritis|
+M08411|ICD_10|Pauciarticular juvenile rheumatoid arthritis, right shoulder||rheumatoid arthritis|
+M08412|ICD_10|Pauciarticular juvenile rheumatoid arthritis, left shoulder||rheumatoid arthritis|
+M08419|ICD_10|Pauciarticular juvenile rheumatoid arthritis, unspecified shoulder||rheumatoid arthritis|
+M0842|ICD_10|Pauciarticular juvenile rheumatoid arthritis, elbow||rheumatoid arthritis|
+M08421|ICD_10|Pauciarticular juvenile rheumatoid arthritis, right elbow||rheumatoid arthritis|
+M08422|ICD_10|Pauciarticular juvenile rheumatoid arthritis, left elbow||rheumatoid arthritis|
+M08429|ICD_10|Pauciarticular juvenile rheumatoid arthritis, unspecified elbow||rheumatoid arthritis|
+M0843|ICD_10|Pauciarticular juvenile rheumatoid arthritis, wrist||rheumatoid arthritis|
+M08431|ICD_10|Pauciarticular juvenile rheumatoid arthritis, right wrist||rheumatoid arthritis|
+M08432|ICD_10|Pauciarticular juvenile rheumatoid arthritis, left wrist||rheumatoid arthritis|
+M08439|ICD_10|Pauciarticular juvenile rheumatoid arthritis, unspecified wrist||rheumatoid arthritis|
+M0844|ICD_10|Pauciarticular juvenile rheumatoid arthritis, hand||rheumatoid arthritis|
+M08441|ICD_10|Pauciarticular juvenile rheumatoid arthritis, right hand||rheumatoid arthritis|
+M08442|ICD_10|Pauciarticular juvenile rheumatoid arthritis, left hand||rheumatoid arthritis|
+M08449|ICD_10|Pauciarticular juvenile rheumatoid arthritis, unspecified hand||rheumatoid arthritis|
+M0845|ICD_10|Pauciarticular juvenile rheumatoid arthritis, hip||rheumatoid arthritis|
+M08451|ICD_10|Pauciarticular juvenile rheumatoid arthritis, right hip||rheumatoid arthritis|
+M08452|ICD_10|Pauciarticular juvenile rheumatoid arthritis, left hip||rheumatoid arthritis|
+M08459|ICD_10|Pauciarticular juvenile rheumatoid arthritis, unspecified hip||rheumatoid arthritis|
+M0846|ICD_10|Pauciarticular juvenile rheumatoid arthritis, knee||rheumatoid arthritis|
+M08461|ICD_10|Pauciarticular juvenile rheumatoid arthritis, right knee||rheumatoid arthritis|
+M08462|ICD_10|Pauciarticular juvenile rheumatoid arthritis, left knee||rheumatoid arthritis|
+M08469|ICD_10|Pauciarticular juvenile rheumatoid arthritis, unspecified knee||rheumatoid arthritis|
+M0847|ICD_10|Pauciarticular juvenile rheumatoid arthritis, ankle and foot||rheumatoid arthritis|
+M08471|ICD_10|Pauciarticular juvenile rheumatoid arthritis, right ankle and foot||rheumatoid arthritis|
+M08472|ICD_10|Pauciarticular juvenile rheumatoid arthritis, left ankle and foot||rheumatoid arthritis|
+M08479|ICD_10|Pauciarticular juvenile rheumatoid arthritis, unspecified ankle and foot||rheumatoid arthritis|
+M0848|ICD_10|Pauciarticular juvenile rheumatoid arthritis, vertebrae||rheumatoid arthritis|
+Q874|ICD_10|Marfan's syndrome||marfan|
+Q8740|ICD_10|Marfan's syndrome, unspecified||marfan|
+Q8741|ICD_10|Marfan's syndrome with cardiovascular manifestations||marfan|
+Q87410|ICD_10|Marfan's syndrome with aortic dilation||marfan|
+Q87418|ICD_10|Marfan's syndrome with other cardiovascular manifestations||marfan|
+Q8742|ICD_10|Marfan's syndrome with ocular manifestations||marfan|
+Q8743|ICD_10|Marfan's syndrome with skeletal manifestation||marfan|
+M41|ICD_10|Scoliosis||scoliosis|
+M410|ICD_10|Infantile idiopathic scoliosis||scoliosis|
+M4100|ICD_10|Infantile idiopathic scoliosis, site unspecified||scoliosis|
+M4102|ICD_10|Infantile idiopathic scoliosis, cervical region||scoliosis|
+M4103|ICD_10|Infantile idiopathic scoliosis, cervicothoracic region||scoliosis|
+M4104|ICD_10|Infantile idiopathic scoliosis, thoracic region||scoliosis|
+M4105|ICD_10|Infantile idiopathic scoliosis, thoracolumbar region||scoliosis|
+M4106|ICD_10|Infantile idiopathic scoliosis, lumbar region||scoliosis|
+M4107|ICD_10|Infantile idiopathic scoliosis, lumbosacral region||scoliosis|
+M4108|ICD_10|Infantile idiopathic scoliosis, sacral and sacrococcygeal region||scoliosis|
+M411|ICD_10|Juvenile and adolescent idiopathic scoliosis||scoliosis|
+M4111|ICD_10|Juvenile idiopathic scoliosis||scoliosis|
+M41112|ICD_10|Juvenile idiopathic scoliosis, cervical region||scoliosis|
+M41113|ICD_10|Juvenile idiopathic scoliosis, cervicothoracic region||scoliosis|
+M41114|ICD_10|Juvenile idiopathic scoliosis, thoracic region||scoliosis|
+M41115|ICD_10|Juvenile idiopathic scoliosis, thoracolumbar region||scoliosis|
+M41116|ICD_10|Juvenile idiopathic scoliosis, lumbar region||scoliosis|
+M41117|ICD_10|Juvenile idiopathic scoliosis, lumbosacral region||scoliosis|
+M41119|ICD_10|Juvenile idiopathic scoliosis, site unspecified||scoliosis|
+M4112|ICD_10|Adolescent scoliosis||scoliosis|
+M41122|ICD_10|Adolescent idiopathic scoliosis, cervical region||scoliosis|
+M41123|ICD_10|Adolescent idiopathic scoliosis, cervicothoracic region||scoliosis|
+M41124|ICD_10|Adolescent idiopathic scoliosis, thoracic region||scoliosis|
+M41125|ICD_10|Adolescent idiopathic scoliosis, thoracolumbar region||scoliosis|
+M41126|ICD_10|Adolescent idiopathic scoliosis, lumbar region||scoliosis|
+M41127|ICD_10|Adolescent idiopathic scoliosis, lumbosacral region||scoliosis|
+M41129|ICD_10|Adolescent idiopathic scoliosis, site unspecified||scoliosis|
+M412|ICD_10|Other idiopathic scoliosis||scoliosis|
+M4120|ICD_10|Other idiopathic scoliosis, site unspecified||scoliosis|
+M4122|ICD_10|Other idiopathic scoliosis, cervical region||scoliosis|
+M4123|ICD_10|Other idiopathic scoliosis, cervicothoracic region||scoliosis|
+M4124|ICD_10|Other idiopathic scoliosis, thoracic region||scoliosis|
+M4125|ICD_10|Other idiopathic scoliosis, thoracolumbar region||scoliosis|
+M4126|ICD_10|Other idiopathic scoliosis, lumbar region||scoliosis|
+M4127|ICD_10|Other idiopathic scoliosis, lumbosacral region||scoliosis|
+M413|ICD_10|Thoracogenic scoliosis||scoliosis|
+M4130|ICD_10|Thoracogenic scoliosis, site unspecified||scoliosis|
+M4134|ICD_10|Thoracogenic scoliosis, thoracic region||scoliosis|
+M4135|ICD_10|Thoracogenic scoliosis, thoracolumbar region||scoliosis|
+M414|ICD_10|Neuromuscular scoliosis||scoliosis|
+M4140|ICD_10|Neuromuscular scoliosis, site unspecified||scoliosis|
+M4141|ICD_10|Neuromuscular scoliosis, occipito-atlanto-axial region||scoliosis|
+M4142|ICD_10|Neuromuscular scoliosis, cervical region||scoliosis|
+M4143|ICD_10|Neuromuscular scoliosis, cervicothoracic region||scoliosis|
+M4144|ICD_10|Neuromuscular scoliosis, thoracic region||scoliosis|
+M4145|ICD_10|Neuromuscular scoliosis, thoracolumbar region||scoliosis|
+M4146|ICD_10|Neuromuscular scoliosis, lumbar region||scoliosis|
+M4147|ICD_10|Neuromuscular scoliosis, lumbosacral region||scoliosis|
+M415|ICD_10|Other secondary scoliosis||scoliosis|
+M4150|ICD_10|Other secondary scoliosis, site unspecified||scoliosis|
+M4152|ICD_10|Other secondary scoliosis, cervical region||scoliosis|
+M4153|ICD_10|Other secondary scoliosis, cervicothoracic region||scoliosis|
+M4154|ICD_10|Other secondary scoliosis, thoracic region||scoliosis|
+M4155|ICD_10|Other secondary scoliosis, thoracolumbar region||scoliosis|
+M4156|ICD_10|Other secondary scoliosis, lumbar region||scoliosis|
+M4157|ICD_10|Other secondary scoliosis, lumbosacral region||scoliosis|
+M418|ICD_10|Other forms of scoliosis||scoliosis|
+M4180|ICD_10|Other forms of scoliosis, site unspecified||scoliosis|
+M4182|ICD_10|Other forms of scoliosis, cervical region||scoliosis|
+M4183|ICD_10|Other forms of scoliosis, cervicothoracic region||scoliosis|
+M4184|ICD_10|Other forms of scoliosis, thoracic region||scoliosis|
+M4185|ICD_10|Other forms of scoliosis, thoracolumbar region||scoliosis|
+M4186|ICD_10|Other forms of scoliosis, lumbar region||scoliosis|
+M4187|ICD_10|Other forms of scoliosis, lumbosacral region||scoliosis|
+M419|ICD_10|Scoliosis, unspecified||scoliosis|
+M965|ICD_10|Postradiation scoliosis||scoliosis|
+Q763|ICD_10|Congenital scoliosis due to congenital bony malformation||scoliosis|
+Q764|ICD_10|Other congenital malformations of spine, not associated with scoliosis||scoliosis|
+Q7649|ICD_10|Other congenital malformations of spine, not associated with scoliosis||scoliosis|
+Z4782|ICD_10|Encounter for orthopedic aftercare following scoliosis surgery||scoliosis|
+Q600|ICD_10|Renal agenesis, unilateral||renal.*late|
+Q601|ICD_10|Renal agenesis, bilateral||renal.*late|
+Q603|ICD_10|Renal hypoplasia, unilateral||renal.*late|
+Q604|ICD_10|Renal hypoplasia, bilateral||renal.*late|
+E0500|ICD_10|Thyrotoxicosis with diffuse goiter without thyrotoxic crisis or storm||oto.*tox|
+E0501|ICD_10|Thyrotoxicosis with diffuse goiter with thyrotoxic crisis or storm||oto.*tox|
+E051|ICD_10|Thyrotoxicosis with toxic single thyroid nodule||oto.*tox|
+E0510|ICD_10|Thyrotoxicosis with toxic single thyroid nodule without thyrotoxic crisis or storm||oto.*tox|
+E0511|ICD_10|Thyrotoxicosis with toxic single thyroid nodule with thyrotoxic crisis or storm||oto.*tox|
+E052|ICD_10|Thyrotoxicosis with toxic multinodular goiter||oto.*tox|
+E0520|ICD_10|Thyrotoxicosis with toxic multinodular goiter without thyrotoxic crisis or storm||oto.*tox|
+E0521|ICD_10|Thyrotoxicosis with toxic multinodular goiter with thyrotoxic crisis or storm||oto.*tox|
+E0530|ICD_10|Thyrotoxicosis from ectopic thyroid tissue without thyrotoxic crisis or storm||oto.*tox|
+E0531|ICD_10|Thyrotoxicosis from ectopic thyroid tissue with thyrotoxic crisis or storm||oto.*tox|
+E0540|ICD_10|Thyrotoxicosis factitia without thyrotoxic crisis or storm||oto.*tox|
+E0541|ICD_10|Thyrotoxicosis factitia with thyrotoxic crisis or storm||oto.*tox|
+E0580|ICD_10|Other thyrotoxicosis without thyrotoxic crisis or storm||oto.*tox|
+E0581|ICD_10|Other thyrotoxicosis with thyrotoxic crisis or storm||oto.*tox|
+E0590|ICD_10|Thyrotoxicosis, unspecified without thyrotoxic crisis or storm||oto.*tox|
+E0591|ICD_10|Thyrotoxicosis, unspecified with thyrotoxic crisis or storm||oto.*tox|
+H910|ICD_10|Ototoxic hearing loss||oto.*tox|
+H9101|ICD_10|Ototoxic hearing loss, right ear||oto.*tox|
+H9102|ICD_10|Ototoxic hearing loss, left ear||oto.*tox|
+H9103|ICD_10|Ototoxic hearing loss, bilateral||oto.*tox|
+H9109|ICD_10|Ototoxic hearing loss, unspecified ear||oto.*tox|
+L560|ICD_10|Drug phototoxic response||oto.*tox|
+51167020001|NDC|Kalydeco ivacaftor IVACAFTOR Cystic Fibrosis Transmembrane Conductance Regulator Potentiator [EPC],Chloride Channel Activation Potentiators [MoA],Cytochrome P450 3A4 Inhibitors [MoA],Cytochrome P450 2C9 Inhibitors [MoA],P-Glycoprotein Inhibitors [MoA],Cytochrome P450 3A Inhibitors [MoA]|TABLET, FILM COATED|cystic fibrosis|
+51167020002|NDC|Kalydeco ivacaftor IVACAFTOR Cystic Fibrosis Transmembrane Conductance Regulator Potentiator [EPC],Chloride Channel Activation Potentiators [MoA],Cytochrome P450 3A4 Inhibitors [MoA],Cytochrome P450 2C9 Inhibitors [MoA],P-Glycoprotein Inhibitors [MoA],Cytochrome P450 3A Inhibitors [MoA]|TABLET, FILM COATED|cystic fibrosis|
+51167030001|NDC|Kalydeco ivacaftor IVACAFTOR Cystic Fibrosis Transmembrane Conductance Regulator Potentiator [EPC],Chloride Channel Activation Potentiators [MoA],Cytochrome P450 3A4 Inhibitors [MoA],Cytochrome P450 2C9 Inhibitors [MoA],P-Glycoprotein Inhibitors [MoA],Cytochrome P450 3A Inhibitors [MoA]|GRANULE|cystic fibrosis|
+51167040001|NDC|Kalydeco ivacaftor IVACAFTOR Cystic Fibrosis Transmembrane Conductance Regulator Potentiator [EPC],Chloride Channel Activation Potentiators [MoA],Cytochrome P450 3A4 Inhibitors [MoA],Cytochrome P450 2C9 Inhibitors [MoA],P-Glycoprotein Inhibitors [MoA],Cytochrome P450 3A Inhibitors [MoA]|GRANULE|cystic fibrosis|
+51167080901|NDC|ORKAMBI lumacaftor and ivacaftor LUMACAFTOR; IVACAFTOR Cystic Fibrosis Transmembrane Conductance Regulator Potentiator [EPC],Chloride Channel Activation Potentiators [MoA],Cytochrome P450 3A Inducers [MoA],Cytochrome P450 2B6 Inducers [MoA],Cytochrome P450 2C8 Inducers [MoA],Cytochrome P450 2C9 Inducers [MoA],Cytochrome P450 2C19 Inducers [MoA],Cytochrome P450 2C8 Inhibitors [MoA],Cytochrome P450 2C9 Inhibitors [MoA],Cystic Fibrosis Transmembrane Conductance Regulator Potentiator [EPC],Chloride Channel Activation Potentiators [MoA],Cytochrome P450 3A4 Inhibitors [MoA],Cytochrome P450 2C9 Inhibitors [MoA],P-Glycoprotein Inhibitors [MoA],Cytochrome P450 3A Inhibitors [MoA]|TABLET, FILM COATED|cystic fibrosis|
+42023010401|NDC|Aplisol Tuberculin Purified Protein Derivative TUBERCULIN PURIFIED PROTEIN DERIVATIVE Skin Test Antigen [EPC],Tuberculosis Skin Test [EPC],Cell-mediated Immunity [PE],Antigens, Bacterial [Chemical/Ingredient]|INJECTION|tuberculosis|
+42023010405|NDC|Aplisol Tuberculin Purified Protein Derivative TUBERCULIN PURIFIED PROTEIN DERIVATIVE Skin Test Antigen [EPC],Tuberculosis Skin Test [EPC],Cell-mediated Immunity [PE],Antigens, Bacterial [Chemical/Ingredient]|INJECTION|tuberculosis|
+49281075221|NDC|TUBERSOL Tuberculin Purified Protein Derivative TUBERCULIN PURIFIED PROTEIN DERIVATIVE Skin Test Antigen [EPC],Tuberculosis Skin Test [EPC],Cell-mediated Immunity [PE],Antigens, Bacterial [Chemical/Ingredient]|INJECTION, SOLUTION|tuberculosis|
+49281075222|NDC|TUBERSOL Tuberculin Purified Protein Derivative TUBERCULIN PURIFIED PROTEIN DERIVATIVE Skin Test Antigen [EPC],Tuberculosis Skin Test [EPC],Cell-mediated Immunity [PE],Antigens, Bacterial [Chemical/Ingredient]|INJECTION, SOLUTION|tuberculosis|
+54868297201|NDC|TUBERSOL Tuberculin Purified Protein Derivative TUBERCULIN PURIFIED PROTEIN DERIVATIVE Skin Test Antigen [EPC],Tuberculosis Skin Test [EPC],Cell-mediated Immunity [PE],Antigens, Bacterial [Chemical/Ingredient]|INJECTION, SOLUTION|tuberculosis|
+64117040901|NDC|TUBERCULINUM TUBERCULIN PURIFIED PROTEIN DERIVATIVE TUBERCULIN PURIFIED PROTEIN DERIVATIVE Skin Test Antigen [EPC],Tuberculosis Skin Test [EPC],Cell-mediated Immunity [PE],Antigens, Bacterial [Chemical/Ingredient]|PELLET|tuberculosis|
+55714454001|NDC|Hyperactivity - Mental Focus Adrenalinum, Tarentula cubensis, Aconitum nap., Arg. nit., Arsenicum alb., Baptisia, Chamomilla, Cypripedium, Digitalis, Gelsemium, Humulus, Ignatia, Impatiens glandulifera flos, Iodium, Lachesis, Lycopodium, Nat. mur., Nux vom., Scutellaria lateriflora, Staphysag., Stramonium, Theridion, Echinacea, Gingko, Hypericum, Passiflora EPINEPHRINE; CITHARACANTHUS SPINICRUS; ACONITUM NAPELLUS; SILVER NITRATE; ARSENIC TRIOXIDE; BAPTISIA TINCTORIA; MATRICARIA RECUTITA; CYPRIPEDIUM PARVIFOLUM ROOT; DIGITALIS; GELSEMIUM SEMPERVIRENS ROOT; HOPS; STRYCHNOS IGNATII SEED; IMPATIENS GLANDULIFERA FLOWER; IODINE; LACHESIS MUTA VENOM; LYCOPODIUM CLAVATUM SPORE; SODIUM CHLORIDE; STRYCHNOS NUX-VOMICA SEED; SCUTELLARIA LATERIFLORA; DELPHINIUM STAPHISAGRIA SEED; DATURA STRAMONIUM; THERIDION CURASSAVICUM; ECHINACEA, UNSPECIFIED; GINKGO; HYPERICUM PERFORATUM; PASSIFLORA INCARNATA FLOWERING TOP Adrenergic alpha-Agonists [MoA],Adrenergic beta-Agonists [MoA],alpha-Adrenergic Agonist [EPC],beta-Adrenergic Agonist [EPC],Catecholamine [EPC],Catecholamines [Chemical/Ingredient],Non-Standardized Food Allergenic Extract [EPC],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Allergens [Chemical/Ingredient],Dietary Proteins [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Food Additives [Chemical/Ingredient],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|LIQUID|renal.*late|
+55714454002|NDC|Hyperactivity - Mental Focus Adrenalinum, Tarentula cubensis, Aconitum nap., Arg. nit., Arsenicum alb., Baptisia, Chamomilla, Cypripedium, Digitalis, Gelsemium, Humulus, Ignatia, Impatiens glandulifera flos, Iodium, Lachesis, Lycopodium, Nat. mur., Nux vom., Scutellaria lateriflora, Staphysag., Stramonium, Theridion, Echinacea, Gingko, Hypericum, Passiflora EPINEPHRINE; CITHARACANTHUS SPINICRUS; ACONITUM NAPELLUS; SILVER NITRATE; ARSENIC TRIOXIDE; BAPTISIA TINCTORIA; MATRICARIA RECUTITA; CYPRIPEDIUM PARVIFOLUM ROOT; DIGITALIS; GELSEMIUM SEMPERVIRENS ROOT; HOPS; STRYCHNOS IGNATII SEED; IMPATIENS GLANDULIFERA FLOWER; IODINE; LACHESIS MUTA VENOM; LYCOPODIUM CLAVATUM SPORE; SODIUM CHLORIDE; STRYCHNOS NUX-VOMICA SEED; SCUTELLARIA LATERIFLORA; DELPHINIUM STAPHISAGRIA SEED; DATURA STRAMONIUM; THERIDION CURASSAVICUM; ECHINACEA, UNSPECIFIED; GINKGO; HYPERICUM PERFORATUM; PASSIFLORA INCARNATA FLOWERING TOP Adrenergic alpha-Agonists [MoA],Adrenergic beta-Agonists [MoA],alpha-Adrenergic Agonist [EPC],beta-Adrenergic Agonist [EPC],Catecholamine [EPC],Catecholamines [Chemical/Ingredient],Non-Standardized Food Allergenic Extract [EPC],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Allergens [Chemical/Ingredient],Dietary Proteins [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Food Additives [Chemical/Ingredient],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|LIQUID|renal.*late|
+55714454101|NDC|Hyperactivity - Mental Focus Adrenalinum, Tarentula cubensis, Aconitum nap., Arg. nit., Arsenicum alb., Baptisia, Chamomilla, Cypripedium, Digitalis, Gelsemium, Humulus, Ignatia, Impatiens glandulifera flos, Iodium, Lachesis, Lycopodium, Nat. mur., Nux vom., Scutellaria lateriflora, Staphysag., Stramonium, Theridion, Echinacea, Gingko, Hypericum, Passiflora EPINEPHRINE; CITHARACANTHUS SPINICRUS; ACONITUM NAPELLUS; SILVER NITRATE; ARSENIC TRIOXIDE; BAPTISIA TINCTORIA; MATRICARIA RECUTITA; CYPRIPEDIUM PARVIFOLUM ROOT; DIGITALIS; GELSEMIUM SEMPERVIRENS ROOT; HOPS; STRYCHNOS IGNATII SEED; IMPATIENS GLANDULIFERA FLOWER; IODINE; LACHESIS MUTA VENOM; LYCOPODIUM CLAVATUM SPORE; SODIUM CHLORIDE; STRYCHNOS NUX-VOMICA SEED; SCUTELLARIA LATERIFLORA; DELPHINIUM STAPHISAGRIA SEED; DATURA STRAMONIUM; THERIDION CURASSAVICUM; ECHINACEA, UNSPECIFIED; GINKGO; HYPERICUM PERFORATUM; PASSIFLORA INCARNATA FLOWERING TOP Adrenergic alpha-Agonists [MoA],Adrenergic beta-Agonists [MoA],alpha-Adrenergic Agonist [EPC],beta-Adrenergic Agonist [EPC],Catecholamine [EPC],Catecholamines [Chemical/Ingredient],Non-Standardized Food Allergenic Extract [EPC],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Allergens [Chemical/Ingredient],Dietary Proteins [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Food Additives [Chemical/Ingredient],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|PELLET|renal.*late|
+55714454102|NDC|Hyperactivity - Mental Focus Adrenalinum, Tarentula cubensis, Aconitum nap., Arg. nit., Arsenicum alb., Baptisia, Chamomilla, Cypripedium, Digitalis, Gelsemium, Humulus, Ignatia, Impatiens glandulifera flos, Iodium, Lachesis, Lycopodium, Nat. mur., Nux vom., Scutellaria lateriflora, Staphysag., Stramonium, Theridion, Echinacea, Gingko, Hypericum, Passiflora EPINEPHRINE; CITHARACANTHUS SPINICRUS; ACONITUM NAPELLUS; SILVER NITRATE; ARSENIC TRIOXIDE; BAPTISIA TINCTORIA; MATRICARIA RECUTITA; CYPRIPEDIUM PARVIFOLUM ROOT; DIGITALIS; GELSEMIUM SEMPERVIRENS ROOT; HOPS; STRYCHNOS IGNATII SEED; IMPATIENS GLANDULIFERA FLOWER; IODINE; LACHESIS MUTA VENOM; LYCOPODIUM CLAVATUM SPORE; SODIUM CHLORIDE; STRYCHNOS NUX-VOMICA SEED; SCUTELLARIA LATERIFLORA; DELPHINIUM STAPHISAGRIA SEED; DATURA STRAMONIUM; THERIDION CURASSAVICUM; ECHINACEA, UNSPECIFIED; GINKGO; HYPERICUM PERFORATUM; PASSIFLORA INCARNATA FLOWERING TOP Adrenergic alpha-Agonists [MoA],Adrenergic beta-Agonists [MoA],alpha-Adrenergic Agonist [EPC],beta-Adrenergic Agonist [EPC],Catecholamine [EPC],Catecholamines [Chemical/Ingredient],Non-Standardized Food Allergenic Extract [EPC],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Allergens [Chemical/Ingredient],Dietary Proteins [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Food Additives [Chemical/Ingredient],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|PELLET|renal.*late|
+57955153002|NDC|Restless Mind Aconitum ferox, Adrenalinum, Aesculus hippocastanum, flos, Apis mellifica, Argentum nitricum, Avena sativa, Baptisia tinctoria, Mentha piperita, Myosotis arvensis, Phosphorus, Ranunculus bulbosus, Scleranthus annuus, flos, Scutellaria lateriflora, Sumbul, Thyroidinum, Verbena officinalis, flos, Viola odorata ACONITUM FEROX ROOT; EPINEPHRINE; AESCULUS HIPPOCASTANUM FLOWER; APIS MELLIFERA; SILVER NITRATE; AVENA SATIVA FLOWERING TOP; BAPTISIA TINCTORIA ROOT; MENTHA PIPERITA; MYOSOTIS ARVENSIS; PHOSPHORUS; RANUNCULUS BULBOSUS; SCLERANTHUS ANNUUS FLOWERING TOP; SCUTELLARIA LATERIFLORA; FERULA SUMBUL ROOT; THYROID, UNSPECIFIED; VERBENA OFFICINALIS FLOWERING TOP; VIOLA ODORATA Adrenergic alpha-Agonists [MoA],Adrenergic beta-Agonists [MoA],alpha-Adrenergic Agonist [EPC],beta-Adrenergic Agonist [EPC],Catecholamine [EPC],Catecholamines [Chemical/Ingredient],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Bee Venoms [Chemical/Ingredient],Standardized Insect Venom Allergenic Extract [EPC]|LIQUID|renal.*late|
+00023114501|NDC|BOTOX onabotulinumtoxinA BOTULINUM TOXIN TYPE A Acetylcholine Release Inhibitor [EPC],Acetylcholine Release Inhibitors [MoA]|INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION|oto.*tox|
+00023114502|NDC|BOTOX onabotulinumtoxinA BOTULINUM TOXIN TYPE A Acetylcholine Release Inhibitor [EPC],Acetylcholine Release Inhibitors [MoA]|INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION|oto.*tox|
+00023391950|NDC|BOTOX Cosmetic onabotulinumtoxinA BOTULINUM TOXIN TYPE A Acetylcholine Release Inhibitor [EPC],Acetylcholine Release Inhibitors [MoA]|INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION|oto.*tox|
+00023391951|NDC|BOTOX Cosmetic onabotulinumtoxinA BOTULINUM TOXIN TYPE A Acetylcholine Release Inhibitor [EPC],Acetylcholine Release Inhibitors [MoA]|INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION|oto.*tox|
+00023392102|NDC|BOTOX onabotulinumtoxinA BOTULINUM TOXIN TYPE A Acetylcholine Release Inhibitor [EPC],Acetylcholine Release Inhibitors [MoA]|INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION|oto.*tox|
+00023392103|NDC|BOTOX onabotulinumtoxinA BOTULINUM TOXIN TYPE A Acetylcholine Release Inhibitor [EPC],Acetylcholine Release Inhibitors [MoA]|INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION|oto.*tox|
+00023923201|NDC|BOTOX Cosmetic onabotulinumtoxinA BOTULINUM TOXIN TYPE A Acetylcholine Release Inhibitor [EPC],Acetylcholine Release Inhibitors [MoA]|INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION|oto.*tox|
+00023923202|NDC|BOTOX Cosmetic onabotulinumtoxinA BOTULINUM TOXIN TYPE A Acetylcholine Release Inhibitor [EPC],Acetylcholine Release Inhibitors [MoA]|INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION|oto.*tox|
+55714440201|NDC|Eczema Skin Care Antimon. crud., Arsenicum alb., Berber. vulg., Bovista , Bryonia , Cantharis , Chelidonium majus, Croton, Dulcamara, Graphites, Hepar sulph. calc., Lycopodium Mezereum, Nux vom, Petroleum, Pulex irritans, Pulsatilla, Rhus toxicodendron, Sarsaparilla, Sepia, Sulphur iod, Echinacea, Rumex crisp., Taraxacum , Urtica ur., Echinacea, Rumex crisp., Taraxacum, Urtica ur. ANTIMONY TRISULFIDE; ARSENIC TRIOXIDE; BERBERIS VULGARIS ROOT BARK; GIANT PUFFBALL; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CHELIDONIUM MAJUS; CROTON TIGLIUM SEED; SOLANUM DULCAMARA TOP; GRAPHITE; CALCIUM SULFIDE; LYCOPODIUM CLAVATUM SPORE; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; KEROSENE; PULEX IRRITANS; PULSATILLA VULGARIS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; SEPIA OFFICINALIS JUICE; SULFUR IODIDE; ECHINACEA ANGUSTIFOLIA; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS; ECHINACEA ANGUSTIFOLIA; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS Calcium [Chemical/Ingredient],Calcium [EPC],Phosphate Binder [EPC],Phosphate Chelating Activity [MoA],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|LIQUID|oto.*tox|
+55714440202|NDC|Eczema Skin Care Antimon. crud., Arsenicum alb., Berber. vulg., Bovista , Bryonia , Cantharis , Chelidonium majus, Croton, Dulcamara, Graphites, Hepar sulph. calc., Lycopodium Mezereum, Nux vom, Petroleum, Pulex irritans, Pulsatilla, Rhus toxicodendron, Sarsaparilla, Sepia, Sulphur iod, Echinacea, Rumex crisp., Taraxacum , Urtica ur., Echinacea, Rumex crisp., Taraxacum, Urtica ur. ANTIMONY TRISULFIDE; ARSENIC TRIOXIDE; BERBERIS VULGARIS ROOT BARK; GIANT PUFFBALL; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CHELIDONIUM MAJUS; CROTON TIGLIUM SEED; SOLANUM DULCAMARA TOP; GRAPHITE; CALCIUM SULFIDE; LYCOPODIUM CLAVATUM SPORE; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; KEROSENE; PULEX IRRITANS; PULSATILLA VULGARIS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; SEPIA OFFICINALIS JUICE; SULFUR IODIDE; ECHINACEA ANGUSTIFOLIA; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS; ECHINACEA ANGUSTIFOLIA; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS Calcium [Chemical/Ingredient],Calcium [EPC],Phosphate Binder [EPC],Phosphate Chelating Activity [MoA],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|LIQUID|oto.*tox|
+55714440301|NDC|Eczema Skin Care Antimon. crud., Arsenicum alb., Berber. vulg., Bovista , Bryonia , Cantharis , Chelidonium majus, Croton, Dulcamara, Graphites, Hepar sulph. calc., Lycopodium Mezereum, Nux vom, Petroleum, Pulex irritans, Pulsatilla, Rhus toxicodendron, Sarsaparilla, Sepia, Sulphur iod, Echinacea, Rumex crisp., Taraxacum , Urtica ur. ANTIMONY TRISULFIDE; ARSENIC TRIOXIDE; BERBERIS VULGARIS ROOT BARK; GIANT PUFFBALL; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CHELIDONIUM MAJUS; CROTON TIGLIUM SEED; SOLANUM DULCAMARA TOP; GRAPHITE; CALCIUM SULFIDE; LYCOPODIUM CLAVATUM SPORE; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; KEROSENE; PULEX IRRITANS; PULSATILLA VULGARIS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; SEPIA OFFICINALIS JUICE; SULFUR IODIDE; ECHINACEA, UNSPECIFIED; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|PELLET|oto.*tox|
+55714440302|NDC|Eczema Skin Care Antimon. crud., Arsenicum alb., Berber. vulg., Bovista , Bryonia , Cantharis , Chelidonium majus, Croton, Dulcamara, Graphites, Hepar sulph. calc., Lycopodium Mezereum, Nux vom, Petroleum, Pulex irritans, Pulsatilla, Rhus toxicodendron, Sarsaparilla, Sepia, Sulphur iod, Echinacea, Rumex crisp., Taraxacum , Urtica ur. ANTIMONY TRISULFIDE; ARSENIC TRIOXIDE; BERBERIS VULGARIS ROOT BARK; GIANT PUFFBALL; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CHELIDONIUM MAJUS; CROTON TIGLIUM SEED; SOLANUM DULCAMARA TOP; GRAPHITE; CALCIUM SULFIDE; LYCOPODIUM CLAVATUM SPORE; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; KEROSENE; PULEX IRRITANS; PULSATILLA VULGARIS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; SEPIA OFFICINALIS JUICE; SULFUR IODIDE; ECHINACEA, UNSPECIFIED; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|PELLET|oto.*tox|
+55714445201|NDC|Herpes Sores Arsenicum alb., Bryonia, Cantharis, Chelidonium majus, Cistus canadensis, Conium, Croton, Dulcamara, Graphites, Kali bic., Lycopodium, Mezereum, Nux vom., Petroleum, Pulsatilla, Ranunc. bulb., Rhus toxicodendron, Sarsaparilla, Sepia, Sulphur, Thuja occ., Echinacea, Hypericum ARSENIC TRIOXIDE; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CHELIDONIUM MAJUS; HELIANTHEMUM CANADENSE; CONIUM MACULATUM FLOWERING TOP; CROTON TIGLIUM SEED; SOLANUM DULCAMARA TOP; GRAPHITE; POTASSIUM DICHROMATE; LYCOPODIUM CLAVATUM SPORE; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; KEROSENE; PULSATILLA VULGARIS; RANUNCULUS BULBOSUS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; SEPIA OFFICINALIS JUICE; SULFUR; THUJA OCCIDENTALIS LEAFY TWIG; ECHINACEA, UNSPECIFIED; HYPERICUM PERFORATUM Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|LIQUID|oto.*tox|
+55714445202|NDC|Herpes Sores Arsenicum alb., Bryonia, Cantharis, Chelidonium majus, Cistus canadensis, Conium, Croton, Dulcamara, Graphites, Kali bic., Lycopodium, Mezereum, Nux vom., Petroleum, Pulsatilla, Ranunc. bulb., Rhus toxicodendron, Sarsaparilla, Sepia, Sulphur, Thuja occ., Echinacea, Hypericum ARSENIC TRIOXIDE; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CHELIDONIUM MAJUS; HELIANTHEMUM CANADENSE; CONIUM MACULATUM FLOWERING TOP; CROTON TIGLIUM SEED; SOLANUM DULCAMARA TOP; GRAPHITE; POTASSIUM DICHROMATE; LYCOPODIUM CLAVATUM SPORE; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; KEROSENE; PULSATILLA VULGARIS; RANUNCULUS BULBOSUS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; SEPIA OFFICINALIS JUICE; SULFUR; THUJA OCCIDENTALIS LEAFY TWIG; ECHINACEA, UNSPECIFIED; HYPERICUM PERFORATUM Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|LIQUID|oto.*tox|
+55714445301|NDC|Herpes Sores Arsenicum alb., Bryonia, Cantharis, Chelidonium majus, Cistus canadensis, Conium, Croton, Dulcamara, Graphites, Kali bic., Lycopodium, Mezereum, Nux vom., Petroleum, Pulsatilla, Ranunc. bulb., Rhus toxicodendron, Sarsaparilla, Sepia, Sulphur, Thuja occ., Echinacea, Hypericum ARSENIC TRIOXIDE; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CHELIDONIUM MAJUS; HELIANTHEMUM CANADENSE; CONIUM MACULATUM FLOWERING TOP; CROTON TIGLIUM SEED; SOLANUM DULCAMARA TOP; GRAPHITE; POTASSIUM DICHROMATE; LYCOPODIUM CLAVATUM SPORE; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; KEROSENE; PULSATILLA VULGARIS; RANUNCULUS BULBOSUS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; SEPIA OFFICINALIS JUICE; SULFUR; THUJA OCCIDENTALIS LEAFY TWIG; ECHINACEA, UNSPECIFIED; HYPERICUM PERFORATUM Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|PELLET|oto.*tox|
+55714445302|NDC|Herpes Sores Arsenicum alb., Bryonia, Cantharis, Chelidonium majus, Cistus canadensis, Conium, Croton, Dulcamara, Graphites, Kali bic., Lycopodium, Mezereum, Nux vom., Petroleum, Pulsatilla, Ranunc. bulb., Rhus toxicodendron, Sarsaparilla, Sepia, Sulphur, Thuja occ., Echinacea, Hypericum ARSENIC TRIOXIDE; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CHELIDONIUM MAJUS; HELIANTHEMUM CANADENSE; CONIUM MACULATUM FLOWERING TOP; CROTON TIGLIUM SEED; SOLANUM DULCAMARA TOP; GRAPHITE; POTASSIUM DICHROMATE; LYCOPODIUM CLAVATUM SPORE; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; KEROSENE; PULSATILLA VULGARIS; RANUNCULUS BULBOSUS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; SEPIA OFFICINALIS JUICE; SULFUR; THUJA OCCIDENTALIS LEAFY TWIG; ECHINACEA, UNSPECIFIED; HYPERICUM PERFORATUM Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|PELLET|oto.*tox|
+55714447601|NDC|Poison Ivy Xerophyllum asphodeloides, Aconitum nap., Anacardium occidentale, Apis mel., Bryonia, Cantharis, Croton, Graphites, Grindelia, Mezereum, Nux vom., Ranunc. bulb., Rhus toxicodendron, Sarsaparilla, Sulphur, Echinacea, Rumex crisp., Taraxacum, Urtica ur. XEROPHYLLUM ASPHODELOIDES; ACONITUM NAPELLUS; ANACARDIUM OCCIDENTALE FRUIT; APIS MELLIFERA; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CROTON TIGLIUM SEED; GRAPHITE; GRINDELIA HIRSUTULA FLOWERING TOP; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; RANUNCULUS BULBOSUS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; ECHINACEA, UNSPECIFIED; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS; SULFUR Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Bee Venoms [Chemical/Ingredient],Standardized Insect Venom Allergenic Extract [EPC],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|LIQUID|oto.*tox|
+55714447602|NDC|Poison Ivy Xerophyllum asphodeloides, Aconitum nap., Anacardium occidentale, Apis mel., Bryonia, Cantharis, Croton, Graphites, Grindelia, Mezereum, Nux vom., Ranunc. bulb., Rhus toxicodendron, Sarsaparilla, Sulphur, Echinacea, Rumex crisp., Taraxacum, Urtica ur. XEROPHYLLUM ASPHODELOIDES; ACONITUM NAPELLUS; ANACARDIUM OCCIDENTALE FRUIT; APIS MELLIFERA; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CROTON TIGLIUM SEED; GRAPHITE; GRINDELIA HIRSUTULA FLOWERING TOP; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; RANUNCULUS BULBOSUS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; ECHINACEA, UNSPECIFIED; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS; SULFUR Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Bee Venoms [Chemical/Ingredient],Standardized Insect Venom Allergenic Extract [EPC],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|LIQUID|oto.*tox|
+55714447701|NDC|Poison Ivy Xerophyllum asphodeloides, Aconitum nap., Anacardium occidentale, Apis mel., Bryonia, Cantharis, Croton, Graphites, Grindelia, Mezereum, Nux vom., Ranunc. bulb., Rhus toxicodendron, Sarsaparilla, Sulphur, Echinacea, Rumex crisp., Taraxacum, Urtica ur. XEROPHYLLUM ASPHODELOIDES; ACONITUM NAPELLUS; ANACARDIUM OCCIDENTALE FRUIT; APIS MELLIFERA; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CROTON TIGLIUM SEED; GRAPHITE; GRINDELIA HIRSUTULA FLOWERING TOP; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; RANUNCULUS BULBOSUS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; ECHINACEA, UNSPECIFIED; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS; SULFUR Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Bee Venoms [Chemical/Ingredient],Standardized Insect Venom Allergenic Extract [EPC],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|PELLET|oto.*tox|
+55714447702|NDC|Poison Ivy Xerophyllum asphodeloides, Aconitum nap., Anacardium occidentale, Apis mel., Bryonia, Cantharis, Croton, Graphites, Grindelia, Mezereum, Nux vom., Ranunc. bulb., Rhus toxicodendron, Sarsaparilla, Sulphur, Echinacea, Rumex crisp., Taraxacum, Urtica ur. XEROPHYLLUM ASPHODELOIDES; ACONITUM NAPELLUS; ANACARDIUM OCCIDENTALE FRUIT; APIS MELLIFERA; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CROTON TIGLIUM SEED; GRAPHITE; GRINDELIA HIRSUTULA FLOWERING TOP; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; RANUNCULUS BULBOSUS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; ECHINACEA, UNSPECIFIED; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS; SULFUR Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Bee Venoms [Chemical/Ingredient],Standardized Insect Venom Allergenic Extract [EPC],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|PELLET|oto.*tox|
+55714452801|NDC|Urticaria - Rashes Antimon. crud., Apis mel., Arsenicum alb., Berber. vulg., Bovista, Bryonia, Cantharis, Chelidonium majus, Croton, Dulcamara, Graphites, Histaminum hydrochloricum, Lycopodium, Mezereum , Nux vom., Petroleum, Pulex irritans, Pulsatilla, Rhus toxicodendron, Sarsaparilla, Sulphur, Echinacea, Rumex crisp., Taraxacum, Urtica ur. ANTIMONY TRISULFIDE; APIS MELLIFERA; ARSENIC TRIOXIDE; BERBERIS VULGARIS ROOT BARK; GIANT PUFFBALL; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CHELIDONIUM MAJUS; CROTON TIGLIUM SEED; SOLANUM DULCAMARA TOP; GRAPHITE; HISTAMINE DIHYDROCHLORIDE; LYCOPODIUM CLAVATUM SPORE; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; KEROSENE; PULEX IRRITANS; PULSATILLA VULGARIS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; SULFUR; ECHINACEA, UNSPECIFIED; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Bee Venoms [Chemical/Ingredient],Standardized Insect Venom Allergenic Extract [EPC],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|LIQUID|oto.*tox|
+55714452802|NDC|Urticaria - Rashes Antimon. crud., Apis mel., Arsenicum alb., Berber. vulg., Bovista, Bryonia, Cantharis, Chelidonium majus, Croton, Dulcamara, Graphites, Histaminum hydrochloricum, Lycopodium, Mezereum , Nux vom., Petroleum, Pulex irritans, Pulsatilla, Rhus toxicodendron, Sarsaparilla, Sulphur, Echinacea, Rumex crisp., Taraxacum, Urtica ur. ANTIMONY TRISULFIDE; APIS MELLIFERA; ARSENIC TRIOXIDE; BERBERIS VULGARIS ROOT BARK; GIANT PUFFBALL; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CHELIDONIUM MAJUS; CROTON TIGLIUM SEED; SOLANUM DULCAMARA TOP; GRAPHITE; HISTAMINE DIHYDROCHLORIDE; LYCOPODIUM CLAVATUM SPORE; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; KEROSENE; PULEX IRRITANS; PULSATILLA VULGARIS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; SULFUR; ECHINACEA, UNSPECIFIED; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Bee Venoms [Chemical/Ingredient],Standardized Insect Venom Allergenic Extract [EPC],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|LIQUID|oto.*tox|
+55714452901|NDC|Urticaria - Rashes Antimon. crud., Apis mel., Arsenicum alb., Berber. vulg., Bovista, Bryonia, Cantharis, Chelidonium majus, Croton, Dulcamara, Graphites, Histaminum hydrochloricum, Lycopodium, Mezereum , Nux vom., Petroleum, Pulex irritans, Pulsatilla, Rhus toxicodendron, Sarsaparilla, Sulphur, Echinacea, Rumex crisp., Taraxacum, Urtica ur. ANTIMONY TRISULFIDE; APIS MELLIFERA; ARSENIC TRIOXIDE; BERBERIS VULGARIS ROOT BARK; GIANT PUFFBALL; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CHELIDONIUM MAJUS; CROTON TIGLIUM SEED; SOLANUM DULCAMARA TOP; GRAPHITE; HISTAMINE DIHYDROCHLORIDE; LYCOPODIUM CLAVATUM SPORE; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; KEROSENE; PULEX IRRITANS; PULSATILLA VULGARIS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; SULFUR; ECHINACEA, UNSPECIFIED; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Bee Venoms [Chemical/Ingredient],Standardized Insect Venom Allergenic Extract [EPC],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|PELLET|oto.*tox|
+55714452902|NDC|Urticaria - Rashes Antimon. crud., Apis mel., Arsenicum alb., Berber. vulg., Bovista, Bryonia, Cantharis, Chelidonium majus, Croton, Dulcamara, Graphites, Histaminum hydrochloricum, Lycopodium, Mezereum , Nux vom., Petroleum, Pulex irritans, Pulsatilla, Rhus toxicodendron, Sarsaparilla, Sulphur, Echinacea, Rumex crisp., Taraxacum, Urtica ur. ANTIMONY TRISULFIDE; APIS MELLIFERA; ARSENIC TRIOXIDE; BERBERIS VULGARIS ROOT BARK; GIANT PUFFBALL; BRYONIA ALBA ROOT; LYTTA VESICATORIA; CHELIDONIUM MAJUS; CROTON TIGLIUM SEED; SOLANUM DULCAMARA TOP; GRAPHITE; HISTAMINE DIHYDROCHLORIDE; LYCOPODIUM CLAVATUM SPORE; DAPHNE MEZEREUM BARK; STRYCHNOS NUX-VOMICA SEED; KEROSENE; PULEX IRRITANS; PULSATILLA VULGARIS; TOXICODENDRON PUBESCENS LEAF; SMILAX REGELII ROOT; SULFUR; ECHINACEA, UNSPECIFIED; RUMEX CRISPUS ROOT; TARAXACUM OFFICINALE; URTICA URENS Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Bee Venoms [Chemical/Ingredient],Standardized Insect Venom Allergenic Extract [EPC],Non-Standardized Plant Allergenic Extract [EPC],Increased Histamine Release [PE],Cell-mediated Immunity [PE],Increased IgG Production [PE],Allergens [Chemical/Ingredient],Plant Proteins [Chemical/Ingredient],Seed Storage Proteins [Chemical/Ingredient]|PELLET|oto.*tox|
+62856060301|NDC|Ontak denileukin diftitox DENILEUKIN DIFTITOX CD25-directed Cytotoxin [EPC],Diphtheria Toxin [Chemical/Ingredient],Interleukin-2 [Chemical/Ingredient],Recombinant Fusion Proteins [Chemical/Ingredient]|INJECTION, SOLUTION|oto.*tox|
+68403110006|NDC|BabyBIG human botulinum neurotoxin a/b immune globulin HUMAN BOTULINUM NEUROTOXIN A/B IMMUNE GLOBULIN Human Immunoglobulin G [EPC],Passively Acquired Immunity [PE],Bacterial Neurotoxin Neutralization [MoA],Antitoxins [Chemical/Ingredient]|INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION|oto.*tox|
+G9313|HCPCS|Amoxicillin, with or without clavulanate, not prescribed as first line antibiotic at the time of diagnosis for documented reason (eg, cystic fibrosis, immotile cilia disorders, ciliary dyskinesia, immune deficiency, prior history of sinus surgery within t||cystic fibrosis|
+S3835|HCPCS|Complete gene sequence analysis for cystic fibrosis genetic testing||cystic fibrosis|
+G8490|HCPCS|I intend to report the rheumatoid arthritis (ra) measures group||rheumatoid arthritis|
+G8499|HCPCS|All quality actions for the applicable measures in the rheumatoid arthritis (ra) measures group have been performed for this patient||rheumatoid arthritis|
+E0744|HCPCS|Neuromuscular stimulator for scoliosis||scoliosis|
+L1005|HCPCS|Tension based scoliosis orthosis and accessory pads, includes fitting and adjustment||scoliosis|
+L1010|HCPCS|Addition to cervical-thoracic-lumbar-sacral orthosis (ctlso) or scoliosis orthosis, axilla sling||scoliosis|
+L1020|HCPCS|Addition to ctlso or scoliosis orthosis, kyphosis pad||scoliosis|
+L1025|HCPCS|Addition to ctlso or scoliosis orthosis, kyphosis pad, floating||scoliosis|
+L1030|HCPCS|Addition to ctlso or scoliosis orthosis, lumbar bolster pad||scoliosis|
+L1040|HCPCS|Addition to ctlso or scoliosis orthosis, lumbar or lumbar rib pad||scoliosis|
+L1050|HCPCS|Addition to ctlso or scoliosis orthosis, sternal pad||scoliosis|
+L1060|HCPCS|Addition to ctlso or scoliosis orthosis, thoracic pad||scoliosis|
+L1070|HCPCS|Addition to ctlso or scoliosis orthosis, trapezius sling||scoliosis|
+L1080|HCPCS|Addition to ctlso or scoliosis orthosis, outrigger||scoliosis|
+L1085|HCPCS|Addition to ctlso or scoliosis orthosis, outrigger, bilateral with vertical extensions||scoliosis|
+L1090|HCPCS|Addition to ctlso or scoliosis orthosis, lumbar sling||scoliosis|
+L1100|HCPCS|Addition to ctlso or scoliosis orthosis, ring flange, plastic or leather||scoliosis|
+L1110|HCPCS|Addition to ctlso or scoliosis orthosis, ring flange, plastic or leather, molded to patient model||scoliosis|
+L1120|HCPCS|Addition to ctlso, scoliosis orthosis, cover for upright, each||scoliosis|
+L1300|HCPCS|Other scoliosis procedure, body jacket molded to patient model||scoliosis|
+L1310|HCPCS|Other scoliosis procedure, post-operative body jacket||scoliosis|
+G8975|HCPCS|Documentation of medical reason(s) for patient having a hemoglobin level < 10 g/dl (e.g., patients who have non-renal etiologies of anemia [e.g., sickle cell anemia or other hemoglobinopathies, hypersplenism, primary bone marrow disease, anemia related to||renal.*late|
